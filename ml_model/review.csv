@@ -1,0 +1,1237 @@
+product_id,product_name,category,review_text,rating,timestamp,reviewer_id,language_type
+P001,Samsung Galaxy S23,Electronics,"Excellent phone! Camera quality is top notch 📸 Battery lasts whole day easily",5,2024-01-15,R001,english
+P001,Samsung Galaxy S23,Electronics,"Phone acha hai but price thoda zyada hai. Camera bahut badhiya hai 👍",4,2024-01-16,R002,hindi_english_mixed
+P001,Samsung Galaxy S23,Electronics,"ಬಹಳ ಚೆನ್ನಾಗಿದೆ! Camera super aagide. Battery backup thumba good",5,2024-01-17,R003,kannada_english_mixed
+P001,Samsung Galaxy S23,Electronics,"worst phone ever!!!!! hangs every 5 minuts. dont buy this peace of junk",1,2024-01-18,R004,english_with_typos
+P001,Samsung Galaxy S23,Electronics,"Heating issue is terrible. Phone becomes like a heater after 10 mins of use 🔥🔥",2,2024-02-20,R005,english
+P001,Samsung Galaxy S23,Electronics,"Heating problem detected within week. Gets too hot during charging and gaming",2,2024-02-22,R006,english
+P001,Samsung Galaxy S23,Electronics,"Phone heats up very quickly. Heating issue makes it uncomfortable to hold",2,2024-02-25,R007,english
+P001,Samsung Galaxy S23,Electronics,"Overheating is serious concern. Device getting hot even with normal usage",2,2024-02-28,R008,english
+P001,Samsung Galaxy S23,Electronics,"Heating problem is unbearable. Phone burns my hand during calls",1,2024-03-02,R009,english
+P001,Samsung Galaxy S23,Electronics,"Great phone but heating issue is major drawback. Otherwise perfect",3,2024-03-05,R010,english
+
+P002,Nike Air Max Shoes,Fashion,"Comfortable shoes 👟 but size runs small. Order one size up!",4,2024-01-10,R011,english
+P002,Nike Air Max Shoes,Fashion,"Shoes bahut comfortable hai. Quality bhi acchi hai. Highly recommended!",5,2024-01-12,R012,hindi_english_mixed
+P002,Nike Air Max Shoes,Fashion,"ಚಪ್ಪಲಿ ತುಂಬಾ comfortable aagide but price jasti aagide",4,2024-01-13,R013,kannada_english_mixed
+P002,Nike Air Max Shoes,Fashion,"worst quality fake nike. sole started coming of after 2 days only 😡",1,2024-01-14,R014,english_with_typos
+P002,Nike Air Max Shoes,Fashion,"Amazing shoes! Worth every penny. Quality is superb 💯",5,2024-01-15,R015,english
+P002,Nike Air Max Shoes,Fashion,"Shoes ache hain lekin delivery time bahut lamba tha. 2 weeks laga",3,2024-01-16,R016,hindi_english_mixed
+P002,Nike Air Max Shoes,Fashion,"Nice shoes. Comfortable for long walks. Good cushioning support",4,2024-01-17,R017,english
+P002,Nike Air Max Shoes,Fashion,"Oh sure, these shoes will definitely last forever... NOT! Broke in a week 🙄",1,2024-01-18,R018,sarcastic
+P002,Nike Air Max Shoes,Fashion,"Shoes super aagide! ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ. Running ke liye perfect hai",5,2024-01-19,R019,multilingual_mixed
+P002,Nike Air Max Shoes,Fashion,"good shoes good shoes good shoes good shoes good shoes good shoes",4,2024-01-20,R020,repetitive_bot_like
+
+P003,Boat Airdopes 141,Electronics,"Sound quality is mind blowing 🎵 Bass is heavy and clear. Best in budget!",5,2024-01-05,R021,english
+P003,Boat Airdopes 141,Electronics,"Badhiya hai! Sound quality ekdum mast hai. Paisa vasool product",5,2024-01-06,R022,hindi_english_mixed
+P003,Boat Airdopes 141,Electronics,"ಸೂಪರ್ product! Bass thumba chennagide. Value for money definitely",5,2024-01-07,R023,kannada_english_mixed
+P003,Boat Airdopes 141,Electronics,"terable sound quality. cant even here properly. waist of mony",1,2024-01-08,R024,english_with_typos
+P003,Boat Airdopes 141,Electronics,"Connection drops frequently 📱 Very frustrating during calls and music",2,2024-01-09,R025,english
+P003,Boat Airdopes 141,Electronics,"Battery backup bahut kam hai. Only 2-3 hours chalti hai",2,2024-01-10,R026,hindi_english_mixed
+P003,Boat Airdopes 141,Electronics,"Great product! Sound quality amazing. Comfortable fit in ears 👂",5,2024-01-11,R027,english
+P003,Boat Airdopes 141,Electronics,"Yeah, because who doesn't love earbuds that die in 2 hours? Revolutionary! 🤦",1,2024-01-12,R028,sarcastic
+P003,Boat Airdopes 141,Electronics,"Sound thumba clear aagide. ಬ್ಯಾಟರಿ backup also good. Recommended",4,2024-01-13,R029,kannada_english_mixed
+P003,Boat Airdopes 141,Electronics,"best product best product best product amazing amazing amazing",5,2024-01-14,R030,repetitive_bot_like
+
+P004,Prestige Induction Cooktop,Home_Appliances,"Works perfectly! Heats up quickly and temperature control is excellent",5,2024-01-20,R031,english
+P004,Prestige Induction Cooktop,Home_Appliances,"Bahut accha hai. Cooking easy ho gaya hai iske saath. Energy saving bhi hai",5,2024-01-21,R032,hindi_english_mixed
+P004,Prestige Induction Cooktop,Home_Appliances,"ತುಂಬಾ useful aagide. Cooking fast aagutte. Easy to clean also",5,2024-01-22,R033,kannada_english_mixed
+P004,Prestige Induction Cooktop,Home_Appliances,"not working proparly. makes lot of nois. very bad prodact",1,2024-01-23,R034,english_with_typos
+P004,Prestige Induction Cooktop,Home_Appliances,"Good product but gets too hot from bottom. Need to be careful",3,2024-01-24,R035,english
+P004,Prestige Induction Cooktop,Home_Appliances,"Achha hai lekin thoda expensive. But quality bahut badhiya hai 👍",4,2024-01-25,R036,hindi_english_mixed
+P004,Prestige Induction Cooktop,Home_Appliances,"Excellent induction! Energy efficient and cooks food evenly",5,2024-01-26,R037,english
+P004,Prestige Induction Cooktop,Home_Appliances,"Because spending 5000 rupees to boil water faster is totally necessary 😏",2,2024-01-27,R038,sarcastic
+P004,Prestige Induction Cooktop,Home_Appliances,"Super product! ಬೇಗ heat aagutte. Cooking time save aagutte",5,2024-01-28,R039,kannada_english_mixed
+P004,Prestige Induction Cooktop,Home_Appliances,"good good good excellent excellent excellent buy buy buy now now now",5,2024-01-29,R040,repetitive_bot_like
+
+P005,Philips Air Fryer,Home_Appliances,"Amazing air fryer! 😍 Food comes out crispy and healthy. No oil needed",5,2024-02-01,R041,english
+P005,Philips Air Fryer,Home_Appliances,"Bahut badhiya hai! Oil free cooking. Health ke liye best hai",5,2024-02-02,R042,hindi_english_mixed
+P005,Philips Air Fryer,Home_Appliances,"Super aagide! ತುಂಬಾ healthy cooking madbahudu. Kids also loves it",5,2024-02-03,R043,kannada_english_mixed
+P005,Philips Air Fryer,Home_Appliances,"totaly usless. food not cooked proparly. burnt from outsid raw from insid",1,2024-02-04,R044,english_with_typos
+P005,Philips Air Fryer,Home_Appliances,"Good product but capacity is small. Can cook only for 2 people at a time",3,2024-02-05,R045,english
+P005,Philips Air Fryer,Home_Appliances,"Air fryer accha hai. Cleaning bhi easy hai. Recommended for health conscious",4,2024-02-06,R046,hindi_english_mixed
+P005,Philips Air Fryer,Home_Appliances,"Perfect for small family. Makes delicious crispy food without oil 🍟",5,2024-02-07,R047,english
+P005,Philips Air Fryer,Home_Appliances,"Oh wonderful, another gadget to clutter my kitchen. Just what I needed! 🙄",2,2024-02-08,R048,sarcastic
+P005,Philips Air Fryer,Home_Appliances,"Thumba chennaagide! Healthy cooking aagutte. ಎಣ್ಣೆ ಬೇಡ only air enough",5,2024-02-09,R049,kannada_english_mixed
+P005,Philips Air Fryer,Home_Appliances,"best best best perfect perfect perfect amazing amazing amazing",5,2024-02-10,R050,repetitive_bot_like
+
+P006,HP Pavilion Laptop,Electronics,"Excellent laptop for daily use! 💻 Fast performance and good battery life",5,2024-02-11,R051,english
+P006,HP Pavilion Laptop,Electronics,"Laptop bahut achha hai. Speed bhi fast hai. Office work ke liye perfect",5,2024-02-12,R052,hindi_english_mixed
+P006,HP Pavilion Laptop,Electronics,"ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ! Fast working aagutte. Battery backup also superb",5,2024-02-13,R053,kannada_english_mixed
+P006,HP Pavilion Laptop,Electronics,"very slow laptop. hangs alot. not worth the prise at all 😡",1,2024-02-14,R054,english_with_typos
+P006,HP Pavilion Laptop,Electronics,"Good laptop but keyboard quality could be better. Otherwise satisfied",4,2024-02-15,R055,english
+P006,HP Pavilion Laptop,Electronics,"Laptop theek hai. Screen quality acchi hai. Gaming ke liye not suitable",3,2024-02-16,R056,hindi_english_mixed
+P006,HP Pavilion Laptop,Electronics,"Great performance! Multitasking is smooth. Highly recommended 👍",5,2024-02-17,R057,english
+P006,HP Pavilion Laptop,Electronics,"Sure, heating up like an oven is a 'feature'. Thanks HP! 🔥",2,2024-02-18,R058,sarcastic
+P006,HP Pavilion Laptop,Electronics,"Laptop super! Work fast aagutte. ಬ್ಯಾಟರಿ long lasting. Value for money",5,2024-02-19,R059,kannada_english_mixed
+P006,HP Pavilion Laptop,Electronics,"excellent excellent excellent buy buy buy good good good laptop laptop",5,2024-02-20,R060,repetitive_bot_like
+
+P007,Puma Sports T-Shirt,Fashion,"Comfortable fabric! 👕 Perfect for workouts. Doesn't stick to body during sweat",5,2024-02-21,R061,english
+P007,Puma Sports T-Shirt,Fashion,"Bahut comfortable hai. Fabric quality bhi acchi hai. Gym ke liye best",5,2024-02-22,R062,hindi_english_mixed
+P007,Puma Sports T-Shirt,Fashion,"Super comfortable aagide! ಬೆವರು bandaga bega dry aagutte. Good quality",5,2024-02-23,R063,kannada_english_mixed
+P007,Puma Sports T-Shirt,Fashion,"fake puma. color faded after 1 wash only. very bad qualitty",1,2024-02-24,R064,english_with_typos
+P007,Puma Sports T-Shirt,Fashion,"Good t-shirt but size is slightly smaller than expected. Go for larger size",4,2024-02-25,R065,english
+P007,Puma Sports T-Shirt,Fashion,"T-shirt accha hai. Material comfortable hai. Price thoda high hai though",4,2024-02-26,R066,hindi_english_mixed
+P007,Puma Sports T-Shirt,Fashion,"Excellent quality! Fabric breathes well. Perfect for running 🏃",5,2024-02-27,R067,english
+P007,Puma Sports T-Shirt,Fashion,"Amazing how a t-shirt can shrink 2 sizes in one wash. Science! 🧪",1,2024-02-28,R068,sarcastic
+P007,Puma Sports T-Shirt,Fashion,"Thumba comfortable! Running madoke super aagide. ಬಟ್ಟೆ quality good",5,2024-02-29,R069,kannada_english_mixed
+P007,Puma Sports T-Shirt,Fashion,"good good good nice nice nice comfort comfort comfort fit fit fit",5,2024-03-01,R070,repetitive_bot_like
+
+P008,Milton Water Bottle,Home_Appliances,"Keeps water cold for 24 hours! 💧 No leakage at all. Durable and sturdy",5,2024-03-02,R071,english
+P008,Milton Water Bottle,Home_Appliances,"Bahut accha bottle hai. Paani thanda rehta hai. Travel ke liye perfect",5,2024-03-03,R072,hindi_english_mixed
+P008,Milton Water Bottle,Home_Appliances,"ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ! Water cold aagutte full day. Strong bottle",5,2024-03-04,R073,kannada_english_mixed
+P008,Milton Water Bottle,Home_Appliances,"leakage problam. water came out from cap. very bed quality product",1,2024-03-05,R074,english_with_typos
+P008,Milton Water Bottle,Home_Appliances,"Good bottle but cap is difficult to open. Need strong grip to open it",3,2024-03-06,R075,english
+P008,Milton Water Bottle,Home_Appliances,"Bottle theek hai. Insulation achha hai. Cleaning thodi difficult hai inside",4,2024-03-07,R076,hindi_english_mixed
+P008,Milton Water Bottle,Home_Appliances,"Excellent insulation! Water stays cold even in summer heat ☀️",5,2024-03-08,R077,english
+P008,Milton Water Bottle,Home_Appliances,"Love paying premium price for a bottle that leaks. Best investment ever! 💦",1,2024-03-09,R078,sarcastic
+P008,Milton Water Bottle,Home_Appliances,"Super bottle! ನೀರು ತಂಪಾಗಿ iratte. Travel time ge thumba useful",5,2024-03-10,R079,kannada_english_mixed
+P008,Milton Water Bottle,Home_Appliances,"good good good nice nice nice best best best buy buy buy now now",5,2024-03-11,R080,repetitive_bot_like
+
+P009,OnePlus Bullets Wireless,Electronics,"Great sound quality! 🎧 Battery life is impressive. Comfortable for long use",5,2024-03-12,R081,english
+P009,OnePlus Bullets Wireless,Electronics,"Bahut badhiya hai! Sound quality top notch. Gaming ke liye bhi perfect",5,2024-03-13,R082,hindi_english_mixed
+P009,OnePlus Bullets Wireless,Electronics,"Super product! Sound clear aagide. ಬ್ಯಾಟರಿ thumba time chalatte",5,2024-03-14,R083,kannada_english_mixed
+P009,OnePlus Bullets Wireless,Electronics,"worst earphones. sound very low. connaction problam always",1,2024-03-15,R084,english_with_typos
+P009,OnePlus Bullets Wireless,Electronics,"Good earphones but magnetic lock is weak. Comes apart easily in bag",3,2024-03-16,R085,english
+P009,OnePlus Bullets Wireless,Electronics,"Earphones ache hain. Bass quality mast hai. Calling clarity bhi good",4,2024-03-17,R086,hindi_english_mixed
+P009,OnePlus Bullets Wireless,Electronics,"Excellent product! Fast charging and long battery backup 🔋",5,2024-03-18,R087,english
+P009,OnePlus Bullets Wireless,Electronics,"Oh yes, earphones that tangle themselves magically. Innovation! 🎉",2,2024-03-19,R088,sarcastic
+P009,OnePlus Bullets Wireless,Electronics,"Thumba channaagide! Music keloke super. ಬ್ಯಾಟರಿ backup excellent",5,2024-03-20,R089,kannada_english_mixed
+P009,OnePlus Bullets Wireless,Electronics,"best best best amazing amazing amazing super super super buy buy buy",5,2024-03-21,R090,repetitive_bot_like
+
+P010,Adidas Running Shoes,Fashion,"Perfect running shoes! 👟 Lightweight and excellent grip. Very comfortable",5,2024-03-22,R091,english
+P010,Adidas Running Shoes,Fashion,"Bahut comfortable shoes hai. Running ke liye best. Grip bhi achha hai",5,2024-03-23,R092,hindi_english_mixed
+P010,Adidas Running Shoes,Fashion,"ತುಂಬಾ comfortable! Running madoke easy aagutte. Lightweight aagide",5,2024-03-24,R093,kannada_english_mixed
+P010,Adidas Running Shoes,Fashion,"fake adidas. sole started brakng after 1 weak. dont buy this waist",1,2024-03-25,R094,english_with_typos
+P010,Adidas Running Shoes,Fashion,"Good shoes but price is very high. Could be more affordable",3,2024-03-26,R095,english
+P010,Adidas Running Shoes,Fashion,"Shoes bahut ache hain. Quality top class. Marathon ke liye use kiya",5,2024-03-27,R096,hindi_english_mixed
+P010,Adidas Running Shoes,Fashion,"Excellent cushioning! Perfect for long distance running 🏃‍♂️",5,2024-03-28,R097,english
+P010,Adidas Running Shoes,Fashion,"Sure, shoes that give blisters are totally 'performance enhanced'. Thanks! 🩹",1,2024-03-29,R098,sarcastic
+P010,Adidas Running Shoes,Fashion,"Super shoes! Long distance run madoke perfect. ಕಾಲಿಗೆ pain baralla",5,2024-03-30,R099,kannada_english_mixed
+P010,Adidas Running Shoes,Fashion,"excellent excellent excellent comfort comfort comfort best best best",5,2024-03-31,R100,repetitive_bot_like
+
+P011,LG Washing Machine,Home_Appliances,"Excellent washing machine! Cleans clothes perfectly. Low noise operation 🔇",5,2024-04-01,R101,english
+P011,LG Washing Machine,Home_Appliances,"Bahut badhiya machine hai. Kapde saaf ho jaate hain. Energy saving bhi hai",5,2024-04-02,R102,hindi_english_mixed
+P011,LG Washing Machine,Home_Appliances,"Super machine! ಬಟ್ಟೆ clean aagutte. Water saving feature thumba good",5,2024-04-03,R103,kannada_english_mixed
+P011,LG Washing Machine,Home_Appliances,"not working proparly. makes to much nois. cloths not clean proparly",1,2024-04-04,R104,english_with_typos
+P011,LG Washing Machine,Home_Appliances,"Good machine but takes too long to complete wash cycle. Otherwise fine",3,2024-04-05,R105,english
+P011,LG Washing Machine,Home_Appliances,"Machine achha hai. Automatic features bahut helpful. Drying bhi acchi hai",4,2024-04-06,R106,hindi_english_mixed
+P011,LG Washing Machine,Home_Appliances,"Great product! Multiple wash modes available. Very efficient 💯",5,2024-04-07,R107,english
+P011,LG Washing Machine,Home_Appliances,"Love a machine that takes 3 hours for one load. So efficient! ⏰",2,2024-04-08,R108,sarcastic
+P011,LG Washing Machine,Home_Appliances,"Thumba chennaagide! ಬಟ್ಟೆ bekaaagade clean aagutte. Worth the price",5,2024-04-09,R109,kannada_english_mixed
+P011,LG Washing Machine,Home_Appliances,"good good good best best best buy buy buy excellent excellent excellent",5,2024-04-10,R110,repetitive_bot_like
+
+P012,Sony PlayStation 5,Electronics,"Amazing gaming experience! 🎮 Graphics are stunning. Loading times super fast",5,2024-04-11,R111,english
+P012,Sony PlayStation 5,Electronics,"Bahut mast hai! Gaming experience ekdum next level. Graphics kamal ke hain",5,2024-04-12,R112,hindi_english_mixed
+P012,Sony PlayStation 5,Electronics,"Super console! Graphics thumba clear aagide. Games fast load aagutte",5,2024-04-13,R113,kannada_english_mixed
+P012,Sony PlayStation 5,Electronics,"overprice trash. not worth it at all. better buy xbox insted",1,2024-04-14,R114,english_with_typos
+P012,Sony PlayStation 5,Electronics,"Good console but controller battery drains very quickly. Need frequent charging",3,2024-04-15,R115,english
+P012,Sony PlayStation 5,Electronics,"Console bahut achha hai. 4K gaming mast hai. Exclusive games bhi badhiya",5,2024-04-16,R116,hindi_english_mixed
+P012,Sony PlayStation 5,Electronics,"Incredible gaming console! Best investment for gamers 🕹️",5,2024-04-17,R117,english
+P012,Sony PlayStation 5,Electronics,"Absolutely thrilled to pay double for a console that's never in stock! 💸",2,2024-04-18,R118,sarcastic
+P012,Sony PlayStation 5,Electronics,"Gaming experience thumba chennagide! ಗ್ರಾಫಿಕ್ಸ್ super clear. Must buy",5,2024-04-19,R119,kannada_english_mixed
+P012,Sony PlayStation 5,Electronics,"amazing amazing amazing best best best gaming gaming gaming perfect perfect",5,2024-04-20,R120,repetitive_bot_like
+
+P013,Levi's Jeans,Fashion,"Perfect fit! 👖 Comfortable fabric. Good quality denim that lasts long",5,2024-04-21,R121,english
+P013,Levi's Jeans,Fashion,"Bahut comfortable jeans hai. Fit perfect hai. Quality bhi top notch",5,2024-04-22,R122,hindi_english_mixed
+P013,Levi's Jeans,Fashion,"Super jeans! Fit thumba chennagide. ಬಟ್ಟೆ quality excellent aagide",5,2024-04-23,R123,kannada_english_mixed
+P013,Levi's Jeans,Fashion,"fake levis. stitching came lose after 2 wears. color also fading",1,2024-04-24,R124,english_with_typos
+P013,Levi's Jeans,Fashion,"Good jeans but slightly expensive. Quality justifies the price though",4,2024-04-25,R125,english
+P013,Levi's Jeans,Fashion,"Jeans acchi hai. Comfortable hai pure din. Office wear ke liye perfect",5,2024-04-26,R126,hindi_english_mixed
+P013,Levi's Jeans,Fashion,"Excellent denim quality! Classic fit. Never goes out of style ✨",5,2024-04-27,R127,english
+P013,Levi's Jeans,Fashion,"Love jeans that lose shape after one wash. Fashion statement! 🤷",1,2024-04-28,R128,sarcastic
+P013,Levi's Jeans,Fashion,"Thumba comfortable! Daily wear madbahudu. ಬಟ್ಟೆ durable aagide",5,2024-04-29,R129,kannada_english_mixed
+P013,Levi's Jeans,Fashion,"best best best fit fit fit comfort comfort comfort quality quality quality",5,2024-04-30,R130,repetitive_bot_like
+
+P014,Havells Ceiling Fan,Home_Appliances,"Excellent fan! Strong air delivery. Silent operation even at high speed 🌀",5,2024-05-01,R131,english
+P014,Havells Ceiling Fan,Home_Appliances,"Bahut achha fan hai. Hawa bhi tez aati hai. Bijli ki bachay bhi hoti hai",5,2024-05-02,R132,hindi_english_mixed
+P014,Havells Ceiling Fan,Home_Appliances,"Super fan! ಗಾಳಿ thumba fast baratte. Silent operation. Good for bedroom",5,2024-05-03,R133,kannada_english_mixed
+P014,Havells Ceiling Fan,Home_Appliances,"worst fan. makes lot of nois. air delvery very weak. dont buy",1,2024-05-04,R134,english_with_typos
+P014,Havells Ceiling Fan,Home_Appliances,"Good fan but installation was difficult. Service person took too long",3,2024-05-05,R135,english
+P014,Havells Ceiling Fan,Home_Appliances,"Fan bahut accha hai. Remote control feature bhi hai. Energy efficient",4,2024-05-06,R136,hindi_english_mixed
+P014,Havells Ceiling Fan,Home_Appliances,"Perfect for summer! High speed mode is very powerful 💨",5,2024-05-07,R137,english
+P014,Havells Ceiling Fan,Home_Appliances,"Oh great, a fan that wobbles. Because that's what I paid for! 🙃",2,2024-05-08,R138,sarcastic
+P014,Havells Ceiling Fan,Home_Appliances,"Excellent fan! Power consumption kimi. ಗಾಳಿ delivery super aagide",5,2024-05-09,R139,kannada_english_mixed
+P014,Havells Ceiling Fan,Home_Appliances,"good good good powerful powerful powerful silent silent silent best best",5,2024-05-10,R140,repetitive_bot_like
+
+P015,Apple AirPods Pro,Electronics,"Best earbuds ever! 🎧 Noise cancellation is incredible. Sound quality superb",5,2024-05-11,R141,english
+P015,Apple AirPods Pro,Electronics,"Bahut mast hai! Sound quality kamal ki hai. Apple ecosystem ke liye best",5,2024-05-12,R142,hindi_english_mixed
+P015,Apple AirPods Pro,Electronics,"Super earbuds! Noise cancelling thumba effective. ಸೌಂಡ್ crystal clear",5,2024-05-13,R143,kannada_english_mixed
+P015,Apple AirPods Pro,Electronics,"overprice. not worth the mony. sound quality same as cheap ones",1,2024-05-14,R144,english_with_typos
+P015,Apple AirPods Pro,Electronics,"Good earbuds but case scratches very easily. Otherwise perfect",4,2024-05-15,R145,english
+P015,Apple AirPods Pro,Electronics,"AirPods bahut ache hain. Battery life achhi hai. Calling clarity bhi mast",5,2024-05-16,R146,hindi_english_mixed
+P015,Apple AirPods Pro,Electronics,"Excellent! Transparency mode is amazing. Perfect for daily commute 🚇",5,2024-05-17,R147,english
+P015,Apple AirPods Pro,Electronics,"Sure, paying 20k for earbuds I'll lose in a month. Smart! 🧠",2,2024-05-18,R148,sarcastic
+P015,Apple AirPods Pro,Electronics,"Thumba chennagide! Music experience next level. ಬ್ಯಾಟರಿ long lasting",5,2024-05-19,R149,kannada_english_mixed
+P015,Apple AirPods Pro,Electronics,"amazing amazing amazing best best best sound sound sound quality quality",5,2024-05-20,R150,repetitive_bot_like
+
+P016,Reebok Gym Bag,Fashion,"Spacious and durable! 💼 Multiple compartments. Perfect for gym essentials",5,2024-05-21,R151,english
+P016,Reebok Gym Bag,Fashion,"Bahut achha bag hai. Space bhi kaafi hai. Gym ke liye best choice",5,2024-05-22,R152,hindi_english_mixed
+P016,Reebok Gym Bag,Fashion,"Super bag! ತುಂಬಾ compartments ide. Gym equipment elavu adjust aagutte",5,2024-05-23,R153,kannada_english_mixed
+P016,Reebok Gym Bag,Fashion,"zip broken after 1 weak. very bad quality. stitching also coming lose",1,2024-05-24,R154,english_with_typos
+P016,Reebok Gym Bag,Fashion,"Good bag but straps are not very comfortable on shoulders. Rest is fine",3,2024-05-25,R155,english
+P016,Reebok Gym Bag,Fashion,"Bag achha hai. Material water resistant hai. Design bhi stylish hai",4,2024-05-26,R156,hindi_english_mixed
+P016,Reebok Gym Bag,Fashion,"Excellent quality! Enough space for clothes and shoes 👟",5,2024-05-27,R157,english
+P016,Reebok Gym Bag,Fashion,"Love a bag that rips after one month. Quality craftsmanship! 🎖️",1,2024-05-28,R158,sarcastic
+P016,Reebok Gym Bag,Fashion,"Bag thumba useful! All gym items fit aagutte. ಬಟ್ಟೆ quality strong",5,2024-05-29,R159,kannada_english_mixed
+P016,Reebok Gym Bag,Fashion,"good good good spacious spacious spacious quality quality quality bag bag",5,2024-05-30,R160,repetitive_bot_like
+
+P017,Kent Water Purifier,Home_Appliances,"Excellent water purifier! 💧 Water tastes pure. Easy to maintain",5,2024-05-31,R161,english
+P017,Kent Water Purifier,Home_Appliances,"Bahut achha hai. Paani bilkul saaf aata hai. Health ke liye important",5,2024-06-01,R162,hindi_english_mixed
+P017,Kent Water Purifier,Home_Appliances,"Super purifier! ನೀರು thumba clean aagutte. Installation easy aagittu",5,2024-06-02,R163,kannada_english_mixed
+P017,Kent Water Purifier,Home_Appliances,"not working proparly. water test show still impuritys. waist of mony",1,2024-06-03,R164,english_with_typos
+P017,Kent Water Purifier,Home_Appliances,"Good purifier but service is very expensive. Filter replacement costs too much",3,2024-06-04,R165,english
+P017,Kent Water Purifier,Home_Appliances,"Purifier accha hai. RO+UV dono hain. Mineral water milta hai ghar par",4,2024-06-05,R166,hindi_english_mixed
+P017,Kent Water Purifier,Home_Appliances,"Perfect for home! Multiple stage purification. Very reliable 🏡",5,2024-06-06,R167,english
+P017,Kent Water Purifier,Home_Appliances,"Amazing how a purifier can waste more water than it cleans. Innovation! 💦",2,2024-06-07,R168,sarcastic
+P017,Kent Water Purifier,Home_Appliances,"Thumba chennagide! ನೀರು safe aagutte. Family health ge good investment",5,2024-06-08,R169,kannada_english_mixed
+P017,Kent Water Purifier,Home_Appliances,"best best best pure pure pure water water water clean clean clean",5,2024-06-09,R170,repetitive_bot_like
+
+P018,Canon DSLR Camera,Electronics,"Stunning image quality! 📷 Perfect for professional photography. Easy to use",5,2024-06-10,R171,english
+P018,Canon DSLR Camera,Electronics,"Bahut badhiya camera hai. Photos crystal clear aate hain. Video bhi mast",5,2024-06-11,R172,hindi_english_mixed
+P018,Canon DSLR Camera,Electronics,"Super camera! Photos thumba clear baratte. ವೀಡಿಯೋ quality excellent",5,2024-06-12,R173,kannada_english_mixed
+P018,Canon DSLR Camera,Electronics,"not worth the prise. heavy to carry. picture quality not that good",1,2024-06-13,R174,english_with_typos
+P018,Canon DSLR Camera,Electronics,"Good camera but battery life is poor. Need extra batteries for long shoots",3,2024-06-14,R175,english
+P018,Canon DSLR Camera,Electronics,"Camera bahut achha hai. Low light performance bhi good. Recommended for beginners",4,2024-06-15,R176,hindi_english_mixed
+P018,Canon DSLR Camera,Electronics,"Excellent DSLR! Autofocus is fast and accurate. Great investment 💯",5,2024-06-16,R177,english
+P018,Canon DSLR Camera,Electronics,"Yes, because lugging 2kg equipment everywhere is so convenient! 🏋️",2,2024-06-17,R178,sarcastic
+P018,Canon DSLR Camera,Electronics,"Professional quality! ಫೋಟೋ quality next level. Wedding shoot ge perfect",5,2024-06-18,R179,kannada_english_mixed
+P018,Canon DSLR Camera,Electronics,"amazing amazing amazing picture picture picture quality quality quality best",5,2024-06-19,R180,repetitive_bot_like
+
+P019,Woodland Leather Wallet,Fashion,"Premium quality wallet! 👛 Genuine leather. Multiple card slots. Very durable",5,2024-06-20,R181,english
+P019,Woodland Leather Wallet,Fashion,"Bahut achha wallet hai. Leather quality top class. Pocket mein fit bhi ho jata",5,2024-06-21,R182,hindi_english_mixed
+P019,Woodland Leather Wallet,Fashion,"Super wallet! Leather quality thumba good. ಕಾರ್ಡ್ slots bere ide",5,2024-06-22,R183,kannada_english_mixed
+P019,Woodland Leather Wallet,Fashion,"fake lether. started peling after few days. stitching also very bad",1,2024-06-23,R184,english_with_typos
+P019,Woodland Leather Wallet,Fashion,"Good wallet but slightly bulky. Doesn't fit well in tight pockets",3,2024-06-24,R185,english
+P019,Woodland Leather Wallet,Fashion,"Wallet achha hai. RFID protection bhi hai. Design classic aur elegant",4,2024-06-25,R186,hindi_english_mixed
+P019,Woodland Leather Wallet,Fashion,"Excellent craftsmanship! Leather smell and feel is authentic ✨",5,2024-06-26,R187,english
+P019,Woodland Leather Wallet,Fashion,"Love paying premium for 'leather' that peels like cheap plastic! 🎭",1,2024-06-27,R188,sarcastic
+P019,Woodland Leather Wallet,Fashion,"Thumba durable! Long time chalatte. ಲೆದರ್ quality original aagide",5,2024-06-28,R189,kannada_english_mixed
+P019,Woodland Leather Wallet,Fashion,"good good good quality quality quality leather leather leather best best",5,2024-06-29,R190,repetitive_bot_like
+
+P020,Bajaj Mixer Grinder,Home_Appliances,"Powerful motor! 🔌 Grinds everything smoothly. Very sturdy and durable",5,2024-06-30,R191,english
+P020,Bajaj Mixer Grinder,Home_Appliances,"Bahut powerful hai. Sab kuch achhe se grind ho jata. 3 jars bhi hain",5,2024-07-01,R192,hindi_english_mixed
+P020,Bajaj Mixer Grinder,Home_Appliances,"Super mixer! ಎಲ್ಲಾ grind aagutte easily. Motor thumba powerful",5,2024-07-02,R193,kannada_english_mixed
+P020,Bajaj Mixer Grinder,Home_Appliances,"motor burnt after 2 months. blades also not sharp. very bad prodact",1,2024-07-03,R194,english_with_typos
+P020,Bajaj Mixer Grinder,Home_Appliances,"Good mixer but makes lot of noise during operation. Rest is satisfactory",3,2024-07-04,R195,english
+P020,Bajaj Mixer Grinder,Home_Appliances,"Mixer achha hai. Wet aur dry dono grinding achhi hoti hai. Value for money",4,2024-07-05,R196,hindi_english_mixed
+P020,Bajaj Mixer Grinder,Home_Appliances,"Excellent product! Perfect for Indian kitchen. Multiple jars included 🍛",5,2024-07-06,R197,english
+P020,Bajaj Mixer Grinder,Home_Appliances,"Absolutely love a mixer that sounds like a jet engine. So peaceful! ✈️",2,2024-07-07,R198,sarcastic
+P020,Bajaj Mixer Grinder,Home_Appliances,"Mixer thumba powerful! Daily use ge perfect. ಎಲ್ಲಾ jar useful aagide",5,2024-07-08,R199,kannada_english_mixed
+P020,Bajaj Mixer Grinder,Home_Appliances,"best best best powerful powerful powerful motor motor motor grinder grinder",5,2024-07-09,R200,repetitive_bot_like
+
+P001,Samsung Galaxy S23,Electronics,"Phone heating issue getting worse. Can't even hold during video calls now",1,2024-03-08,R201,english
+P001,Samsung Galaxy S23,Electronics,"Overheating problem is severe. Apps crash due to excessive heating",2,2024-03-10,R202,english
+P001,Samsung Galaxy S23,Electronics,"Heating issue making phone unusable. Battery drains fast due to heat",2,2024-03-12,R203,english
+P001,Samsung Galaxy S23,Electronics,"Phone becomes extremely hot. Heating problem needs immediate fix",1,2024-03-15,R204,english
+P001,Samsung Galaxy S23,Electronics,"Terrible heating issue. Phone getting hot even during basic tasks",2,2024-03-18,R205,english
+P001,Samsung Galaxy S23,Electronics,"Heating problem is dangerous. Phone too hot to touch sometimes",1,2024-03-20,R206,english
+P001,Samsung Galaxy S23,Electronics,"Overheating ruins the experience. Otherwise good phone but heat is unbearable",2,2024-03-22,R207,english
+P001,Samsung Galaxy S23,Electronics,"Phone heats up alarmingly fast. Major heating issue needs Samsung attention",2,2024-03-25,R208,english
+P001,Samsung Galaxy S23,Electronics,"Heating issue makes camera app crash. Phone burning hot after 5 mins use",1,2024-03-28,R209,english
+P001,Samsung Galaxy S23,Electronics,"Severe overheating problem. Can't charge phone while using due to heat",2,2024-03-30,R210,english
+
+P021,Noise Smart Watch,Electronics,"Great smartwatch! ⌚ Tracks fitness accurately. Battery lasts 7 days easily",5,2024-07-10,R211,english
+P021,Noise Smart Watch,Electronics,"Bahut achha watch hai. Health monitoring features bhi hain. Value for money",5,2024-07-11,R212,hindi_english_mixed
+P021,Noise Smart Watch,Electronics,"Super watch! ಫಿಟ್ನೆಸ್ tracking accurate aagide. Battery long lasting",5,2024-07-12,R213,kannada_english_mixed
+P021,Noise Smart Watch,Electronics,"touch not working proparly. battery draning very fast. not satisfied",1,2024-07-13,R214,english_with_typos
+
+P10000,Oppo A78,iOS Phone,"Premium feel, budget-level performance. I am talking about the Oppo A78.",2,2024-10-25 01:06:00,R8699,Hinglish
+P10001,Motorola Edge 40,Smartphone,Storage fills up too quickly for normal use. My Motorola Edge 40 experience was bad.,1,2024-09-27 21:20:00,R4824,Hinglish
+P10002,Poco X6 Pro,Mobile Phone,"Amazing phone, it freezes every time I open an app. I am talking about the Poco X6 Pro.",1,2024-09-29 04:51:00,R3441,English
+P10003,Realme GT 6,Android Phone,"Top-class device, because waiting is now my new hobby. I am talking about the Realme GT 6.",2,2024-05-07 15:59:00,R8195,Hindi-English
+P10004,Realme Narzo 60,iOS Phone,Gaming works really well without much heating. I liked the Realme Narzo 60.,5,2024-03-23 20:24:00,R8172,English
+P10005,Realme Narzo 60,Smartphone,The device heats up too much after short use. My Realme Narzo 60 experience was bad.,1,2024-08-22 23:00:00,R2496,English
+P10006,Xiaomi 13 Pro,iOS Phone,Performance is smooth and apps open quickly. I liked the Xiaomi 13 Pro.,5,2025-10-29 15:05:00,R9502,Hindi-English
+P10007,Motorola G84,Smartphone,"Wonderful device, except for the constant heating. I am talking about the Motorola G84.",1,2024-12-22 13:56:00,R8700,Hindi-English
+P10008,Xiaomi 13 Pro,Android Phone,Charging speed is slower than expected. My Xiaomi 13 Pro experience was bad.,1,2025-05-22 09:50:00,R7744,Tamil-English
+P10009,Motorola Edge 40,Smartphone,Storage fills up too quickly for normal use. My Motorola Edge 40 experience was bad.,1,2024-09-15 11:02:00,R6153,English
+P10010,Poco X6 Pro,iOS Phone,"Overall, a very reliable and satisfying phone. I liked the Poco X6 Pro.",5,2024-02-25 06:24:00,R7770,Hindi-English
+P10011,Motorola Edge 40,Smartphone,"Premium feel, budget-level performance. I am talking about the Motorola Edge 40.",2,2024-09-30 18:44:00,R4335,Hinglish
+P10012,Motorola G84,Smartphone,"Camera quality is disappointing, especially in low light. My Motorola G84 experience was bad.",2,2025-10-07 20:46:00,R1472,Hinglish
+P10013,Poco X6 Pro,Smartphone,It keeps hanging and restarting randomly. My Poco X6 Pro experience was bad.,1,2024-04-05 07:40:00,R7684,English
+P10014,Xiaomi Redmi Note 13,iOS Phone,It keeps hanging and restarting randomly. My Xiaomi Redmi Note 13 experience was bad.,2,2025-06-05 09:19:00,R5781,Tamil-English
+P10015,OnePlus 11,iOS Phone,The phone gets laggy even during basic tasks. My OnePlus 11 experience was bad.,2,2025-01-27 06:30:00,R3369,Hinglish
+P10016,Oppo A78,Android Phone,"Top-class device, because waiting is now my new hobby. I am talking about the Oppo A78.",2,2024-09-30 00:05:00,R9318,Hindi-English
+P10017,Motorola G84,Mobile Phone,The build quality feels premium and solid. I liked the Motorola G84.,5,2025-07-05 16:31:00,R8316,Hindi-English
+P10018,Motorola Edge 40,Android Phone,"So fast, I had time to make tea while it loaded. I am talking about the Motorola Edge 40.",2,2024-09-01 19:31:00,R4090,Tamil-English
+P10019,Samsung Galaxy S23,Android Phone,Fingerprint sensor is fast and accurate. I liked the Samsung Galaxy S23.,4,2025-01-25 13:10:00,R8749,Hinglish
+P10020,Xiaomi Redmi Note 13,Android Phone,Battery drains too fast and barely lasts half a day. My Xiaomi Redmi Note 13 experience was bad.,1,2025-03-26 03:24:00,R2644,Tamil-English
+P10021,Oppo A78,Mobile Phone,"Fantastic performance, as long as you do nothing at all. I am talking about the Oppo A78.",2,2025-04-25 09:02:00,R2225,Hindi-English
+P10022,iPhone 14,Android Phone,Charging speed is slower than expected. My iPhone 14 experience was bad.,1,2025-01-24 10:48:00,R9742,Tamil-English
+P10023,iPhone 14,Mobile Phone,The phone gets laggy even during basic tasks. My iPhone 14 experience was bad.,1,2024-08-20 03:05:00,R5708,Tamil-English
+P10024,Motorola Edge 40,Mobile Phone,Battery drains too fast and barely lasts half a day. My Motorola Edge 40 experience was bad.,2,2024-01-30 01:34:00,R5906,Hindi-English
+P10025,Vivo T2,Android Phone,Not worth the money at all. My Vivo T2 experience was bad.,1,2024-05-29 08:20:00,R8056,Tamil-English
+P10026,Xiaomi 13 Pro,Mobile Phone,It keeps hanging and restarting randomly. My Xiaomi 13 Pro experience was bad.,1,2025-09-16 13:03:00,R2293,Hinglish
+P10027,OnePlus 11,iOS Phone,It keeps hanging and restarting randomly. My OnePlus 11 experience was bad.,2,2025-04-15 08:42:00,R5161,English
+P10028,Poco X6 Pro,Mobile Phone,Storage fills up too quickly for normal use. My Poco X6 Pro experience was bad.,2,2025-03-28 11:47:00,R2210,Hindi-English
+P10029,Motorola Edge 40,Android Phone,"So fast, I had time to make tea while it loaded. I am talking about the Motorola Edge 40.",2,2025-01-28 16:29:00,R4263,English
+P10030,Vivo T2,Android Phone,The device heats up too much after short use. My Vivo T2 experience was bad.,1,2024-01-23 22:28:00,R5837,Tamil-English
+P10031,Samsung Galaxy S23,iOS Phone,"So fast, I had time to make tea while it loaded. I am talking about the Samsung Galaxy S23.",1,2024-08-23 20:43:00,R5689,Hindi-English
+P10032,Realme Narzo 60,Mobile Phone,"Premium feel, budget-level performance. I am talking about the Realme Narzo 60.",2,2025-10-04 22:03:00,R2591,English
+P10033,Samsung Galaxy S23,Android Phone,Storage fills up too quickly for normal use. My Samsung Galaxy S23 experience was bad.,1,2024-04-02 10:04:00,R3153,Hindi-English
+P10034,OnePlus Nord CE 3,Mobile Phone,Great camera if you enjoy blurry photos. I am talking about the OnePlus Nord CE 3.,2,2025-01-09 18:07:00,R9837,Hindi-English
+P10035,Motorola G84,Android Phone,"Camera quality is disappointing, especially in low light. My Motorola G84 experience was bad.",1,2024-04-27 15:59:00,R6549,English
+P10036,Oppo Reno 11,Android Phone,Charging speed is slower than expected. My Oppo Reno 11 experience was bad.,1,2025-02-08 00:28:00,R2479,Hindi-English
+P10037,Motorola Edge 40,Android Phone,Battery is excellent — it dies before lunch. I am talking about the Motorola Edge 40.,1,2025-08-21 13:00:00,R5295,Hindi-English
+P10038,Motorola G84,Smartphone,Fingerprint sensor is fast and accurate. I liked the Motorola G84.,5,2025-09-16 07:33:00,R6374,English
+P10039,Oppo A78,Smartphone,It keeps hanging and restarting randomly. My Oppo A78 experience was bad.,1,2024-02-16 01:16:00,R3290,Hindi-English
+P10040,iPhone 15,Mobile Phone,The build quality feels premium and solid. I liked the iPhone 15.,5,2024-05-18 13:15:00,R9807,Tamil-English
+P10041,Xiaomi Redmi Note 13,iOS Phone,Great value for money in this price range. I liked the Xiaomi Redmi Note 13.,4,2025-05-16 21:00:00,R2622,Tamil-English
+P10042,Vivo T2,Mobile Phone,Battery is excellent — it dies before lunch. I am talking about the Vivo T2.,2,2025-03-31 08:03:00,R8264,Hindi-English
+P10043,Poco X6 Pro,Android Phone,Camera quality is excellent and photos come out very sharp. I liked the Poco X6 Pro.,5,2025-02-11 09:25:00,R1992,Hinglish
+P10044,iPhone 14,Mobile Phone,"Camera quality is disappointing, especially in low light. My iPhone 14 experience was bad.",1,2024-02-21 11:23:00,R1349,Hinglish
+P10045,iPhone 14,Mobile Phone,"Fantastic performance, as long as you do nothing at all. I am talking about the iPhone 14.",1,2024-08-26 11:12:00,R4538,Hinglish
+P10046,Realme Narzo 60,Mobile Phone,Camera quality is excellent and photos come out very sharp. I liked the Realme Narzo 60.,4,2025-07-07 08:33:00,R3129,Hinglish
+P10047,Xiaomi Redmi Note 13,Smartphone,Battery life is amazing and lasts all day easily. I liked the Xiaomi Redmi Note 13.,4,2024-08-31 20:05:00,R6869,Hindi-English
+P10048,Realme Narzo 60,Smartphone,"Top-class device, because waiting is now my new hobby. I am talking about the Realme Narzo 60.",1,2025-03-07 17:57:00,R3076,English
+P10049,Motorola G84,iOS Phone,Fingerprint sensor is fast and accurate. I liked the Motorola G84.,4,2025-06-09 20:15:00,R6931,English
+P10050,Samsung Galaxy S23,Android Phone,It keeps hanging and restarting randomly. My Samsung Galaxy S23 experience was bad.,2,2025-10-20 01:03:00,R8504,English
+P10051,Oppo A78,Smartphone,"Wonderful device, except for the constant heating. I am talking about the Oppo A78.",1,2025-03-30 02:30:00,R9032,English
+P10052,iPhone 14,Mobile Phone,Gaming works really well without much heating. I liked the iPhone 14.,5,2025-10-01 21:36:00,R5505,Hindi-English
+P10053,Motorola Edge 40,iOS Phone,Gaming works really well without much heating. I liked the Motorola Edge 40.,5,2024-04-27 22:20:00,R2624,Hinglish
+P10054,OnePlus 11,iOS Phone,The phone gets laggy even during basic tasks. My OnePlus 11 experience was bad.,2,2025-04-09 13:36:00,R6553,Tamil-English
+P10055,Oppo A78,Android Phone,The phone gets laggy even during basic tasks. My Oppo A78 experience was bad.,1,2025-01-18 05:12:00,R5176,Tamil-English
+P10056,iPhone 14,Smartphone,Charging speed is slower than expected. My iPhone 14 experience was bad.,1,2024-04-08 12:43:00,R8075,Hinglish
+P10057,Poco X6 Pro,Android Phone,"Top-class device, because waiting is now my new hobby. I am talking about the Poco X6 Pro.",1,2025-02-24 12:04:00,R3002,Tamil-English
+P10058,Realme GT 6,Android Phone,Performance is smooth and apps open quickly. I liked the Realme GT 6.,5,2024-04-16 19:43:00,R6761,Hinglish
+P10059,OnePlus 11,Smartphone,The device heats up too much after short use. My OnePlus 11 experience was bad.,1,2025-07-23 12:32:00,R6736,English
+P10060,Oppo A78,Smartphone,The device heats up too much after short use. My Oppo A78 experience was bad.,2,2024-01-30 06:09:00,R5381,Hindi-English
+P10061,Vivo T2,Smartphone,Camera quality is excellent and photos come out very sharp. I liked the Vivo T2.,4,2024-05-26 19:19:00,R3972,Tamil-English
+P10062,Samsung Galaxy A54,Smartphone,It keeps hanging and restarting randomly. My Samsung Galaxy A54 experience was bad.,2,2024-08-08 12:50:00,R9691,Tamil-English
+P10063,Xiaomi 13 Pro,Android Phone,Battery drains too fast and barely lasts half a day. My Xiaomi 13 Pro experience was bad.,1,2024-11-28 19:22:00,R6105,English
+P10064,Xiaomi 13 Pro,Smartphone,It keeps hanging and restarting randomly. My Xiaomi 13 Pro experience was bad.,2,2024-10-05 15:07:00,R2336,Tamil-English
+P10065,Oppo A78,Android Phone,Perfect for gaming if you like watching lag. I am talking about the Oppo A78.,1,2025-06-08 03:53:00,R4531,Hindi-English
+P10066,Realme GT 6,iOS Phone,"The display is bright, clear, and enjoyable to use. I liked the Realme GT 6.",5,2025-11-14 10:31:00,R9633,English
+P10067,Samsung Galaxy S23,Smartphone,Great value for money in this price range. I liked the Samsung Galaxy S23.,5,2024-11-04 07:12:00,R4349,Hinglish
+P10068,Vivo V27,Smartphone,Performance is smooth and apps open quickly. I liked the Vivo V27.,5,2025-05-24 14:41:00,R1126,Hinglish
+P10069,Poco X6 Pro,Mobile Phone,Camera quality is excellent and photos come out very sharp. I liked the Poco X6 Pro.,5,2025-07-26 22:48:00,R9196,Hindi-English
+P10070,Samsung Galaxy S23,iOS Phone,"Overall, a very reliable and satisfying phone. I liked the Samsung Galaxy S23.",5,2025-04-15 02:39:00,R1307,Hindi-English
+P10071,Oppo Reno 11,iOS Phone,The build quality feels premium and solid. I liked the Oppo Reno 11.,4,2024-04-27 13:49:00,R5743,English
+P10072,Motorola Edge 40,Android Phone,Storage fills up too quickly for normal use. My Motorola Edge 40 experience was bad.,2,2025-03-23 03:36:00,R2443,Hinglish
+P10073,Nothing Phone 2,Smartphone,The build quality feels premium and solid. I liked the Nothing Phone 2.,4,2024-11-13 11:35:00,R7484,Hinglish
+P10074,iPhone 14,Smartphone,Speaker quality is weak and distorted. My iPhone 14 experience was bad.,1,2025-06-06 06:37:00,R9693,Hindi-English
+P10075,OnePlus 11,Smartphone,"Fantastic performance, as long as you do nothing at all. I am talking about the OnePlus 11.",1,2024-09-19 06:44:00,R3399,Hinglish
+P10076,iPhone 14,Mobile Phone,"Wow, such a great phone — it turned my calls into silence. I am talking about the iPhone 14.",2,2025-04-20 19:14:00,R9095,Tamil-English
+P10077,Vivo V27,Mobile Phone,"Wow, such a great phone — it turned my calls into silence. I am talking about the Vivo V27.",2,2024-03-10 16:00:00,R8205,Tamil-English
+P10078,Realme Narzo 60,Smartphone,Fingerprint sensor is fast and accurate. I liked the Realme Narzo 60.,5,2025-06-03 02:31:00,R6766,Hindi-English
+P10079,Samsung Galaxy S23,Smartphone,"Fantastic performance, as long as you do nothing at all. I am talking about the Samsung Galaxy S23.",2,2024-10-20 02:37:00,R7041,English
+P10080,Motorola Edge 40,Smartphone,"Wonderful device, except for the constant heating. I am talking about the Motorola Edge 40.",2,2025-08-08 22:14:00,R8368,Hinglish
+P10081,Nothing Phone 2,Mobile Phone,The phone gets laggy even during basic tasks. My Nothing Phone 2 experience was bad.,1,2025-04-06 03:31:00,R2013,Hindi-English
+P10082,Samsung Galaxy S23,Mobile Phone,The build quality feels premium and solid. I liked the Samsung Galaxy S23.,5,2025-03-25 17:53:00,R8172,Hinglish
+P10083,Realme GT 6,iOS Phone,"Wow, such a great phone — it turned my calls into silence. I am talking about the Realme GT 6.",2,2024-12-12 23:10:00,R7697,English
+P10084,iPhone 14,Android Phone,Great value for money in this price range. I liked the iPhone 14.,5,2025-07-25 23:09:00,R2548,Tamil-English
+P10085,Xiaomi Redmi Note 13,Android Phone,"Wonderful device, except for the constant heating. I am talking about the Xiaomi Redmi Note 13.",2,2025-08-19 22:39:00,R2335,Hinglish
+P10086,Oppo Reno 11,Mobile Phone,"Wow, such a great phone — it turned my calls into silence. I am talking about the Oppo Reno 11.",2,2024-11-13 19:04:00,R2388,Tamil-English
+P10087,Xiaomi Redmi Note 13,Smartphone,The build quality feels premium and solid. I liked the Xiaomi Redmi Note 13.,5,2025-06-04 12:21:00,R7937,English
+P10088,Xiaomi 13 Pro,Mobile Phone,"Camera quality is disappointing, especially in low light. My Xiaomi 13 Pro experience was bad.",1,2025-05-12 06:33:00,R6598,Hinglish
+P10089,iPhone 14,Android Phone,The build quality feels premium and solid. I liked the iPhone 14.,4,2025-06-03 18:25:00,R2657,English
+P10090,Oppo Reno 11,Mobile Phone,It keeps hanging and restarting randomly. My Oppo Reno 11 experience was bad.,1,2024-07-04 23:38:00,R3658,Hinglish
+P10091,Oppo A78,Android Phone,Fingerprint sensor is fast and accurate. I liked the Oppo A78.,4,2025-03-30 20:50:00,R4891,Hindi-English
+P10092,Poco X6 Pro,Mobile Phone,Not worth the money at all. My Poco X6 Pro experience was bad.,2,2025-04-25 06:37:00,R6070,Hindi-English
+P10093,Motorola Edge 40,Android Phone,"Camera quality is disappointing, especially in low light. My Motorola Edge 40 experience was bad.",1,2025-05-29 18:00:00,R7256,Tamil-English
+P10094,Xiaomi Redmi Note 13,Android Phone,Charging is quick and the phone stays cool. I liked the Xiaomi Redmi Note 13.,4,2025-10-18 16:24:00,R1854,Hindi-English
+P10095,Nothing Phone 2,Smartphone,This phone really likes to restart itself for fun. I am talking about the Nothing Phone 2.,1,2024-03-26 05:28:00,R5670,Hindi-English
+P10096,Oppo A78,Smartphone,Storage fills up too quickly for normal use. My Oppo A78 experience was bad.,1,2025-04-06 11:55:00,R4637,English
+P10097,Oppo Reno 11,Android Phone,Screen brightness is poor and hard to see outdoors. My Oppo Reno 11 experience was bad.,1,2025-01-30 02:47:00,R4862,Hindi-English
+P10098,Vivo V27,Smartphone,Great value for money in this price range. I liked the Vivo V27.,5,2024-05-29 04:41:00,R6493,English
+P10099,Xiaomi Redmi Note 13,iOS Phone,"Amazing phone, it freezes every time I open an app. I am talking about the Xiaomi Redmi Note 13.",2,2025-09-22 00:10:00,R8349,English
+P10100,OnePlus Nord CE 3,Mobile Phone,The phone gets laggy even during basic tasks. My OnePlus Nord CE 3 experience was bad.,2,2025-09-15 18:00:00,R9991,Tamil-English
+P10101,OnePlus 11,Android Phone,"Overall, a very reliable and satisfying phone. I liked the OnePlus 11.",5,2024-02-18 08:08:00,R2996,Tamil-English
+P10102,iPhone 14,Smartphone,"Wow, such a great phone — it turned my calls into silence. I am talking about the iPhone 14.",1,2025-09-03 18:17:00,R9189,English
+P10103,Xiaomi Redmi Note 13,Android Phone,"So fast, I had time to make tea while it loaded. I am talking about the Xiaomi Redmi Note 13.",2,2024-01-02 20:59:00,R8032,Hindi-English
+P10104,Xiaomi 13 Pro,Smartphone,Storage fills up too quickly for normal use. My Xiaomi 13 Pro experience was bad.,2,2025-01-04 02:18:00,R9576,English
+P10105,Samsung Galaxy S23,iOS Phone,Battery is excellent — it dies before lunch. I am talking about the Samsung Galaxy S23.,2,2024-09-16 00:33:00,R7116,Hindi-English
+P10106,OnePlus 11,Smartphone,"A brilliant screen, if you only use it indoors. I am talking about the OnePlus 11.",2,2024-05-16 01:30:00,R6447,Hindi-English
+P10107,Xiaomi 13 Pro,iOS Phone,Battery is excellent — it dies before lunch. I am talking about the Xiaomi 13 Pro.,2,2025-10-08 06:13:00,R8840,Hinglish
+P10108,Samsung Galaxy S23,Android Phone,The build quality feels premium and solid. I liked the Samsung Galaxy S23.,5,2024-02-14 06:48:00,R4302,English
+P10109,Nothing Phone 2,iOS Phone,Screen brightness is poor and hard to see outdoors. My Nothing Phone 2 experience was bad.,2,2025-04-29 08:38:00,R9897,English
+P10110,Vivo T2,Smartphone,Perfect for gaming if you like watching lag. I am talking about the Vivo T2.,2,2024-10-06 04:14:00,R6438,Hindi-English
+P10111,Motorola Edge 40,iOS Phone,The build quality feels premium and solid. I liked the Motorola Edge 40.,5,2024-07-10 16:56:00,R6554,Tamil-English
+P10112,iPhone 14,iOS Phone,Charging speed is slower than expected. My iPhone 14 experience was bad.,2,2025-03-16 20:33:00,R2293,Hinglish
+P10113,Vivo V27,Smartphone,Great value for money in this price range. I liked the Vivo V27.,5,2024-12-01 22:33:00,R2311,Hindi-English
+P10114,Oppo A78,Mobile Phone,Speaker quality is weak and distorted. My Oppo A78 experience was bad.,2,2024-12-25 15:15:00,R8272,English
+P10115,Realme Narzo 60,Smartphone,"Wonderful device, except for the constant heating. I am talking about the Realme Narzo 60.",1,2025-11-18 21:45:00,R2229,Tamil-English
+P10116,Samsung Galaxy A54,Mobile Phone,"The display is bright, clear, and enjoyable to use. I liked the Samsung Galaxy A54.",5,2024-02-05 04:18:00,R8179,English
+P10117,Vivo T2,iOS Phone,Speaker quality is weak and distorted. My Vivo T2 experience was bad.,2,2025-09-11 05:14:00,R1530,Tamil-English
+P10118,Motorola Edge 40,Smartphone,The build quality feels premium and solid. I liked the Motorola Edge 40.,5,2025-06-26 12:31:00,R3255,Tamil-English
+P10119,OnePlus 11,Smartphone,Charging is quick and the phone stays cool. I liked the OnePlus 11.,4,2024-07-09 17:02:00,R1424,Tamil-English
+P10120,Realme Narzo 60,Android Phone,It keeps hanging and restarting randomly. My Realme Narzo 60 experience was bad.,1,2024-08-07 20:53:00,R8311,Hindi-English
+P10121,iPhone 15,Mobile Phone,The phone gets laggy even during basic tasks. My iPhone 15 experience was bad.,2,2025-04-07 05:53:00,R2213,Tamil-English
+P10122,Vivo T2,Smartphone,"Camera quality is disappointing, especially in low light. My Vivo T2 experience was bad.",2,2024-10-24 10:14:00,R9882,Hinglish
+P10123,Nothing Phone 2,Mobile Phone,Fingerprint sensor is fast and accurate. I liked the Nothing Phone 2.,4,2024-07-24 04:44:00,R2988,Hinglish
+P10124,Vivo T2,Android Phone,The phone gets laggy even during basic tasks. My Vivo T2 experience was bad.,2,2025-07-18 04:25:00,R8657,English
+P10125,Oppo Reno 11,iOS Phone,Performance is smooth and apps open quickly. I liked the Oppo Reno 11.,5,2025-02-24 13:58:00,R9612,English
+P10126,iPhone 14,iOS Phone,Great camera if you enjoy blurry photos. I am talking about the iPhone 14.,1,2025-11-27 17:39:00,R8632,Hindi-English
+P10127,Xiaomi Redmi Note 13,iOS Phone,"Premium feel, budget-level performance. I am talking about the Xiaomi Redmi Note 13.",1,2024-02-26 04:14:00,R9238,Hinglish
+P10128,Xiaomi 13 Pro,Android Phone,Battery is excellent — it dies before lunch. I am talking about the Xiaomi 13 Pro.,2,2024-12-20 17:42:00,R4694,Hindi-English
+P10129,OnePlus Nord CE 3,Android Phone,Charging speed is slower than expected. My OnePlus Nord CE 3 experience was bad.,1,2025-10-02 10:20:00,R3050,English
+P10130,Xiaomi Redmi Note 13,Mobile Phone,Battery is excellent — it dies before lunch. I am talking about the Xiaomi Redmi Note 13.,1,2025-07-31 01:24:00,R6531,English
+P10131,Realme Narzo 60,Mobile Phone,This phone really likes to restart itself for fun. I am talking about the Realme Narzo 60.,2,2025-09-24 21:48:00,R7825,English
+P10132,Realme GT 6,iOS Phone,Battery is excellent — it dies before lunch. I am talking about the Realme GT 6.,1,2025-02-19 10:09:00,R5012,Tamil-English
+P10133,Xiaomi 13 Pro,iOS Phone,Speaker quality is weak and distorted. My Xiaomi 13 Pro experience was bad.,1,2025-05-10 15:51:00,R7809,Hinglish
+P10134,Vivo V27,Android Phone,Charging speed is slower than expected. My Vivo V27 experience was bad.,1,2025-02-12 04:27:00,R6658,Hindi-English
+P10135,Vivo V27,Mobile Phone,"So fast, I had time to make tea while it loaded. I am talking about the Vivo V27.",1,2024-05-05 09:07:00,R8642,Tamil-English
+P10136,iPhone 15,Smartphone,"The display is bright, clear, and enjoyable to use. I liked the iPhone 15.",4,2025-01-28 21:00:00,R5754,Tamil-English
+P10137,Vivo V27,Android Phone,Fingerprint sensor is fast and accurate. I liked the Vivo V27.,5,2024-06-12 17:00:00,R4110,Tamil-English
+P10138,Motorola G84,Smartphone,Screen brightness is poor and hard to see outdoors. My Motorola G84 experience was bad.,1,2025-02-06 17:15:00,R2475,Tamil-English
+P10139,Vivo T2,Smartphone,"Premium feel, budget-level performance. I am talking about the Vivo T2.",1,2024-10-15 16:53:00,R1828,Tamil-English
+P10140,iPhone 15,iOS Phone,"Wonderful device, except for the constant heating. I am talking about the iPhone 15.",1,2024-09-27 12:29:00,R3194,Tamil-English
+P10141,Oppo Reno 11,Smartphone,Battery is excellent — it dies before lunch. I am talking about the Oppo Reno 11.,2,2025-01-06 18:53:00,R4189,Hindi-English
+P10142,Nothing Phone 2,iOS Phone,Great camera if you enjoy blurry photos. I am talking about the Nothing Phone 2.,1,2025-09-30 23:13:00,R5582,English
+P10143,Oppo Reno 11,Android Phone,"The display is bright, clear, and enjoyable to use. I liked the Oppo Reno 11.",5,2025-07-25 12:28:00,R6555,Hinglish
+P10144,Nothing Phone 2,Smartphone,This phone really likes to restart itself for fun. I am talking about the Nothing Phone 2.,2,2024-02-09 04:40:00,R1742,Hindi-English
+P10145,Xiaomi Redmi Note 13,Mobile Phone,Storage fills up too quickly for normal use. My Xiaomi Redmi Note 13 experience was bad.,2,2025-09-19 10:52:00,R6373,Hinglish
+P10146,Vivo V27,iOS Phone,Speaker quality is weak and distorted. My Vivo V27 experience was bad.,1,2025-05-01 00:34:00,R5911,Hindi-English
+P10147,Oppo A78,Android Phone,Not worth the money at all. My Oppo A78 experience was bad.,1,2025-09-03 16:11:00,R1436,Hindi-English
+P10148,Samsung Galaxy S23,iOS Phone,Performance is smooth and apps open quickly. I liked the Samsung Galaxy S23.,4,2025-06-20 21:28:00,R3793,Tamil-English
+P10149,Samsung Galaxy S23,Smartphone,Storage fills up too quickly for normal use. My Samsung Galaxy S23 experience was bad.,1,2024-01-20 15:03:00,R4125,Hindi-English
+P10150,Oppo A78,Mobile Phone,"Top-class device, because waiting is now my new hobby. I am talking about the Oppo A78.",1,2025-05-28 20:52:00,R7723,Tamil-English
+P10151,Xiaomi Redmi Note 13,Mobile Phone,"Wonderful device, except for the constant heating. I am talking about the Xiaomi Redmi Note 13.",1,2025-11-09 16:19:00,R6325,Tamil-English
+P10152,Motorola Edge 40,Android Phone,Not worth the money at all. My Motorola Edge 40 experience was bad.,2,2024-12-28 23:04:00,R9950,Hindi-English
+P10153,OnePlus Nord CE 3,Mobile Phone,The device heats up too much after short use. My OnePlus Nord CE 3 experience was bad.,2,2025-07-25 10:11:00,R5571,Hinglish
+P10154,OnePlus Nord CE 3,iOS Phone,The device heats up too much after short use. My OnePlus Nord CE 3 experience was bad.,1,2025-05-06 11:54:00,R6194,Hindi-English
+P10155,Poco X6 Pro,iOS Phone,Battery drains too fast and barely lasts half a day. My Poco X6 Pro experience was bad.,2,2024-12-19 04:59:00,R7464,Hindi-English
+P10156,iPhone 14,Android Phone,"The display is bright, clear, and enjoyable to use. I liked the iPhone 14.",4,2025-11-02 08:45:00,R8247,Tamil-English
+P10157,Poco X6 Pro,Android Phone,"The display is bright, clear, and enjoyable to use. I liked the Poco X6 Pro.",4,2024-05-20 03:43:00,R5450,Hinglish
+P10158,Nothing Phone 2,Mobile Phone,Speaker quality is weak and distorted. My Nothing Phone 2 experience was bad.,2,2024-02-23 03:25:00,R4814,Tamil-English
+P10159,iPhone 15,Mobile Phone,"Wow, such a great phone — it turned my calls into silence. I am talking about the iPhone 15.",2,2025-07-17 05:23:00,R1084,Tamil-English
+P10160,Motorola G84,Mobile Phone,The phone gets laggy even during basic tasks. My Motorola G84 experience was bad.,1,2024-11-24 09:44:00,R5706,English
+P10161,Poco X6 Pro,Smartphone,Gaming works really well without much heating. I liked the Poco X6 Pro.,5,2025-03-03 06:00:00,R3868,English
+P10162,Xiaomi 13 Pro,Android Phone,Speaker quality is weak and distorted. My Xiaomi 13 Pro experience was bad.,2,2024-01-10 10:11:00,R1613,English
+P10163,Motorola Edge 40,iOS Phone,Screen brightness is poor and hard to see outdoors. My Motorola Edge 40 experience was bad.,1,2025-05-31 15:58:00,R3198,Hindi-English
+P10164,Vivo V27,Mobile Phone,"Amazing phone, it freezes every time I open an app. I am talking about the Vivo V27.",2,2025-10-25 08:46:00,R8518,Hinglish
+P10165,Realme GT 6,Mobile Phone,Storage fills up too quickly for normal use. My Realme GT 6 experience was bad.,2,2025-09-17 21:48:00,R3875,Tamil-English
+P10166,iPhone 14,iOS Phone,Speaker quality is weak and distorted. My iPhone 14 experience was bad.,1,2024-07-08 04:47:00,R2562,Tamil-English
+P10167,Samsung Galaxy A54,Android Phone,"Wonderful device, except for the constant heating. I am talking about the Samsung Galaxy A54.",2,2024-08-29 15:14:00,R7284,Hindi-English
+P10168,Samsung Galaxy A54,Android Phone,It keeps hanging and restarting randomly. My Samsung Galaxy A54 experience was bad.,2,2024-08-29 02:07:00,R6890,English
+P10169,Xiaomi 13 Pro,iOS Phone,Great value for money in this price range. I liked the Xiaomi 13 Pro.,5,2024-11-14 23:33:00,R9233,English
+P10170,OnePlus 11,Mobile Phone,"Top-class device, because waiting is now my new hobby. I am talking about the OnePlus 11.",2,2025-05-04 05:13:00,R3188,Tamil-English
+P10171,Oppo A78,iOS Phone,Not worth the money at all. My Oppo A78 experience was bad.,1,2025-11-11 07:27:00,R9806,Hinglish
+P10172,Nothing Phone 2,iOS Phone,Battery drains too fast and barely lasts half a day. My Nothing Phone 2 experience was bad.,1,2025-01-05 02:39:00,R9653,English
+P10173,Poco X6 Pro,Mobile Phone,Camera quality is excellent and photos come out very sharp. I liked the Poco X6 Pro.,4,2024-12-01 17:45:00,R3695,Tamil-English
+P10174,Motorola G84,Smartphone,"Camera quality is disappointing, especially in low light. My Motorola G84 experience was bad.",2,2025-04-01 01:53:00,R9361,Tamil-English
+P10175,Motorola Edge 40,Smartphone,Perfect for gaming if you like watching lag. I am talking about the Motorola Edge 40.,2,2025-11-19 10:31:00,R8575,English
+P10176,Samsung Galaxy A54,Mobile Phone,The phone gets laggy even during basic tasks. My Samsung Galaxy A54 experience was bad.,1,2024-02-16 14:27:00,R2196,Hindi-English
+P10177,iPhone 14,iOS Phone,Performance is smooth and apps open quickly. I liked the iPhone 14.,5,2024-10-20 13:57:00,R1519,Hinglish
+P10178,Vivo T2,iOS Phone,Charging speed is slower than expected. My Vivo T2 experience was bad.,1,2025-01-21 12:49:00,R8348,English
+P10179,Vivo T2,Smartphone,"Top-class device, because waiting is now my new hobby. I am talking about the Vivo T2.",1,2025-07-04 13:24:00,R3924,Hinglish
+P10180,Samsung Galaxy A54,Smartphone,Charging is quick and the phone stays cool. I liked the Samsung Galaxy A54.,5,2025-04-19 22:59:00,R5888,Tamil-English
+P10181,OnePlus 11,Mobile Phone,"The display is bright, clear, and enjoyable to use. I liked the OnePlus 11.",4,2024-12-20 05:17:00,R8546,Hindi-English
+P10182,Samsung Galaxy S23,iOS Phone,Camera quality is excellent and photos come out very sharp. I liked the Samsung Galaxy S23.,4,2024-09-03 07:02:00,R1256,English
+P10183,Motorola Edge 40,Smartphone,"The display is bright, clear, and enjoyable to use. I liked the Motorola Edge 40.",4,2024-02-15 13:43:00,R5009,Tamil-English
+P10184,Samsung Galaxy S23,Mobile Phone,"Overall, a very reliable and satisfying phone. I liked the Samsung Galaxy S23.",5,2024-10-23 07:59:00,R9255,Hindi-English
+P10185,OnePlus 11,Android Phone,Storage fills up too quickly for normal use. My OnePlus 11 experience was bad.,2,2025-11-07 17:47:00,R3347,Hinglish
+P10186,Realme Narzo 60,Smartphone,"A brilliant screen, if you only use it indoors. I am talking about the Realme Narzo 60.",2,2025-10-03 23:10:00,R3869,Tamil-English
+P10187,Samsung Galaxy S23,Android Phone,Perfect for gaming if you like watching lag. I am talking about the Samsung Galaxy S23.,1,2025-06-21 10:52:00,R7244,Tamil-English
+P10188,Realme GT 6,iOS Phone,"So fast, I had time to make tea while it loaded. I am talking about the Realme GT 6.",2,2025-07-04 16:09:00,R4012,Hinglish
+P10189,Xiaomi Redmi Note 13,iOS Phone,Charging speed is slower than expected. My Xiaomi Redmi Note 13 experience was bad.,1,2025-07-29 14:05:00,R1944,Tamil-English
+P10190,Oppo Reno 11,Mobile Phone,Fingerprint sensor is fast and accurate. I liked the Oppo Reno 11.,5,2024-07-27 11:16:00,R5177,English
+P10191,iPhone 14,Mobile Phone,Camera quality is excellent and photos come out very sharp. I liked the iPhone 14.,4,2024-10-01 12:52:00,R1844,English
+P10192,Poco X6 Pro,Mobile Phone,Battery life is amazing and lasts all day easily. I liked the Poco X6 Pro.,4,2024-08-01 11:21:00,R8854,Hindi-English
+P10193,OnePlus Nord CE 3,Smartphone,Storage fills up too quickly for normal use. My OnePlus Nord CE 3 experience was bad.,1,2024-09-05 23:44:00,R8846,Hinglish
+P10194,Poco X6 Pro,Android Phone,The device heats up too much after short use. My Poco X6 Pro experience was bad.,2,2025-01-24 15:54:00,R5637,Hindi-English
+P10195,Vivo T2,iOS Phone,Screen brightness is poor and hard to see outdoors. My Vivo T2 experience was bad.,2,2024-04-10 16:01:00,R8635,Hindi-English
+P10196,Vivo V27,iOS Phone,Battery drains too fast and barely lasts half a day. My Vivo V27 experience was bad.,2,2025-07-30 07:33:00,R1749,Hinglish
+P10197,Poco X6 Pro,iOS Phone,"The display is bright, clear, and enjoyable to use. I liked the Poco X6 Pro.",5,2024-06-05 06:41:00,R5836,Hindi-English
+P10198,OnePlus 11,iOS Phone,Fingerprint sensor is fast and accurate. I liked the OnePlus 11.,4,2024-09-20 16:40:00,R6530,Tamil-English
+P10199,Vivo T2,Mobile Phone,Charging speed is slower than expected. My Vivo T2 experience was bad.,1,2025-07-13 16:40:00,R3293,Hinglish
+P10200,Nothing Phone 2,Smartphone,Perfect for gaming if you like watching lag. I am talking about the Nothing Phone 2.,1,2025-11-15 01:39:00,R2217,English
+P10201,OnePlus 11,Smartphone,The build quality feels premium and solid. I liked the OnePlus 11.,4,2024-01-10 07:27:00,R3474,Tamil-English
+P10202,Motorola G84,iOS Phone,Battery life is amazing and lasts all day easily. I liked the Motorola G84.,4,2024-01-07 18:09:00,R1257,Tamil-English
+P10203,Nothing Phone 2,Android Phone,"Camera quality is disappointing, especially in low light. My Nothing Phone 2 experience was bad.",1,2024-10-20 00:35:00,R9777,Tamil-English
+P10204,iPhone 15,Mobile Phone,"Wonderful device, except for the constant heating. I am talking about the iPhone 15.",2,2024-07-15 21:09:00,R4948,Hindi-English
+P10205,Oppo Reno 11,Smartphone,"The display is bright, clear, and enjoyable to use. I liked the Oppo Reno 11.",5,2025-02-19 15:40:00,R7112,Hinglish
+P10206,iPhone 14,Smartphone,"A brilliant screen, if you only use it indoors. I am talking about the iPhone 14.",2,2025-02-19 12:56:00,R2531,Tamil-English
+P10207,Samsung Galaxy S23,Smartphone,The build quality feels premium and solid. I liked the Samsung Galaxy S23.,4,2024-03-25 17:03:00,R3807,Tamil-English
+P10208,Nothing Phone 2,Smartphone,"Premium feel, budget-level performance. I am talking about the Nothing Phone 2.",1,2024-08-04 23:37:00,R4764,Tamil-English
+P10209,iPhone 14,Android Phone,Performance is smooth and apps open quickly. I liked the iPhone 14.,5,2025-07-31 22:27:00,R9897,English
+P10210,Samsung Galaxy A54,Mobile Phone,Great camera if you enjoy blurry photos. I am talking about the Samsung Galaxy A54.,1,2025-02-11 02:37:00,R3362,Hindi-English
+P10211,Oppo Reno 11,Android Phone,Charging speed is slower than expected. My Oppo Reno 11 experience was bad.,2,2024-05-23 23:31:00,R7288,English
+P10212,Samsung Galaxy S23,Smartphone,"Fantastic performance, as long as you do nothing at all. I am talking about the Samsung Galaxy S23.",2,2024-08-25 02:35:00,R8161,Hindi-English
+P10213,Vivo V27,Smartphone,The build quality feels premium and solid. I liked the Vivo V27.,5,2025-04-06 16:44:00,R5478,Hinglish
+P10214,Oppo A78,Mobile Phone,Screen brightness is poor and hard to see outdoors. My Oppo A78 experience was bad.,1,2024-03-28 21:06:00,R7227,Hindi-English
+P10215,iPhone 14,Android Phone,"Top-class device, because waiting is now my new hobby. I am talking about the iPhone 14.",2,2025-01-24 21:38:00,R3526,Hinglish
+P10216,Vivo V27,Android Phone,It keeps hanging and restarting randomly. My Vivo V27 experience was bad.,2,2024-04-03 00:10:00,R2745,Hindi-English
+P10217,Realme Narzo 60,Smartphone,It keeps hanging and restarting randomly. My Realme Narzo 60 experience was bad.,2,2024-03-30 06:23:00,R3170,Tamil-English
+P10218,iPhone 15,Smartphone,"Fantastic performance, as long as you do nothing at all. I am talking about the iPhone 15.",2,2024-12-28 18:55:00,R2468,English
+P10219,Oppo Reno 11,Smartphone,Charging speed is slower than expected. My Oppo Reno 11 experience was bad.,1,2025-02-27 13:14:00,R5781,English
+P10220,Nothing Phone 2,Mobile Phone,Great value for money in this price range. I liked the Nothing Phone 2.,5,2024-06-22 04:44:00,R7237,Hindi-English
+P10221,Motorola G84,Mobile Phone,Storage fills up too quickly for normal use. My Motorola G84 experience was bad.,2,2024-06-20 14:50:00,R2036,Hindi-English
+P10222,Motorola G84,Smartphone,"Overall, a very reliable and satisfying phone. I liked the Motorola G84.",4,2024-09-14 08:25:00,R6916,Tamil-English
+P10223,Motorola Edge 40,Smartphone,The build quality feels premium and solid. I liked the Motorola Edge 40.,5,2024-11-07 00:13:00,R3219,Tamil-English
+P10224,Vivo V27,iOS Phone,"Premium feel, budget-level performance. I am talking about the Vivo V27.",2,2025-03-16 22:13:00,R6484,Hinglish
+P10225,OnePlus Nord CE 3,iOS Phone,Great value for money in this price range. I liked the OnePlus Nord CE 3.,5,2024-06-30 13:35:00,R6147,Hindi-English
+P10226,OnePlus 11,Android Phone,The phone gets laggy even during basic tasks. My OnePlus 11 experience was bad.,1,2024-10-14 13:24:00,R7161,Hindi-English
+P10227,Poco X6 Pro,Mobile Phone,Great value for money in this price range. I liked the Poco X6 Pro.,4,2025-04-17 07:09:00,R1440,Tamil-English
+P10228,Oppo A78,iOS Phone,"Premium feel, budget-level performance. I am talking about the Oppo A78.",1,2025-10-10 10:20:00,R3280,Hinglish
+P10229,Oppo A78,iOS Phone,Not worth the money at all. My Oppo A78 experience was bad.,2,2025-04-04 20:24:00,R2211,Tamil-English
+P10230,Poco X6 Pro,iOS Phone,Camera quality is excellent and photos come out very sharp. I liked the Poco X6 Pro.,4,2024-02-07 12:16:00,R9907,English
+P10231,Vivo T2,Mobile Phone,"Wonderful device, except for the constant heating. I am talking about the Vivo T2.",2,2025-07-30 22:01:00,R1725,Tamil-English
+P10232,iPhone 15,Smartphone,It keeps hanging and restarting randomly. My iPhone 15 experience was bad.,2,2024-09-21 07:34:00,R2615,Hinglish
+P10233,Oppo Reno 11,iOS Phone,It keeps hanging and restarting randomly. My Oppo Reno 11 experience was bad.,1,2024-06-03 11:46:00,R9199,English
+P10234,Realme GT 6,iOS Phone,"Premium feel, budget-level performance. I am talking about the Realme GT 6.",2,2024-04-28 04:50:00,R2406,Hindi-English
+P10235,Motorola Edge 40,Mobile Phone,Camera quality is excellent and photos come out very sharp. I liked the Motorola Edge 40.,5,2025-05-09 11:53:00,R9537,Tamil-English
+P10236,Motorola Edge 40,Android Phone,"Amazing phone, it freezes every time I open an app. I am talking about the Motorola Edge 40.",2,2024-11-03 01:31:00,R2100,English
+P10237,iPhone 15,Mobile Phone,Speaker quality is weak and distorted. My iPhone 15 experience was bad.,2,2025-06-12 05:57:00,R4996,Hinglish
+P10238,Motorola Edge 40,Mobile Phone,Storage fills up too quickly for normal use. My Motorola Edge 40 experience was bad.,2,2025-10-06 06:17:00,R7636,Hinglish
+P10239,Samsung Galaxy A54,Mobile Phone,Battery life is amazing and lasts all day easily. I liked the Samsung Galaxy A54.,4,2025-08-29 14:39:00,R8365,Tamil-English
+P10240,OnePlus Nord CE 3,Android Phone,"Wonderful device, except for the constant heating. I am talking about the OnePlus Nord CE 3.",2,2025-08-14 03:28:00,R2025,Hinglish
+P10241,OnePlus Nord CE 3,iOS Phone,"A brilliant screen, if you only use it indoors. I am talking about the OnePlus Nord CE 3.",2,2024-09-25 22:53:00,R2867,Tamil-English
+P10242,Oppo Reno 11,iOS Phone,Not worth the money at all. My Oppo Reno 11 experience was bad.,1,2024-12-22 12:00:00,R2871,Tamil-English
+P10243,Realme GT 6,Smartphone,The device heats up too much after short use. My Realme GT 6 experience was bad.,1,2024-11-16 04:01:00,R3194,Hinglish
+P10244,Xiaomi 13 Pro,Android Phone,"Overall, a very reliable and satisfying phone. I liked the Xiaomi 13 Pro.",4,2025-06-07 13:15:00,R3316,Tamil-English
+P10245,Oppo Reno 11,iOS Phone,Charging is quick and the phone stays cool. I liked the Oppo Reno 11.,4,2025-05-13 21:41:00,R4043,Hinglish
+P10246,Motorola G84,Android Phone,"Overall, a very reliable and satisfying phone. I liked the Motorola G84.",4,2024-07-10 10:44:00,R3298,Tamil-English
+P10247,Vivo T2,Smartphone,Charging speed is slower than expected. My Vivo T2 experience was bad.,2,2024-05-19 06:39:00,R8939,Tamil-English
+P10248,Oppo A78,iOS Phone,Camera quality is excellent and photos come out very sharp. I liked the Oppo A78.,4,2025-03-30 16:40:00,R7809,Hinglish
+P10249,OnePlus 11,Android Phone,Performance is smooth and apps open quickly. I liked the OnePlus 11.,5,2024-10-08 07:40:00,R1535,Hindi-English
+P10250,Motorola G84,Smartphone,Charging is quick and the phone stays cool. I liked the Motorola G84.,4,2024-10-01 18:32:00,R2871,Hindi-English
+P10251,Motorola Edge 40,Mobile Phone,The device heats up too much after short use. My Motorola Edge 40 experience was bad.,1,2024-04-14 22:18:00,R7965,Hinglish
+P10252,Motorola Edge 40,Android Phone,"The display is bright, clear, and enjoyable to use. I liked the Motorola Edge 40.",4,2024-03-30 14:59:00,R6711,English
+P10253,Vivo T2,iOS Phone,"The display is bright, clear, and enjoyable to use. I liked the Vivo T2.",4,2025-09-22 04:45:00,R3719,Hinglish
+P10254,Vivo T2,Android Phone,Great value for money in this price range. I liked the Vivo T2.,5,2024-06-21 11:02:00,R9827,Hindi-English
+P10255,Nothing Phone 2,Smartphone,"Camera quality is disappointing, especially in low light. My Nothing Phone 2 experience was bad.",1,2025-02-25 02:01:00,R3221,Hindi-English
+P10256,OnePlus 11,Mobile Phone,Fingerprint sensor is fast and accurate. I liked the OnePlus 11.,4,2024-09-10 23:04:00,R6277,Tamil-English
+P10257,Realme Narzo 60,iOS Phone,Storage fills up too quickly for normal use. My Realme Narzo 60 experience was bad.,2,2025-04-07 02:34:00,R7146,English
+P10258,Vivo T2,iOS Phone,"Top-class device, because waiting is now my new hobby. I am talking about the Vivo T2.",1,2024-12-01 19:51:00,R8996,English
+P10259,Motorola Edge 40,Android Phone,Gaming works really well without much heating. I liked the Motorola Edge 40.,4,2025-07-01 13:34:00,R2037,Hinglish
+P10260,Motorola G84,Android Phone,"Fantastic performance, as long as you do nothing at all. I am talking about the Motorola G84.",2,2024-10-17 11:31:00,R6289,Hinglish
+P10261,Vivo V27,Smartphone,Battery drains too fast and barely lasts half a day. My Vivo V27 experience was bad.,1,2024-04-11 21:22:00,R1752,Tamil-English
+P10262,Xiaomi 13 Pro,iOS Phone,"Top-class device, because waiting is now my new hobby. I am talking about the Xiaomi 13 Pro.",1,2024-01-01 14:36:00,R8479,Hinglish
+P10263,Realme GT 6,Mobile Phone,The device heats up too much after short use. My Realme GT 6 experience was bad.,1,2024-04-05 22:20:00,R5489,Hindi-English
+P10264,Vivo T2,Mobile Phone,Screen brightness is poor and hard to see outdoors. My Vivo T2 experience was bad.,2,2025-02-09 21:21:00,R1848,Hindi-English
+P10265,iPhone 14,Smartphone,Great camera if you enjoy blurry photos. I am talking about the iPhone 14.,1,2024-08-06 16:16:00,R1017,English
+P10266,Nothing Phone 2,iOS Phone,Camera quality is excellent and photos come out very sharp. I liked the Nothing Phone 2.,5,2024-01-09 23:44:00,R1152,Hindi-English
+P10267,Xiaomi Redmi Note 13,iOS Phone,The phone gets laggy even during basic tasks. My Xiaomi Redmi Note 13 experience was bad.,1,2024-08-22 13:04:00,R2160,English
+P10268,Vivo V27,Android Phone,"Wow, such a great phone — it turned my calls into silence. I am talking about the Vivo V27.",1,2024-05-20 13:03:00,R5902,Hinglish
+P10269,iPhone 14,Smartphone,"Camera quality is disappointing, especially in low light. My iPhone 14 experience was bad.",2,2025-03-26 11:59:00,R3688,Hinglish
+P10270,Motorola Edge 40,Mobile Phone,"Overall, a very reliable and satisfying phone. I liked the Motorola Edge 40.",5,2024-04-12 04:46:00,R2420,English
+P10271,Vivo T2,iOS Phone,Camera quality is excellent and photos come out very sharp. I liked the Vivo T2.,4,2024-05-23 08:27:00,R6152,Hindi-English
+P10272,Poco X6 Pro,Android Phone,Charging is quick and the phone stays cool. I liked the Poco X6 Pro.,4,2025-11-05 10:17:00,R1439,Hinglish
+P10273,Oppo Reno 11,Android Phone,The phone gets laggy even during basic tasks. My Oppo Reno 11 experience was bad.,1,2024-09-02 16:53:00,R1894,Tamil-English
+P10274,Motorola G84,Smartphone,Performance is smooth and apps open quickly. I liked the Motorola G84.,5,2024-01-13 12:19:00,R9655,Hindi-English
+P10275,Oppo A78,Android Phone,Camera quality is excellent and photos come out very sharp. I liked the Oppo A78.,4,2025-11-30 05:53:00,R9951,Tamil-English
+P10276,iPhone 14,Smartphone,Storage fills up too quickly for normal use. My iPhone 14 experience was bad.,2,2024-08-08 01:21:00,R5295,English
+P10277,Nothing Phone 2,iOS Phone,Great value for money in this price range. I liked the Nothing Phone 2.,4,2025-02-15 02:48:00,R7939,Hinglish
+P10278,Realme GT 6,Smartphone,Gaming works really well without much heating. I liked the Realme GT 6.,4,2024-07-27 05:18:00,R9377,Hindi-English
+P10279,Realme GT 6,iOS Phone,Storage fills up too quickly for normal use. My Realme GT 6 experience was bad.,1,2024-02-29 08:20:00,R4909,English
+P10280,Motorola Edge 40,Smartphone,Camera quality is excellent and photos come out very sharp. I liked the Motorola Edge 40.,4,2025-11-13 22:27:00,R6067,Hinglish
+P10281,Xiaomi Redmi Note 13,Smartphone,"Camera quality is disappointing, especially in low light. My Xiaomi Redmi Note 13 experience was bad.",2,2025-05-23 11:50:00,R3684,Hindi-English
+P10282,Xiaomi Redmi Note 13,Android Phone,Great value for money in this price range. I liked the Xiaomi Redmi Note 13.,4,2024-01-31 11:26:00,R2934,Tamil-English
+P10283,Realme Narzo 60,Smartphone,Battery drains too fast and barely lasts half a day. My Realme Narzo 60 experience was bad.,2,2025-04-11 17:26:00,R9128,Hindi-English
+P10284,Xiaomi 13 Pro,Android Phone,"The display is bright, clear, and enjoyable to use. I liked the Xiaomi 13 Pro.",4,2024-09-18 03:30:00,R3577,English
+P10285,Samsung Galaxy S23,Smartphone,Perfect for gaming if you like watching lag. I am talking about the Samsung Galaxy S23.,1,2024-02-17 16:06:00,R5006,Hindi-English
+P10286,Xiaomi 13 Pro,Smartphone,Gaming works really well without much heating. I liked the Xiaomi 13 Pro.,5,2024-08-17 10:59:00,R7870,Hinglish
+P10287,Realme Narzo 60,Smartphone,"Camera quality is disappointing, especially in low light. My Realme Narzo 60 experience was bad.",1,2024-05-02 17:08:00,R7108,English
+P10288,Nothing Phone 2,Smartphone,"Premium feel, budget-level performance. I am talking about the Nothing Phone 2.",2,2024-03-11 15:52:00,R7568,Hindi-English
+P10289,iPhone 14,iOS Phone,"Fantastic performance, as long as you do nothing at all. I am talking about the iPhone 14.",2,2025-01-12 06:50:00,R1130,Hindi-English
+P10290,OnePlus 11,iOS Phone,Charging speed is slower than expected. My OnePlus 11 experience was bad.,1,2025-08-28 16:50:00,R7033,Hinglish
+P10291,Xiaomi Redmi Note 13,Smartphone,Battery life is amazing and lasts all day easily. I liked the Xiaomi Redmi Note 13.,5,2024-01-25 07:57:00,R7718,Hindi-English
+P10292,Samsung Galaxy A54,iOS Phone,Storage fills up too quickly for normal use. My Samsung Galaxy A54 experience was bad.,2,2024-04-16 07:00:00,R6038,Hinglish
+P10293,Samsung Galaxy S23,Mobile Phone,Charging speed is slower than expected. My Samsung Galaxy S23 experience was bad.,2,2024-04-05 01:29:00,R5584,Hinglish
+P10294,Vivo T2,iOS Phone,Storage fills up too quickly for normal use. My Vivo T2 experience was bad.,1,2025-08-17 03:15:00,R2391,Hinglish
+P10295,Samsung Galaxy S23,iOS Phone,"Wonderful device, except for the constant heating. I am talking about the Samsung Galaxy S23.",2,2024-08-30 09:57:00,R3141,Hindi-English
+P10296,Vivo V27,Android Phone,"The display is bright, clear, and enjoyable to use. I liked the Vivo V27.",4,2024-10-05 07:58:00,R8417,English
+P10297,iPhone 15,Mobile Phone,The build quality feels premium and solid. I liked the iPhone 15.,5,2024-06-17 15:20:00,R2731,Tamil-English
+P10298,iPhone 15,Android Phone,The device heats up too much after short use. My iPhone 15 experience was bad.,1,2025-04-07 10:31:00,R4401,Tamil-English
+P10299,iPhone 14,Mobile Phone,Speaker quality is weak and distorted. My iPhone 14 experience was bad.,1,2025-09-09 01:22:00,R5984,Hinglish
+P10300,iPhone 14,Mobile Phone,Great value for money in this price range. I liked the iPhone 14.,5,2025-02-09 17:31:00,R6828,English
+P10301,Xiaomi 13 Pro,Smartphone,The phone gets laggy even during basic tasks. My Xiaomi 13 Pro experience was bad.,2,2025-04-08 18:58:00,R7625,Hinglish
+P10302,iPhone 15,Mobile Phone,"Camera quality is disappointing, especially in low light. My iPhone 15 experience was bad.",1,2024-01-13 02:06:00,R2989,Hinglish
+P10303,Oppo Reno 11,Android Phone,Camera quality is excellent and photos come out very sharp. I liked the Oppo Reno 11.,4,2025-08-19 20:00:00,R2376,Hindi-English
+P10304,iPhone 14,Mobile Phone,The phone gets laggy even during basic tasks. My iPhone 14 experience was bad.,1,2024-05-11 03:08:00,R8265,Hindi-English
+P10305,Motorola Edge 40,Smartphone,This phone really likes to restart itself for fun. I am talking about the Motorola Edge 40.,1,2025-08-10 14:47:00,R3752,Tamil-English
+P10306,Oppo Reno 11,iOS Phone,The device heats up too much after short use. My Oppo Reno 11 experience was bad.,2,2024-12-28 07:19:00,R3831,Hinglish
+P10307,Motorola Edge 40,Mobile Phone,"Wow, such a great phone — it turned my calls into silence. I am talking about the Motorola Edge 40.",2,2025-09-20 21:08:00,R1567,Hinglish
+P10308,Motorola G84,iOS Phone,Storage fills up too quickly for normal use. My Motorola G84 experience was bad.,1,2024-03-03 02:59:00,R8848,Hindi-English
+P10309,Oppo A78,Mobile Phone,Gaming works really well without much heating. I liked the Oppo A78.,5,2024-09-12 21:31:00,R9614,English
+P10310,Motorola G84,iOS Phone,Storage fills up too quickly for normal use. My Motorola G84 experience was bad.,2,2025-08-02 17:08:00,R6636,Hindi-English
+P10311,Xiaomi 13 Pro,Smartphone,The device heats up too much after short use. My Xiaomi 13 Pro experience was bad.,1,2025-09-03 07:28:00,R6224,English
+P10312,Motorola G84,Android Phone,Screen brightness is poor and hard to see outdoors. My Motorola G84 experience was bad.,2,2024-06-12 03:25:00,R4813,Hinglish
+P10313,Poco X6 Pro,Smartphone,Great camera if you enjoy blurry photos. I am talking about the Poco X6 Pro.,1,2025-08-12 13:15:00,R4594,Hindi-English
+P10314,OnePlus 11,Android Phone,"Overall, a very reliable and satisfying phone. I liked the OnePlus 11.",4,2025-08-28 00:57:00,R6878,Hindi-English
+P10315,OnePlus Nord CE 3,iOS Phone,"Amazing phone, it freezes every time I open an app. I am talking about the OnePlus Nord CE 3.",1,2024-11-12 05:59:00,R9882,Tamil-English
+P10316,Samsung Galaxy S23,Mobile Phone,Battery drains too fast and barely lasts half a day. My Samsung Galaxy S23 experience was bad.,2,2024-01-21 17:58:00,R4584,Tamil-English
+P10317,OnePlus Nord CE 3,Mobile Phone,"Amazing phone, it freezes every time I open an app. I am talking about the OnePlus Nord CE 3.",1,2024-06-30 11:02:00,R6582,English
+P10318,Xiaomi Redmi Note 13,Smartphone,Gaming works really well without much heating. I liked the Xiaomi Redmi Note 13.,4,2025-01-08 02:28:00,R9622,Hindi-English
+P10319,Vivo V27,Android Phone,It keeps hanging and restarting randomly. My Vivo V27 experience was bad.,2,2024-05-19 05:22:00,R6285,Tamil-English
+P10320,Xiaomi 13 Pro,Android Phone,Storage fills up too quickly for normal use. My Xiaomi 13 Pro experience was bad.,2,2025-11-12 20:06:00,R4657,Hinglish
+P10321,Realme GT 6,Mobile Phone,"Fantastic performance, as long as you do nothing at all. I am talking about the Realme GT 6.",1,2024-01-02 23:57:00,R3911,Tamil-English
+P10322,Xiaomi 13 Pro,Android Phone,This phone really likes to restart itself for fun. I am talking about the Xiaomi 13 Pro.,1,2025-10-16 19:18:00,R4619,English
+P10323,Vivo V27,Smartphone,Camera quality is excellent and photos come out very sharp. I liked the Vivo V27.,5,2024-12-21 10:54:00,R4899,Hinglish
+P10324,Motorola Edge 40,Smartphone,Speaker quality is weak and distorted. My Motorola Edge 40 experience was bad.,2,2024-08-02 08:31:00,R5345,English
+P10325,iPhone 15,Smartphone,Performance is smooth and apps open quickly. I liked the iPhone 15.,5,2025-01-30 14:57:00,R1788,Tamil-English
+P10326,Motorola G84,iOS Phone,This phone really likes to restart itself for fun. I am talking about the Motorola G84.,1,2025-07-13 12:48:00,R6754,English
+P10327,Xiaomi 13 Pro,iOS Phone,Speaker quality is weak and distorted. My Xiaomi 13 Pro experience was bad.,2,2024-02-04 10:03:00,R2207,English
+P10328,iPhone 15,Smartphone,"Top-class device, because waiting is now my new hobby. I am talking about the iPhone 15.",1,2024-06-23 12:48:00,R6600,Hinglish
+P10329,Poco X6 Pro,Smartphone,Battery life is amazing and lasts all day easily. I liked the Poco X6 Pro.,5,2025-08-31 20:56:00,R6536,Tamil-English
+P10330,Xiaomi 13 Pro,iOS Phone,"The display is bright, clear, and enjoyable to use. I liked the Xiaomi 13 Pro.",4,2024-02-24 03:27:00,R3573,Hindi-English
+P10331,Oppo A78,Android Phone,Battery life is amazing and lasts all day easily. I liked the Oppo A78.,5,2024-10-31 08:06:00,R5612,English
+P10332,Poco X6 Pro,iOS Phone,Perfect for gaming if you like watching lag. I am talking about the Poco X6 Pro.,1,2024-02-25 12:18:00,R3516,English
+P10333,Realme GT 6,iOS Phone,"Camera quality is disappointing, especially in low light. My Realme GT 6 experience was bad.",2,2024-04-09 00:52:00,R4271,Hinglish
+P10334,iPhone 14,iOS Phone,This phone really likes to restart itself for fun. I am talking about the iPhone 14.,2,2024-11-11 13:34:00,R2892,Tamil-English
+P10335,iPhone 14,iOS Phone,Great camera if you enjoy blurry photos. I am talking about the iPhone 14.,2,2025-01-14 13:01:00,R4029,Hindi-English
+P10336,Samsung Galaxy S23,Android Phone,The device heats up too much after short use. My Samsung Galaxy S23 experience was bad.,1,2025-04-21 08:59:00,R8204,Hinglish
+P10337,Xiaomi Redmi Note 13,Smartphone,Not worth the money at all. My Xiaomi Redmi Note 13 experience was bad.,1,2025-11-15 11:44:00,R2404,Tamil-English
+P10338,Poco X6 Pro,Smartphone,"Overall, a very reliable and satisfying phone. I liked the Poco X6 Pro.",4,2025-06-19 14:17:00,R7342,Tamil-English
+P10339,Motorola G84,Android Phone,Camera quality is excellent and photos come out very sharp. I liked the Motorola G84.,5,2025-02-08 01:11:00,R2293,Hinglish
+P10340,Xiaomi 13 Pro,Mobile Phone,Storage fills up too quickly for normal use. My Xiaomi 13 Pro experience was bad.,1,2024-07-16 04:18:00,R4471,English
+P10341,Oppo A78,Mobile Phone,Camera quality is excellent and photos come out very sharp. I liked the Oppo A78.,4,2025-09-01 08:48:00,R3422,Hindi-English
+P10342,Oppo Reno 11,iOS Phone,Battery life is amazing and lasts all day easily. I liked the Oppo Reno 11.,5,2024-10-09 17:44:00,R6343,Tamil-English
+P10343,iPhone 15,iOS Phone,Camera quality is excellent and photos come out very sharp. I liked the iPhone 15.,4,2024-05-31 19:20:00,R3451,English
+P10344,Realme GT 6,Android Phone,Not worth the money at all. My Realme GT 6 experience was bad.,2,2024-09-27 13:04:00,R7732,Tamil-English
+P10345,Samsung Galaxy S23,Mobile Phone,Battery drains too fast and barely lasts half a day. My Samsung Galaxy S23 experience was bad.,2,2025-02-16 04:54:00,R5512,Tamil-English
+P10346,Vivo V27,Mobile Phone,Battery drains too fast and barely lasts half a day. My Vivo V27 experience was bad.,2,2025-05-01 09:10:00,R1807,Hindi-English
+P10347,Realme GT 6,Android Phone,"The display is bright, clear, and enjoyable to use. I liked the Realme GT 6.",4,2025-05-18 23:45:00,R5593,English
+P10348,Realme GT 6,iOS Phone,Screen brightness is poor and hard to see outdoors. My Realme GT 6 experience was bad.,2,2024-10-02 14:13:00,R6257,English
+P10349,OnePlus Nord CE 3,iOS Phone,"A brilliant screen, if you only use it indoors. I am talking about the OnePlus Nord CE 3.",1,2025-06-12 12:45:00,R8937,English
+P10350,iPhone 14,Android Phone,Great camera if you enjoy blurry photos. I am talking about the iPhone 14.,1,2025-02-17 04:37:00,R9303,English
+P10351,OnePlus Nord CE 3,Smartphone,Speaker quality is weak and distorted. My OnePlus Nord CE 3 experience was bad.,1,2024-02-03 15:34:00,R5087,English
+P10352,Realme Narzo 60,Android Phone,"Wow, such a great phone — it turned my calls into silence. I am talking about the Realme Narzo 60.",1,2025-06-01 13:32:00,R8605,English
+P10353,OnePlus 11,Android Phone,Fingerprint sensor is fast and accurate. I liked the OnePlus 11.,5,2025-08-31 15:13:00,R9008,Hinglish
+P10354,Vivo T2,Mobile Phone,Gaming works really well without much heating. I liked the Vivo T2.,4,2024-04-02 09:43:00,R5237,English
+P10355,Xiaomi 13 Pro,Mobile Phone,Great value for money in this price range. I liked the Xiaomi 13 Pro.,5,2025-10-24 07:41:00,R4626,Hinglish
+P10356,Nothing Phone 2,Smartphone,"Fantastic performance, as long as you do nothing at all. I am talking about the Nothing Phone 2.",1,2025-04-30 04:30:00,R1145,Hinglish
+P10357,OnePlus 11,Android Phone,Perfect for gaming if you like watching lag. I am talking about the OnePlus 11.,2,2025-10-20 09:23:00,R6004,Tamil-English
+P10358,Motorola Edge 40,Android Phone,"Overall, a very reliable and satisfying phone. I liked the Motorola Edge 40.",4,2025-04-22 10:18:00,R4575,Tamil-English
+P10359,Samsung Galaxy A54,Android Phone,It keeps hanging and restarting randomly. My Samsung Galaxy A54 experience was bad.,1,2024-11-01 23:21:00,R5631,English
+P10360,Vivo V27,Android Phone,"So fast, I had time to make tea while it loaded. I am talking about the Vivo V27.",1,2024-10-10 08:54:00,R6327,Hindi-English
+P10361,Nothing Phone 2,Mobile Phone,"Camera quality is disappointing, especially in low light. My Nothing Phone 2 experience was bad.",1,2025-09-06 13:47:00,R1930,Hindi-English
+P10362,Motorola G84,Android Phone,Battery drains too fast and barely lasts half a day. My Motorola G84 experience was bad.,1,2025-03-04 13:48:00,R5250,Tamil-English
+P10363,Vivo V27,Mobile Phone,Charging is quick and the phone stays cool. I liked the Vivo V27.,5,2025-10-15 16:14:00,R9759,Hindi-English
+P10364,Xiaomi 13 Pro,Mobile Phone,The device heats up too much after short use. My Xiaomi 13 Pro experience was bad.,1,2024-04-09 16:04:00,R5813,Hinglish
+P10365,Vivo V27,Smartphone,Perfect for gaming if you like watching lag. I am talking about the Vivo V27.,2,2024-12-29 07:37:00,R4641,Hindi-English
+P10366,Vivo T2,Android Phone,"Amazing phone, it freezes every time I open an app. I am talking about the Vivo T2.",1,2025-04-19 04:01:00,R5817,Tamil-English
+P10367,Motorola G84,Mobile Phone,Charging speed is slower than expected. My Motorola G84 experience was bad.,2,2024-05-02 23:14:00,R9199,Tamil-English
+P10368,Oppo A78,Smartphone,Perfect for gaming if you like watching lag. I am talking about the Oppo A78.,2,2024-05-20 06:50:00,R3470,Hindi-English
+P10369,Xiaomi Redmi Note 13,Android Phone,"Wow, such a great phone — it turned my calls into silence. I am talking about the Xiaomi Redmi Note 13.",1,2024-03-23 16:38:00,R3954,Hindi-English
+P10370,Vivo V27,Smartphone,Performance is smooth and apps open quickly. I liked the Vivo V27.,4,2025-04-07 09:20:00,R1077,Hinglish
+P10371,Motorola G84,Smartphone,Perfect for gaming if you like watching lag. I am talking about the Motorola G84.,2,2025-09-21 14:48:00,R3120,Tamil-English
+P10372,Motorola G84,iOS Phone,The build quality feels premium and solid. I liked the Motorola G84.,4,2024-02-08 18:13:00,R1076,Hinglish
+P10373,Vivo V27,Mobile Phone,"So fast, I had time to make tea while it loaded. I am talking about the Vivo V27.",2,2025-11-23 00:08:00,R1293,Hinglish
+P10374,Realme GT 6,Mobile Phone,Performance is smooth and apps open quickly. I liked the Realme GT 6.,4,2025-01-27 17:10:00,R2682,Hindi-English
+P10375,Samsung Galaxy S23,Android Phone,Perfect for gaming if you like watching lag. I am talking about the Samsung Galaxy S23.,1,2025-04-11 17:45:00,R5764,Hindi-English
+P10376,Vivo V27,iOS Phone,"Amazing phone, it freezes every time I open an app. I am talking about the Vivo V27.",1,2024-07-11 05:37:00,R6885,Tamil-English
+P10377,OnePlus 11,Mobile Phone,Camera quality is excellent and photos come out very sharp. I liked the OnePlus 11.,5,2024-01-23 20:07:00,R4460,Hinglish
+P10378,Samsung Galaxy S23,iOS Phone,"Overall, a very reliable and satisfying phone. I liked the Samsung Galaxy S23.",4,2025-07-01 21:16:00,R5190,English
+P10379,iPhone 15,Smartphone,Perfect for gaming if you like watching lag. I am talking about the iPhone 15.,1,2024-04-28 14:13:00,R1790,Tamil-English
+P10380,Poco X6 Pro,Android Phone,"Premium feel, budget-level performance. I am talking about the Poco X6 Pro.",2,2024-06-05 07:00:00,R8772,English
+P10381,iPhone 15,Android Phone,Great value for money in this price range. I liked the iPhone 15.,4,2025-03-04 03:34:00,R3247,English
+P10382,iPhone 15,iOS Phone,Charging is quick and the phone stays cool. I liked the iPhone 15.,4,2025-09-15 06:49:00,R4254,Hindi-English
+P10383,Vivo T2,iOS Phone,Screen brightness is poor and hard to see outdoors. My Vivo T2 experience was bad.,2,2024-06-13 01:20:00,R5839,Tamil-English
+P10384,Vivo V27,Mobile Phone,Battery is excellent — it dies before lunch. I am talking about the Vivo V27.,2,2024-01-14 22:55:00,R1044,English
+P10385,Xiaomi Redmi Note 13,Smartphone,"The display is bright, clear, and enjoyable to use. I liked the Xiaomi Redmi Note 13.",5,2024-03-17 03:27:00,R9383,Hindi-English
+P10386,Realme GT 6,Android Phone,Battery drains too fast and barely lasts half a day. My Realme GT 6 experience was bad.,2,2024-02-21 03:24:00,R8606,Hinglish
+P10387,Vivo T2,Android Phone,Battery life is amazing and lasts all day easily. I liked the Vivo T2.,4,2024-04-28 03:14:00,R7979,English
+P10388,Xiaomi 13 Pro,Android Phone,Camera quality is excellent and photos come out very sharp. I liked the Xiaomi 13 Pro.,5,2025-03-24 21:13:00,R6857,Hindi-English
+P10389,Vivo V27,Mobile Phone,Great value for money in this price range. I liked the Vivo V27.,5,2025-02-14 13:39:00,R2865,Tamil-English
+P10390,Motorola G84,iOS Phone,Performance is smooth and apps open quickly. I liked the Motorola G84.,4,2024-04-25 04:31:00,R3732,English
+P10391,Oppo A78,iOS Phone,"Wonderful device, except for the constant heating. I am talking about the Oppo A78.",1,2024-07-04 20:51:00,R8178,Tamil-English
+P10392,Xiaomi Redmi Note 13,iOS Phone,Battery life is amazing and lasts all day easily. I liked the Xiaomi Redmi Note 13.,4,2024-04-25 14:02:00,R8997,Tamil-English
+P10393,Realme Narzo 60,Android Phone,The build quality feels premium and solid. I liked the Realme Narzo 60.,4,2025-11-25 17:54:00,R1202,Hinglish
+P10394,Oppo A78,Mobile Phone,Performance is smooth and apps open quickly. I liked the Oppo A78.,4,2024-12-20 22:39:00,R8895,Tamil-English
+P10395,Samsung Galaxy A54,Mobile Phone,The phone gets laggy even during basic tasks. My Samsung Galaxy A54 experience was bad.,2,2025-04-25 16:55:00,R9283,Hinglish
+P10396,Vivo V27,Mobile Phone,Charging is quick and the phone stays cool. I liked the Vivo V27.,5,2024-10-11 01:43:00,R6421,Hinglish
+P10397,Oppo Reno 11,Mobile Phone,The phone gets laggy even during basic tasks. My Oppo Reno 11 experience was bad.,2,2025-04-15 15:09:00,R2291,Tamil-English
+P10398,Motorola Edge 40,Android Phone,The phone gets laggy even during basic tasks. My Motorola Edge 40 experience was bad.,2,2025-05-24 22:18:00,R2944,English
+P10399,Oppo A78,Smartphone,"A brilliant screen, if you only use it indoors. I am talking about the Oppo A78.",1,2024-01-01 03:06:00,R9996,Hindi-English
+P10400,Motorola Edge 40,Android Phone,"Wonderful device, except for the constant heating. I am talking about the Motorola Edge 40.",2,2024-02-25 07:36:00,R6953,Tamil-English
+P10401,Vivo T2,iOS Phone,Battery life is amazing and lasts all day easily. I liked the Vivo T2.,5,2024-04-09 22:29:00,R2868,Hinglish
+P10402,Vivo T2,Android Phone,Battery drains too fast and barely lasts half a day. My Vivo T2 experience was bad.,1,2025-06-18 12:45:00,R9973,English
+P10403,Motorola G84,Mobile Phone,"The display is bright, clear, and enjoyable to use. I liked the Motorola G84.",4,2024-04-19 08:40:00,R7704,Hinglish
+P10404,Oppo Reno 11,Mobile Phone,Perfect for gaming if you like watching lag. I am talking about the Oppo Reno 11.,1,2024-07-14 11:32:00,R8488,English
+P10405,iPhone 15,iOS Phone,Fingerprint sensor is fast and accurate. I liked the iPhone 15.,4,2025-11-05 20:06:00,R8493,Hinglish
+P10406,Nothing Phone 2,Smartphone,"Overall, a very reliable and satisfying phone. I liked the Nothing Phone 2.",4,2025-08-22 16:29:00,R8091,Hinglish
+P10407,Xiaomi Redmi Note 13,Smartphone,Charging speed is slower than expected. My Xiaomi Redmi Note 13 experience was bad.,2,2025-11-04 20:29:00,R7347,Hindi-English
+P10408,Oppo A78,Mobile Phone,This phone really likes to restart itself for fun. I am talking about the Oppo A78.,1,2025-02-11 11:42:00,R5482,Hindi-English
+P10409,Xiaomi Redmi Note 13,iOS Phone,Charging speed is slower than expected. My Xiaomi Redmi Note 13 experience was bad.,1,2024-11-02 23:56:00,R9393,Hindi-English
+P10410,OnePlus Nord CE 3,Mobile Phone,"Camera quality is disappointing, especially in low light. My OnePlus Nord CE 3 experience was bad.",2,2024-12-19 22:57:00,R5760,Hinglish
+P10411,iPhone 15,Android Phone,Charging is quick and the phone stays cool. I liked the iPhone 15.,5,2025-08-19 19:28:00,R8870,Tamil-English
+P10412,Oppo A78,Smartphone,Great camera if you enjoy blurry photos. I am talking about the Oppo A78.,1,2024-04-19 00:51:00,R9564,Tamil-English
+P10413,Samsung Galaxy S23,Mobile Phone,Performance is smooth and apps open quickly. I liked the Samsung Galaxy S23.,4,2024-06-13 09:46:00,R5374,Hindi-English
+P10414,Realme GT 6,Mobile Phone,The phone gets laggy even during basic tasks. My Realme GT 6 experience was bad.,1,2024-02-03 12:14:00,R9866,Tamil-English
+P10415,Poco X6 Pro,iOS Phone,Battery life is amazing and lasts all day easily. I liked the Poco X6 Pro.,5,2025-06-07 23:45:00,R4892,Hindi-English
+P10416,Oppo Reno 11,iOS Phone,Great value for money in this price range. I liked the Oppo Reno 11.,4,2025-07-19 01:50:00,R6122,English
+P10417,Motorola Edge 40,Mobile Phone,"The display is bright, clear, and enjoyable to use. I liked the Motorola Edge 40.",5,2025-08-25 18:39:00,R7025,Hinglish
+P10418,Motorola Edge 40,Mobile Phone,Storage fills up too quickly for normal use. My Motorola Edge 40 experience was bad.,1,2024-07-10 05:55:00,R2220,English
+P10419,Oppo A78,Android Phone,"Amazing phone, it freezes every time I open an app. I am talking about the Oppo A78.",2,2024-05-13 05:29:00,R5329,Hindi-English
+P10420,Motorola Edge 40,Mobile Phone,"Wow, such a great phone — it turned my calls into silence. I am talking about the Motorola Edge 40.",2,2024-06-06 11:00:00,R1654,English
+P10421,Motorola G84,Android Phone,"Camera quality is disappointing, especially in low light. My Motorola G84 experience was bad.",1,2024-11-21 17:56:00,R2194,Hinglish
+P10422,Nothing Phone 2,Mobile Phone,Battery is excellent — it dies before lunch. I am talking about the Nothing Phone 2.,2,2025-07-10 18:19:00,R7814,Tamil-English
+P10423,OnePlus 11,Mobile Phone,Screen brightness is poor and hard to see outdoors. My OnePlus 11 experience was bad.,2,2024-12-05 12:18:00,R6437,Hindi-English
+P10424,Poco X6 Pro,Smartphone,"So fast, I had time to make tea while it loaded. I am talking about the Poco X6 Pro.",1,2025-11-15 11:48:00,R2879,Tamil-English
+P10425,Samsung Galaxy S23,Android Phone,Charging speed is slower than expected. My Samsung Galaxy S23 experience was bad.,2,2024-04-26 13:10:00,R7248,Hindi-English
+P10426,Samsung Galaxy A54,Android Phone,Battery drains too fast and barely lasts half a day. My Samsung Galaxy A54 experience was bad.,2,2025-06-04 15:12:00,R9426,Tamil-English
+P10427,OnePlus Nord CE 3,Android Phone,"A brilliant screen, if you only use it indoors. I am talking about the OnePlus Nord CE 3.",1,2024-03-25 03:16:00,R9419,Hinglish
+P10428,iPhone 14,Mobile Phone,Charging speed is slower than expected. My iPhone 14 experience was bad.,2,2025-03-10 03:32:00,R4492,Hinglish
+P10429,iPhone 14,Mobile Phone,The phone gets laggy even during basic tasks. My iPhone 14 experience was bad.,1,2025-04-15 11:19:00,R1389,English
+P10430,Samsung Galaxy S23,Mobile Phone,The device heats up too much after short use. My Samsung Galaxy S23 experience was bad.,2,2025-07-25 02:24:00,R5127,Hinglish
+P10431,Oppo Reno 11,iOS Phone,Gaming works really well without much heating. I liked the Oppo Reno 11.,4,2025-03-19 10:47:00,R7626,English
+P10432,Poco X6 Pro,Smartphone,"Wonderful device, except for the constant heating. I am talking about the Poco X6 Pro.",1,2025-08-22 01:33:00,R2036,English
+P10433,Realme GT 6,Android Phone,Storage fills up too quickly for normal use. My Realme GT 6 experience was bad.,1,2024-10-15 14:56:00,R2417,Tamil-English
+P10434,Motorola G84,Mobile Phone,"A brilliant screen, if you only use it indoors. I am talking about the Motorola G84.",2,2024-08-13 04:39:00,R9740,Tamil-English
+P10435,Xiaomi Redmi Note 13,Android Phone,The phone gets laggy even during basic tasks. My Xiaomi Redmi Note 13 experience was bad.,1,2024-01-12 18:53:00,R7113,Hinglish
+P10436,Samsung Galaxy A54,iOS Phone,"The display is bright, clear, and enjoyable to use. I liked the Samsung Galaxy A54.",5,2025-07-14 02:54:00,R9800,Hindi-English
+P10437,OnePlus Nord CE 3,iOS Phone,"The display is bright, clear, and enjoyable to use. I liked the OnePlus Nord CE 3.",5,2024-05-25 05:29:00,R9397,Hinglish
+P10438,OnePlus Nord CE 3,Smartphone,"A brilliant screen, if you only use it indoors. I am talking about the OnePlus Nord CE 3.",2,2025-11-18 19:21:00,R3971,English
+P10439,Poco X6 Pro,Smartphone,Camera quality is excellent and photos come out very sharp. I liked the Poco X6 Pro.,4,2025-11-18 02:17:00,R5762,Hindi-English
+P10440,Motorola G84,Android Phone,The phone gets laggy even during basic tasks. My Motorola G84 experience was bad.,2,2024-05-11 22:54:00,R6851,Hinglish
+P10441,iPhone 14,Mobile Phone,"Overall, a very reliable and satisfying phone. I liked the iPhone 14.",5,2025-05-12 15:22:00,R6206,Hindi-English
+P10442,Xiaomi Redmi Note 13,Android Phone,Speaker quality is weak and distorted. My Xiaomi Redmi Note 13 experience was bad.,1,2025-03-14 05:45:00,R6182,English
+P10443,OnePlus 11,iOS Phone,This phone really likes to restart itself for fun. I am talking about the OnePlus 11.,2,2025-01-03 04:35:00,R5533,Hindi-English
+P10444,Motorola Edge 40,Android Phone,"Camera quality is disappointing, especially in low light. My Motorola Edge 40 experience was bad.",1,2025-05-13 18:49:00,R6004,English
+P10445,Realme Narzo 60,Mobile Phone,The phone gets laggy even during basic tasks. My Realme Narzo 60 experience was bad.,1,2024-07-20 08:59:00,R9824,English
+P10446,Nothing Phone 2,Smartphone,"A brilliant screen, if you only use it indoors. I am talking about the Nothing Phone 2.",2,2025-08-27 07:15:00,R7637,English
+P10447,Poco X6 Pro,iOS Phone,"Fantastic performance, as long as you do nothing at all. I am talking about the Poco X6 Pro.",2,2025-01-09 13:23:00,R3435,Hinglish
+P10448,Xiaomi Redmi Note 13,iOS Phone,The build quality feels premium and solid. I liked the Xiaomi Redmi Note 13.,4,2025-06-06 03:05:00,R9210,Tamil-English
+P10449,OnePlus 11,Mobile Phone,"Camera quality is disappointing, especially in low light. My OnePlus 11 experience was bad.",1,2024-05-23 15:13:00,R9423,Hinglish
+P10450,Motorola G84,Android Phone,Camera quality is excellent and photos come out very sharp. I liked the Motorola G84.,5,2024-08-12 16:38:00,R1662,Hinglish
+P10451,Vivo T2,Mobile Phone,Storage fills up too quickly for normal use. My Vivo T2 experience was bad.,2,2025-11-15 07:03:00,R1701,Hindi-English
+P10452,Motorola Edge 40,Smartphone,"Top-class device, because waiting is now my new hobby. I am talking about the Motorola Edge 40.",2,2025-10-26 11:03:00,R1653,English
+P10453,Realme Narzo 60,Mobile Phone,Not worth the money at all. My Realme Narzo 60 experience was bad.,1,2025-10-31 12:55:00,R7171,Hindi-English
+P10454,Nothing Phone 2,Android Phone,Speaker quality is weak and distorted. My Nothing Phone 2 experience was bad.,2,2024-08-16 17:37:00,R7165,Tamil-English
+P10455,Motorola G84,iOS Phone,Performance is smooth and apps open quickly. I liked the Motorola G84.,4,2025-05-28 04:44:00,R1108,Tamil-English
+P10456,iPhone 14,Android Phone,Speaker quality is weak and distorted. My iPhone 14 experience was bad.,1,2024-06-02 06:22:00,R4465,Hinglish
+P10457,OnePlus 11,iOS Phone,Fingerprint sensor is fast and accurate. I liked the OnePlus 11.,4,2024-04-26 16:26:00,R6410,Tamil-English
+P10458,Xiaomi 13 Pro,iOS Phone,"Fantastic performance, as long as you do nothing at all. I am talking about the Xiaomi 13 Pro.",1,2024-09-06 01:28:00,R1367,Hinglish
+P10459,Xiaomi Redmi Note 13,Smartphone,Great camera if you enjoy blurry photos. I am talking about the Xiaomi Redmi Note 13.,2,2024-02-27 05:40:00,R3406,Hindi-English
+P10460,Samsung Galaxy A54,Android Phone,It keeps hanging and restarting randomly. My Samsung Galaxy A54 experience was bad.,1,2024-08-09 15:19:00,R2404,Tamil-English
+P10461,OnePlus 11,iOS Phone,Performance is smooth and apps open quickly. I liked the OnePlus 11.,5,2025-08-19 06:12:00,R3338,Hindi-English
+P10462,Motorola Edge 40,Smartphone,The phone gets laggy even during basic tasks. My Motorola Edge 40 experience was bad.,1,2025-01-22 13:09:00,R4765,Hinglish
+P10463,OnePlus Nord CE 3,iOS Phone,Fingerprint sensor is fast and accurate. I liked the OnePlus Nord CE 3.,4,2025-09-12 03:17:00,R3450,Hinglish
+P10464,Poco X6 Pro,Smartphone,"Overall, a very reliable and satisfying phone. I liked the Poco X6 Pro.",4,2025-05-08 22:30:00,R2526,Hinglish
+P10465,Oppo A78,iOS Phone,Screen brightness is poor and hard to see outdoors. My Oppo A78 experience was bad.,2,2024-02-14 23:48:00,R7068,Tamil-English
+P10466,Oppo Reno 11,Android Phone,Fingerprint sensor is fast and accurate. I liked the Oppo Reno 11.,4,2025-03-11 04:34:00,R2600,Hindi-English
+P10467,iPhone 14,Android Phone,"Amazing phone, it freezes every time I open an app. I am talking about the iPhone 14.",1,2025-02-22 08:47:00,R9908,Hinglish
+P10468,Nothing Phone 2,Smartphone,The build quality feels premium and solid. I liked the Nothing Phone 2.,5,2024-01-08 12:48:00,R9515,Hinglish
+P10469,Vivo T2,Smartphone,Great value for money in this price range. I liked the Vivo T2.,5,2025-03-12 22:14:00,R3535,Hindi-English
+P10470,Vivo T2,Android Phone,Great camera if you enjoy blurry photos. I am talking about the Vivo T2.,2,2024-07-27 14:06:00,R7511,Tamil-English
+P10471,Poco X6 Pro,iOS Phone,Gaming works really well without much heating. I liked the Poco X6 Pro.,4,2024-11-10 19:43:00,R5157,Hindi-English
+P10472,iPhone 15,Mobile Phone,Charging speed is slower than expected. My iPhone 15 experience was bad.,2,2024-06-14 03:25:00,R8317,Hinglish
+P10473,Vivo V27,Smartphone,The phone gets laggy even during basic tasks. My Vivo V27 experience was bad.,1,2025-02-02 21:42:00,R3633,English
+P10474,Motorola G84,iOS Phone,The build quality feels premium and solid. I liked the Motorola G84.,4,2024-03-06 08:58:00,R2444,Hinglish
+P10475,Samsung Galaxy S23,iOS Phone,"Top-class device, because waiting is now my new hobby. I am talking about the Samsung Galaxy S23.",1,2025-09-20 22:23:00,R7564,Hindi-English
+P10476,Xiaomi 13 Pro,iOS Phone,"So fast, I had time to make tea while it loaded. I am talking about the Xiaomi 13 Pro.",1,2024-01-11 06:53:00,R8192,Hindi-English
+P10477,Nothing Phone 2,Mobile Phone,"So fast, I had time to make tea while it loaded. I am talking about the Nothing Phone 2.",1,2025-11-21 01:13:00,R3776,Hindi-English
+P10478,Xiaomi 13 Pro,Smartphone,Perfect for gaming if you like watching lag. I am talking about the Xiaomi 13 Pro.,1,2025-02-13 12:03:00,R5520,Tamil-English
+P10479,Nothing Phone 2,Smartphone,"Top-class device, because waiting is now my new hobby. I am talking about the Nothing Phone 2.",2,2024-04-02 18:45:00,R2124,Hindi-English
+P10480,Vivo T2,Android Phone,Gaming works really well without much heating. I liked the Vivo T2.,4,2025-09-12 06:38:00,R4707,Tamil-English
+P10481,Realme Narzo 60,Mobile Phone,Charging is quick and the phone stays cool. I liked the Realme Narzo 60.,5,2025-06-02 03:38:00,R7670,English
+P10482,Vivo V27,Smartphone,"Top-class device, because waiting is now my new hobby. I am talking about the Vivo V27.",2,2024-09-20 18:21:00,R9409,Hindi-English
+P10483,Oppo Reno 11,iOS Phone,Not worth the money at all. My Oppo Reno 11 experience was bad.,1,2024-12-13 15:39:00,R4985,Tamil-English
+P10484,Motorola G84,Smartphone,Screen brightness is poor and hard to see outdoors. My Motorola G84 experience was bad.,2,2024-03-10 13:03:00,R5224,Hinglish
+P10485,Oppo A78,Android Phone,"The display is bright, clear, and enjoyable to use. I liked the Oppo A78.",5,2025-07-02 00:19:00,R9462,Hindi-English
+P10486,iPhone 14,iOS Phone,It keeps hanging and restarting randomly. My iPhone 14 experience was bad.,2,2024-03-18 18:55:00,R6603,Hinglish
+P10487,Vivo T2,Mobile Phone,This phone really likes to restart itself for fun. I am talking about the Vivo T2.,1,2024-07-06 23:19:00,R5408,Hinglish
+P10488,OnePlus 11,Mobile Phone,"So fast, I had time to make tea while it loaded. I am talking about the OnePlus 11.",2,2024-07-30 07:49:00,R5348,Hinglish
+P10489,Xiaomi Redmi Note 13,Smartphone,Not worth the money at all. My Xiaomi Redmi Note 13 experience was bad.,1,2024-03-21 23:04:00,R2964,Tamil-English
+P10490,Poco X6 Pro,Smartphone,It keeps hanging and restarting randomly. My Poco X6 Pro experience was bad.,2,2025-01-15 21:11:00,R8901,Hindi-English
+P10491,Motorola G84,Mobile Phone,Not worth the money at all. My Motorola G84 experience was bad.,1,2024-10-13 13:34:00,R9374,Hinglish
+P10492,Samsung Galaxy S23,iOS Phone,Gaming works really well without much heating. I liked the Samsung Galaxy S23.,4,2025-07-07 01:06:00,R8836,Hindi-English
+P10493,Motorola Edge 40,Smartphone,Battery life is amazing and lasts all day easily. I liked the Motorola Edge 40.,4,2025-04-16 10:46:00,R9490,English
+P10494,Oppo Reno 11,Smartphone,Performance is smooth and apps open quickly. I liked the Oppo Reno 11.,5,2025-01-05 20:54:00,R6331,Hindi-English
+P10495,OnePlus 11,Android Phone,"Camera quality is disappointing, especially in low light. My OnePlus 11 experience was bad.",2,2025-09-19 11:42:00,R8722,Hindi-English
+P10496,Oppo A78,Mobile Phone,The device heats up too much after short use. My Oppo A78 experience was bad.,2,2025-01-16 12:27:00,R7866,Tamil-English
+P10497,Xiaomi 13 Pro,Mobile Phone,Charging speed is slower than expected. My Xiaomi 13 Pro experience was bad.,2,2024-04-12 09:12:00,R4744,Hinglish
+P10498,Oppo Reno 11,Mobile Phone,Performance is smooth and apps open quickly. I liked the Oppo Reno 11.,5,2024-06-02 16:08:00,R3389,English
+P10499,Motorola G84,Mobile Phone,The device heats up too much after short use. My Motorola G84 experience was bad.,2,2025-06-30 10:46:00,R9470,Tamil-English
+P10500,Poco X6 Pro,Smartphone,"Amazing phone, it freezes every time I open an app. I am talking about the Poco X6 Pro.",1,2024-04-11 23:34:00,R7527,Hinglish
+P10501,Realme Narzo 60,iOS Phone,Speaker quality is weak and distorted. My Realme Narzo 60 experience was bad.,2,2025-04-05 11:25:00,R2577,Hindi-English
+P10502,Poco X6 Pro,Android Phone,Speaker quality is weak and distorted. My Poco X6 Pro experience was bad.,1,2024-01-21 14:03:00,R6638,English
+P10503,Poco X6 Pro,Mobile Phone,Fingerprint sensor is fast and accurate. I liked the Poco X6 Pro.,4,2024-12-29 11:05:00,R5663,Tamil-English
+P10504,Oppo Reno 11,Android Phone,The build quality feels premium and solid. I liked the Oppo Reno 11.,5,2025-10-08 04:56:00,R8598,Hinglish
+P10505,Oppo Reno 11,Smartphone,The build quality feels premium and solid. I liked the Oppo Reno 11.,5,2024-06-14 11:43:00,R2296,Hinglish
+P10506,Realme GT 6,Android Phone,Not worth the money at all. My Realme GT 6 experience was bad.,2,2024-10-04 15:11:00,R7479,Hindi-English
+P10507,Oppo A78,Mobile Phone,Great value for money in this price range. I liked the Oppo A78.,4,2024-01-24 04:16:00,R4012,Hinglish
+P10508,OnePlus Nord CE 3,Mobile Phone,It keeps hanging and restarting randomly. My OnePlus Nord CE 3 experience was bad.,1,2024-04-15 03:15:00,R7505,English
+P10509,Samsung Galaxy A54,iOS Phone,Not worth the money at all. My Samsung Galaxy A54 experience was bad.,1,2024-03-26 03:32:00,R9584,Hindi-English
+P10510,iPhone 14,iOS Phone,This phone really likes to restart itself for fun. I am talking about the iPhone 14.,1,2024-08-22 08:26:00,R6068,Hindi-English
+P10511,Xiaomi Redmi Note 13,Mobile Phone,The build quality feels premium and solid. I liked the Xiaomi Redmi Note 13.,5,2024-02-05 22:38:00,R1468,Hindi-English
+P10512,Motorola Edge 40,Android Phone,Not worth the money at all. My Motorola Edge 40 experience was bad.,2,2025-03-31 04:36:00,R9987,Hinglish
+P10513,Oppo A78,Android Phone,The phone gets laggy even during basic tasks. My Oppo A78 experience was bad.,2,2025-05-08 18:25:00,R6688,Hinglish
+P10514,Realme GT 6,Android Phone,Battery life is amazing and lasts all day easily. I liked the Realme GT 6.,4,2024-09-23 05:18:00,R7753,Hindi-English
+P10515,Nothing Phone 2,Mobile Phone,Fingerprint sensor is fast and accurate. I liked the Nothing Phone 2.,5,2024-10-20 16:00:00,R6634,English
+P10516,Realme GT 6,Smartphone,Battery drains too fast and barely lasts half a day. My Realme GT 6 experience was bad.,2,2024-10-26 20:22:00,R8052,Hinglish
+P10517,OnePlus Nord CE 3,iOS Phone,Gaming works really well without much heating. I liked the OnePlus Nord CE 3.,5,2025-02-08 08:31:00,R8161,Hinglish
+P10518,OnePlus 11,Android Phone,Charging speed is slower than expected. My OnePlus 11 experience was bad.,2,2025-03-08 21:20:00,R2297,Hinglish
+P10519,Realme GT 6,Android Phone,Performance is smooth and apps open quickly. I liked the Realme GT 6.,5,2024-07-11 02:20:00,R7765,Hinglish
+P10520,iPhone 15,iOS Phone,"So fast, I had time to make tea while it loaded. I am talking about the iPhone 15.",2,2024-10-05 23:54:00,R8418,Tamil-English
+P10521,Samsung Galaxy A54,Mobile Phone,Battery is excellent — it dies before lunch. I am talking about the Samsung Galaxy A54.,2,2025-07-01 00:45:00,R1813,Hinglish
+P10522,Realme Narzo 60,Mobile Phone,Great camera if you enjoy blurry photos. I am talking about the Realme Narzo 60.,1,2024-01-09 07:56:00,R8183,English
+P10523,Motorola G84,Mobile Phone,Speaker quality is weak and distorted. My Motorola G84 experience was bad.,2,2025-03-06 10:38:00,R6601,Tamil-English
+P10524,Samsung Galaxy S23,Android Phone,Gaming works really well without much heating. I liked the Samsung Galaxy S23.,4,2024-05-29 01:54:00,R2314,Hindi-English
+P10525,Poco X6 Pro,iOS Phone,Battery life is amazing and lasts all day easily. I liked the Poco X6 Pro.,4,2024-07-15 08:32:00,R3975,Tamil-English
+P10526,OnePlus 11,iOS Phone,This phone really likes to restart itself for fun. I am talking about the OnePlus 11.,1,2024-09-10 01:08:00,R8257,Hinglish
+P10527,Nothing Phone 2,Mobile Phone,Speaker quality is weak and distorted. My Nothing Phone 2 experience was bad.,1,2025-02-02 23:15:00,R8746,Hindi-English
+P10528,Samsung Galaxy S23,Smartphone,"The display is bright, clear, and enjoyable to use. I liked the Samsung Galaxy S23.",5,2025-05-07 21:47:00,R5150,Hindi-English
+P10529,Samsung Galaxy S23,Mobile Phone,"Wonderful device, except for the constant heating. I am talking about the Samsung Galaxy S23.",1,2024-08-29 21:36:00,R2850,Tamil-English
+P10530,Xiaomi 13 Pro,Android Phone,"Amazing phone, it freezes every time I open an app. I am talking about the Xiaomi 13 Pro.",2,2025-02-09 08:17:00,R2960,English
+P10531,Xiaomi Redmi Note 13,Android Phone,The phone gets laggy even during basic tasks. My Xiaomi Redmi Note 13 experience was bad.,2,2024-09-11 05:22:00,R2466,Tamil-English
+P10532,Samsung Galaxy S23,Smartphone,Great camera if you enjoy blurry photos. I am talking about the Samsung Galaxy S23.,2,2025-10-22 05:15:00,R6824,English
+P10533,OnePlus 11,Android Phone,"Top-class device, because waiting is now my new hobby. I am talking about the OnePlus 11.",2,2025-03-25 06:35:00,R6690,English
+P10534,Vivo T2,Mobile Phone,Charging is quick and the phone stays cool. I liked the Vivo T2.,5,2024-02-10 16:33:00,R5107,Tamil-English
+P10535,Poco X6 Pro,iOS Phone,"Wonderful device, except for the constant heating. I am talking about the Poco X6 Pro.",2,2025-08-03 06:22:00,R4109,Hindi-English
+P10536,Realme Narzo 60,Mobile Phone,The device heats up too much after short use. My Realme Narzo 60 experience was bad.,2,2025-06-27 05:17:00,R2128,Tamil-English
+P10537,Poco X6 Pro,Android Phone,"Camera quality is disappointing, especially in low light. My Poco X6 Pro experience was bad.",1,2024-01-01 21:46:00,R8439,Tamil-English
+P10538,Vivo T2,Mobile Phone,Screen brightness is poor and hard to see outdoors. My Vivo T2 experience was bad.,2,2024-03-05 22:28:00,R6254,Tamil-English
+P10539,Poco X6 Pro,Mobile Phone,Battery is excellent — it dies before lunch. I am talking about the Poco X6 Pro.,1,2024-11-26 13:59:00,R5638,Hindi-English
+P10540,Nothing Phone 2,Smartphone,"The display is bright, clear, and enjoyable to use. I liked the Nothing Phone 2.",4,2024-05-12 06:05:00,R1717,English
+P10541,Motorola G84,Mobile Phone,Fingerprint sensor is fast and accurate. I liked the Motorola G84.,5,2024-02-02 19:29:00,R2617,Tamil-English
+P10542,Samsung Galaxy S23,Android Phone,"The display is bright, clear, and enjoyable to use. I liked the Samsung Galaxy S23.",5,2025-09-12 02:25:00,R4616,English
+P10543,iPhone 14,iOS Phone,Speaker quality is weak and distorted. My iPhone 14 experience was bad.,1,2025-01-04 19:02:00,R1994,Tamil-English
+P10544,Realme Narzo 60,Smartphone,Charging is quick and the phone stays cool. I liked the Realme Narzo 60.,4,2024-11-07 02:39:00,R2153,Hinglish
+P10545,iPhone 15,Mobile Phone,Charging speed is slower than expected. My iPhone 15 experience was bad.,1,2025-01-29 06:28:00,R9710,Hinglish
+P10546,Xiaomi 13 Pro,iOS Phone,Fingerprint sensor is fast and accurate. I liked the Xiaomi 13 Pro.,5,2025-10-15 19:40:00,R2728,Hindi-English
+P10547,iPhone 15,Mobile Phone,Performance is smooth and apps open quickly. I liked the iPhone 15.,5,2025-07-17 13:42:00,R3955,Hindi-English
+P10548,Vivo T2,Android Phone,Speaker quality is weak and distorted. My Vivo T2 experience was bad.,1,2025-01-15 14:04:00,R6319,Tamil-English
+P10549,Poco X6 Pro,Mobile Phone,This phone really likes to restart itself for fun. I am talking about the Poco X6 Pro.,2,2025-07-17 08:40:00,R7145,Hindi-English
+P10550,Oppo Reno 11,Smartphone,Charging speed is slower than expected. My Oppo Reno 11 experience was bad.,1,2024-10-18 20:20:00,R1567,English
+P10551,Realme GT 6,Smartphone,Battery drains too fast and barely lasts half a day. My Realme GT 6 experience was bad.,2,2024-08-15 07:19:00,R5920,Hindi-English
+P10552,Poco X6 Pro,Mobile Phone,"Camera quality is disappointing, especially in low light. My Poco X6 Pro experience was bad.",1,2024-02-08 15:42:00,R2544,Hindi-English
+P10553,Realme Narzo 60,Android Phone,Battery is excellent — it dies before lunch. I am talking about the Realme Narzo 60.,2,2024-08-26 08:44:00,R5093,Hindi-English
+P10554,OnePlus Nord CE 3,Smartphone,"Overall, a very reliable and satisfying phone. I liked the OnePlus Nord CE 3.",4,2025-05-09 05:54:00,R6319,Tamil-English
+P10555,Realme GT 6,Smartphone,The build quality feels premium and solid. I liked the Realme GT 6.,5,2024-03-21 01:54:00,R7251,Hindi-English
+P10556,Oppo A78,Smartphone,Gaming works really well without much heating. I liked the Oppo A78.,4,2025-10-30 20:33:00,R4714,English
+P10557,Realme GT 6,Smartphone,"Wonderful device, except for the constant heating. I am talking about the Realme GT 6.",1,2025-07-06 19:16:00,R6231,Hinglish
+P10558,Xiaomi Redmi Note 13,Smartphone,"The display is bright, clear, and enjoyable to use. I liked the Xiaomi Redmi Note 13.",5,2025-04-01 20:18:00,R7436,English
+P10559,Realme GT 6,iOS Phone,Fingerprint sensor is fast and accurate. I liked the Realme GT 6.,4,2024-05-15 11:28:00,R3425,English
+P10560,Poco X6 Pro,iOS Phone,"Camera quality is disappointing, especially in low light. My Poco X6 Pro experience was bad.",1,2024-03-28 13:36:00,R5301,Tamil-English
+P10561,Motorola G84,Mobile Phone,"A brilliant screen, if you only use it indoors. I am talking about the Motorola G84.",1,2025-02-08 22:15:00,R8993,Hinglish
+P10562,OnePlus 11,Smartphone,Camera quality is excellent and photos come out very sharp. I liked the OnePlus 11.,5,2025-03-16 11:02:00,R5362,English
+P10563,Oppo A78,Android Phone,"Fantastic performance, as long as you do nothing at all. I am talking about the Oppo A78.",1,2024-07-14 10:56:00,R6706,Hindi-English
+P10564,Realme GT 6,Mobile Phone,This phone really likes to restart itself for fun. I am talking about the Realme GT 6.,1,2025-09-23 15:05:00,R6729,Hinglish
+P10565,OnePlus 11,Mobile Phone,"Top-class device, because waiting is now my new hobby. I am talking about the OnePlus 11.",1,2024-06-08 02:55:00,R7124,English
+P10566,OnePlus 11,Mobile Phone,The device heats up too much after short use. My OnePlus 11 experience was bad.,2,2024-01-15 11:43:00,R5713,English
+P10567,Motorola G84,Smartphone,"The display is bright, clear, and enjoyable to use. I liked the Motorola G84.",5,2024-08-02 18:21:00,R6437,Hinglish
+P10568,Poco X6 Pro,iOS Phone,Not worth the money at all. My Poco X6 Pro experience was bad.,1,2025-11-15 00:37:00,R3315,Tamil-English
+P10569,Realme Narzo 60,Mobile Phone,Battery life is amazing and lasts all day easily. I liked the Realme Narzo 60.,5,2024-10-17 06:51:00,R1984,Hindi-English
+P10570,Samsung Galaxy A54,Smartphone,Camera quality is excellent and photos come out very sharp. I liked the Samsung Galaxy A54.,4,2025-11-07 09:15:00,R7367,Hindi-English
+P10571,Realme GT 6,iOS Phone,The build quality feels premium and solid. I liked the Realme GT 6.,5,2025-01-24 17:21:00,R4787,English
+P10572,Poco X6 Pro,Smartphone,"A brilliant screen, if you only use it indoors. I am talking about the Poco X6 Pro.",1,2024-07-22 17:05:00,R4054,Tamil-English
+P10573,Samsung Galaxy S23,Mobile Phone,Perfect for gaming if you like watching lag. I am talking about the Samsung Galaxy S23.,1,2024-11-08 11:23:00,R9673,Tamil-English
+P10574,Samsung Galaxy A54,Android Phone,"The display is bright, clear, and enjoyable to use. I liked the Samsung Galaxy A54.",5,2024-12-29 21:20:00,R6765,Hindi-English
+P10575,Samsung Galaxy S23,Android Phone,"The display is bright, clear, and enjoyable to use. I liked the Samsung Galaxy S23.",4,2024-01-31 18:56:00,R7343,Hindi-English
+P10576,Vivo V27,iOS Phone,Perfect for gaming if you like watching lag. I am talking about the Vivo V27.,1,2024-03-30 13:02:00,R3248,Hinglish
+P10577,Xiaomi Redmi Note 13,iOS Phone,Charging is quick and the phone stays cool. I liked the Xiaomi Redmi Note 13.,4,2025-09-11 11:14:00,R6118,Tamil-English
+P10578,OnePlus Nord CE 3,Mobile Phone,Great value for money in this price range. I liked the OnePlus Nord CE 3.,4,2025-12-01 06:54:00,R9869,Hinglish
+P10579,Oppo A78,Mobile Phone,Performance is smooth and apps open quickly. I liked the Oppo A78.,5,2024-11-21 02:18:00,R3589,English
+P10580,Xiaomi Redmi Note 13,Smartphone,This phone really likes to restart itself for fun. I am talking about the Xiaomi Redmi Note 13.,2,2025-02-27 14:02:00,R6221,Hindi-English
+P10581,Xiaomi Redmi Note 13,Mobile Phone,"Overall, a very reliable and satisfying phone. I liked the Xiaomi Redmi Note 13.",5,2024-05-14 06:18:00,R2749,English
+P10582,OnePlus 11,Mobile Phone,"Top-class device, because waiting is now my new hobby. I am talking about the OnePlus 11.",2,2024-01-27 12:15:00,R4783,English
+P10583,Xiaomi Redmi Note 13,iOS Phone,Fingerprint sensor is fast and accurate. I liked the Xiaomi Redmi Note 13.,4,2024-07-07 13:13:00,R7126,Tamil-English
+P10584,Xiaomi 13 Pro,Mobile Phone,The device heats up too much after short use. My Xiaomi 13 Pro experience was bad.,2,2024-02-03 13:56:00,R4707,English
+P10585,OnePlus 11,Mobile Phone,"Fantastic performance, as long as you do nothing at all. I am talking about the OnePlus 11.",2,2024-03-08 06:02:00,R4351,Tamil-English
+P10586,Vivo V27,iOS Phone,Not worth the money at all. My Vivo V27 experience was bad.,2,2025-03-13 13:49:00,R5043,English
+P10587,Vivo V27,iOS Phone,Charging is quick and the phone stays cool. I liked the Vivo V27.,4,2025-06-21 21:53:00,R9784,English
+P10588,Motorola Edge 40,iOS Phone,Battery drains too fast and barely lasts half a day. My Motorola Edge 40 experience was bad.,2,2024-09-08 17:42:00,R1694,Tamil-English
+P10589,Nothing Phone 2,Smartphone,"Premium feel, budget-level performance. I am talking about the Nothing Phone 2.",2,2024-10-25 15:00:00,R4110,Tamil-English
+P10590,Motorola Edge 40,Mobile Phone,Charging speed is slower than expected. My Motorola Edge 40 experience was bad.,1,2024-10-28 20:55:00,R7921,English
+P10591,Motorola Edge 40,iOS Phone,Not worth the money at all. My Motorola Edge 40 experience was bad.,1,2025-05-27 03:51:00,R2481,Hinglish
+P10592,Oppo Reno 11,iOS Phone,This phone really likes to restart itself for fun. I am talking about the Oppo Reno 11.,1,2025-04-06 00:51:00,R6299,Hinglish
+P10593,Motorola Edge 40,Smartphone,The phone gets laggy even during basic tasks. My Motorola Edge 40 experience was bad.,1,2024-11-27 23:36:00,R5097,Hinglish
+P10594,iPhone 15,iOS Phone,Charging speed is slower than expected. My iPhone 15 experience was bad.,1,2024-03-28 17:52:00,R6946,Tamil-English
+P10595,Oppo Reno 11,iOS Phone,"Camera quality is disappointing, especially in low light. My Oppo Reno 11 experience was bad.",1,2024-06-23 11:26:00,R1719,Hinglish
+P10596,Xiaomi 13 Pro,Smartphone,The device heats up too much after short use. My Xiaomi 13 Pro experience was bad.,1,2024-11-11 10:33:00,R7874,Tamil-English
+P10597,iPhone 15,Mobile Phone,Battery life is amazing and lasts all day easily. I liked the iPhone 15.,5,2024-01-04 21:15:00,R4323,Hindi-English
+P10598,Motorola G84,iOS Phone,"The display is bright, clear, and enjoyable to use. I liked the Motorola G84.",4,2024-01-06 20:45:00,R9904,Tamil-English
+P10599,Motorola G84,iOS Phone,Screen brightness is poor and hard to see outdoors. My Motorola G84 experience was bad.,2,2025-03-28 02:42:00,R7719,English
+P10600,Poco X6 Pro,Mobile Phone,"Wow, such a great phone — it turned my calls into silence. I am talking about the Poco X6 Pro.",2,2024-07-08 05:03:00,R1801,English
+P10601,Samsung Galaxy S23,Mobile Phone,The build quality feels premium and solid. I liked the Samsung Galaxy S23.,4,2025-11-14 19:43:00,R1531,Hindi-English
+P10602,Samsung Galaxy S23,Smartphone,"Overall, a very reliable and satisfying phone. I liked the Samsung Galaxy S23.",4,2024-07-01 05:30:00,R7831,Hindi-English
+P10603,Motorola Edge 40,Android Phone,"Wonderful device, except for the constant heating. I am talking about the Motorola Edge 40.",2,2024-04-05 10:12:00,R1587,Hindi-English
+P10604,iPhone 14,iOS Phone,The phone gets laggy even during basic tasks. My iPhone 14 experience was bad.,2,2024-10-26 16:04:00,R2063,Hinglish
+P10605,Vivo V27,iOS Phone,"Overall, a very reliable and satisfying phone. I liked the Vivo V27.",4,2024-08-02 23:45:00,R9595,Hinglish
+P10606,iPhone 15,Smartphone,"Overall, a very reliable and satisfying phone. I liked the iPhone 15.",5,2025-09-11 09:48:00,R8924,Tamil-English
+P10607,Realme Narzo 60,Android Phone,"A brilliant screen, if you only use it indoors. I am talking about the Realme Narzo 60.",2,2025-09-21 19:12:00,R3125,Tamil-English
+P10608,Motorola G84,Mobile Phone,Battery is excellent — it dies before lunch. I am talking about the Motorola G84.,1,2024-10-24 06:36:00,R4812,English
+P10609,Motorola Edge 40,Smartphone,Battery life is amazing and lasts all day easily. I liked the Motorola Edge 40.,5,2025-09-22 14:09:00,R4396,Tamil-English
+P10610,Vivo T2,Mobile Phone,The device heats up too much after short use. My Vivo T2 experience was bad.,1,2025-10-17 06:52:00,R1185,Hindi-English
+P10611,Realme GT 6,Android Phone,Camera quality is excellent and photos come out very sharp. I liked the Realme GT 6.,5,2025-07-17 11:03:00,R9301,English
+P10612,Vivo V27,iOS Phone,The build quality feels premium and solid. I liked the Vivo V27.,5,2024-06-28 06:37:00,R1477,Hindi-English
+P10613,Motorola G84,Smartphone,"A brilliant screen, if you only use it indoors. I am talking about the Motorola G84.",2,2025-05-08 05:18:00,R3224,Tamil-English
+P10614,Motorola Edge 40,iOS Phone,Charging speed is slower than expected. My Motorola Edge 40 experience was bad.,1,2025-06-17 10:13:00,R1917,Hindi-English
+P10615,OnePlus Nord CE 3,Android Phone,Battery drains too fast and barely lasts half a day. My OnePlus Nord CE 3 experience was bad.,2,2024-03-08 05:05:00,R6793,Hindi-English
+P10616,Oppo Reno 11,Mobile Phone,"Premium feel, budget-level performance. I am talking about the Oppo Reno 11.",2,2024-07-10 20:18:00,R7382,English
+P10617,Samsung Galaxy S23,Android Phone,"Wonderful device, except for the constant heating. I am talking about the Samsung Galaxy S23.",2,2024-03-29 16:57:00,R7780,Hinglish
+P10618,Realme GT 6,Mobile Phone,The build quality feels premium and solid. I liked the Realme GT 6.,4,2024-11-05 05:58:00,R9603,English
+P10619,OnePlus Nord CE 3,Smartphone,Charging is quick and the phone stays cool. I liked the OnePlus Nord CE 3.,4,2025-06-02 00:51:00,R8270,Tamil-English
+P10620,OnePlus Nord CE 3,Android Phone,"Camera quality is disappointing, especially in low light. My OnePlus Nord CE 3 experience was bad.",1,2025-06-20 10:35:00,R8921,Hindi-English
+P10621,Nothing Phone 2,Mobile Phone,Charging speed is slower than expected. My Nothing Phone 2 experience was bad.,1,2024-02-07 15:40:00,R4361,Tamil-English
+P10622,Samsung Galaxy A54,Android Phone,This phone really likes to restart itself for fun. I am talking about the Samsung Galaxy A54.,1,2025-08-31 02:58:00,R1721,Hindi-English
+P10623,iPhone 15,Android Phone,Speaker quality is weak and distorted. My iPhone 15 experience was bad.,1,2025-08-14 10:39:00,R1368,Hinglish
+P10624,OnePlus Nord CE 3,Android Phone,Camera quality is excellent and photos come out very sharp. I liked the OnePlus Nord CE 3.,5,2025-06-29 10:53:00,R5532,Tamil-English
+P10625,Xiaomi Redmi Note 13,Mobile Phone,Screen brightness is poor and hard to see outdoors. My Xiaomi Redmi Note 13 experience was bad.,2,2024-04-27 00:31:00,R5483,English
+P10626,Poco X6 Pro,Android Phone,Performance is smooth and apps open quickly. I liked the Poco X6 Pro.,4,2024-05-24 09:40:00,R5440,Hinglish
+P10627,Realme GT 6,Android Phone,"Amazing phone, it freezes every time I open an app. I am talking about the Realme GT 6.",2,2025-03-30 01:43:00,R9856,Hinglish
+P10628,Samsung Galaxy S23,Smartphone,Storage fills up too quickly for normal use. My Samsung Galaxy S23 experience was bad.,1,2024-02-25 02:56:00,R7284,Tamil-English
+P10629,Motorola Edge 40,Android Phone,This phone really likes to restart itself for fun. I am talking about the Motorola Edge 40.,1,2024-12-06 06:45:00,R6119,English
+P10630,iPhone 14,iOS Phone,Fingerprint sensor is fast and accurate. I liked the iPhone 14.,4,2025-04-11 10:35:00,R2593,Tamil-English
+P10631,OnePlus 11,Mobile Phone,The build quality feels premium and solid. I liked the OnePlus 11.,5,2025-01-07 13:22:00,R5227,Hinglish
+P10632,Motorola Edge 40,iOS Phone,Speaker quality is weak and distorted. My Motorola Edge 40 experience was bad.,2,2024-03-07 16:13:00,R1495,English
+P10633,Motorola Edge 40,Mobile Phone,"A brilliant screen, if you only use it indoors. I am talking about the Motorola Edge 40.",1,2024-12-22 20:37:00,R5624,Hinglish
+P10634,Oppo Reno 11,Smartphone,"Premium feel, budget-level performance. I am talking about the Oppo Reno 11.",2,2025-07-23 22:10:00,R6339,English
+P10635,Oppo Reno 11,iOS Phone,This phone really likes to restart itself for fun. I am talking about the Oppo Reno 11.,2,2025-09-27 08:19:00,R4908,Hinglish
+P10636,iPhone 14,Android Phone,Not worth the money at all. My iPhone 14 experience was bad.,2,2025-08-28 14:42:00,R4411,Tamil-English
+P10637,Poco X6 Pro,Mobile Phone,Not worth the money at all. My Poco X6 Pro experience was bad.,2,2025-11-09 22:51:00,R3835,English
+P10638,iPhone 15,iOS Phone,Great camera if you enjoy blurry photos. I am talking about the iPhone 15.,2,2025-07-22 03:19:00,R6330,Tamil-English
+P10639,Oppo Reno 11,Smartphone,It keeps hanging and restarting randomly. My Oppo Reno 11 experience was bad.,1,2025-09-02 12:56:00,R2781,Hindi-English
+P10640,iPhone 14,Mobile Phone,Performance is smooth and apps open quickly. I liked the iPhone 14.,4,2025-08-17 21:42:00,R3276,English
+P10641,Motorola Edge 40,Android Phone,"The display is bright, clear, and enjoyable to use. I liked the Motorola Edge 40.",4,2025-09-22 19:43:00,R7389,Tamil-English
+P10642,Vivo V27,Android Phone,Not worth the money at all. My Vivo V27 experience was bad.,1,2025-03-21 11:45:00,R5989,English
+P10643,Nothing Phone 2,iOS Phone,Charging speed is slower than expected. My Nothing Phone 2 experience was bad.,1,2024-10-28 02:07:00,R3089,Hindi-English
+P10644,Samsung Galaxy A54,Android Phone,Storage fills up too quickly for normal use. My Samsung Galaxy A54 experience was bad.,2,2024-10-15 01:03:00,R2797,Hinglish
+P10645,Vivo V27,iOS Phone,"Wow, such a great phone — it turned my calls into silence. I am talking about the Vivo V27.",1,2025-01-25 14:51:00,R7652,Hinglish
+P10646,Motorola G84,Mobile Phone,Gaming works really well without much heating. I liked the Motorola G84.,4,2025-07-22 13:07:00,R4083,Hindi-English
+P10647,Realme GT 6,Mobile Phone,Performance is smooth and apps open quickly. I liked the Realme GT 6.,5,2024-01-12 02:26:00,R3200,English
+P10648,Oppo A78,Mobile Phone,This phone really likes to restart itself for fun. I am talking about the Oppo A78.,2,2024-05-20 21:55:00,R2387,Tamil-English
+P10649,Xiaomi 13 Pro,iOS Phone,Gaming works really well without much heating. I liked the Xiaomi 13 Pro.,5,2025-03-10 18:50:00,R9346,Tamil-English
+P10650,OnePlus 11,Mobile Phone,Screen brightness is poor and hard to see outdoors. My OnePlus 11 experience was bad.,2,2025-09-11 00:15:00,R7959,Tamil-English
+P10651,Oppo A78,Android Phone,Speaker quality is weak and distorted. My Oppo A78 experience was bad.,1,2024-02-08 19:23:00,R1548,Tamil-English
+P10652,Motorola G84,Smartphone,"A brilliant screen, if you only use it indoors. I am talking about the Motorola G84.",1,2025-06-23 09:32:00,R3327,Tamil-English
+P10653,Nothing Phone 2,Smartphone,Charging is quick and the phone stays cool. I liked the Nothing Phone 2.,5,2025-04-28 21:31:00,R5017,English
+P10654,Samsung Galaxy S23,Android Phone,Charging speed is slower than expected. My Samsung Galaxy S23 experience was bad.,2,2024-01-12 16:00:00,R9765,Tamil-English
+P10655,Vivo V27,iOS Phone,"Amazing phone, it freezes every time I open an app. I am talking about the Vivo V27.",2,2024-10-28 09:52:00,R6782,Hinglish
+P10656,Realme Narzo 60,Smartphone,The device heats up too much after short use. My Realme Narzo 60 experience was bad.,1,2025-08-15 05:46:00,R8752,English
+P10657,Realme GT 6,iOS Phone,Great value for money in this price range. I liked the Realme GT 6.,5,2024-05-09 17:15:00,R2351,English
+P10658,Xiaomi Redmi Note 13,Android Phone,"Fantastic performance, as long as you do nothing at all. I am talking about the Xiaomi Redmi Note 13.",1,2024-09-20 00:29:00,R5509,English
+P10659,Xiaomi Redmi Note 13,iOS Phone,Fingerprint sensor is fast and accurate. I liked the Xiaomi Redmi Note 13.,4,2024-06-28 08:55:00,R7058,Hinglish
+P10660,Nothing Phone 2,Smartphone,This phone really likes to restart itself for fun. I am talking about the Nothing Phone 2.,2,2024-03-27 04:57:00,R6617,Hinglish
+P10661,Oppo Reno 11,Mobile Phone,"Fantastic performance, as long as you do nothing at all. I am talking about the Oppo Reno 11.",2,2025-10-14 05:42:00,R8211,Hinglish
+P10662,Samsung Galaxy S23,Android Phone,Gaming works really well without much heating. I liked the Samsung Galaxy S23.,5,2024-02-23 05:43:00,R2900,Tamil-English
+P10663,Realme GT 6,iOS Phone,It keeps hanging and restarting randomly. My Realme GT 6 experience was bad.,2,2024-08-27 12:57:00,R9724,Tamil-English
+P10664,Xiaomi Redmi Note 13,iOS Phone,"Wow, such a great phone — it turned my calls into silence. I am talking about the Xiaomi Redmi Note 13.",2,2024-10-22 15:19:00,R1194,Tamil-English
+P10665,Nothing Phone 2,Smartphone,Perfect for gaming if you like watching lag. I am talking about the Nothing Phone 2.,2,2025-06-28 21:45:00,R2595,Hindi-English
+P10666,Vivo V27,Android Phone,Fingerprint sensor is fast and accurate. I liked the Vivo V27.,4,2024-04-10 08:42:00,R5375,Tamil-English
+P10667,OnePlus Nord CE 3,Android Phone,Battery life is amazing and lasts all day easily. I liked the OnePlus Nord CE 3.,4,2024-11-16 18:41:00,R3947,English
+P10668,Samsung Galaxy A54,iOS Phone,"Wonderful device, except for the constant heating. I am talking about the Samsung Galaxy A54.",1,2025-06-21 03:32:00,R2600,Tamil-English
+P10669,Realme GT 6,Android Phone,Battery life is amazing and lasts all day easily. I liked the Realme GT 6.,4,2024-02-04 00:48:00,R4163,English
+P10670,iPhone 15,Smartphone,Not worth the money at all. My iPhone 15 experience was bad.,1,2025-09-11 04:26:00,R2415,Tamil-English
+P10671,iPhone 15,Mobile Phone,It keeps hanging and restarting randomly. My iPhone 15 experience was bad.,2,2024-10-28 15:56:00,R5150,English
+P10672,Oppo A78,Android Phone,Battery life is amazing and lasts all day easily. I liked the Oppo A78.,5,2024-06-14 02:31:00,R5216,Hindi-English
+P10673,Oppo Reno 11,Android Phone,This phone really likes to restart itself for fun. I am talking about the Oppo Reno 11.,1,2024-09-21 09:02:00,R1984,Hinglish
+P10674,Motorola G84,Mobile Phone,The phone gets laggy even during basic tasks. My Motorola G84 experience was bad.,1,2024-07-01 22:01:00,R7432,Tamil-English
+P10675,Poco X6 Pro,iOS Phone,It keeps hanging and restarting randomly. My Poco X6 Pro experience was bad.,2,2025-09-20 21:57:00,R4578,English
+P10676,iPhone 15,Smartphone,Fingerprint sensor is fast and accurate. I liked the iPhone 15.,4,2024-03-13 19:30:00,R2194,Hindi-English
+P10677,Motorola G84,Mobile Phone,Great value for money in this price range. I liked the Motorola G84.,4,2024-02-08 22:41:00,R1014,Tamil-English
+P10678,Vivo V27,iOS Phone,Perfect for gaming if you like watching lag. I am talking about the Vivo V27.,2,2025-06-11 16:44:00,R1060,Tamil-English
+P10679,iPhone 14,Mobile Phone,Battery is excellent — it dies before lunch. I am talking about the iPhone 14.,2,2025-01-28 23:31:00,R1054,Tamil-English
+P10680,Vivo V27,Android Phone,The build quality feels premium and solid. I liked the Vivo V27.,5,2024-02-26 21:34:00,R7563,English
+P10681,iPhone 14,iOS Phone,"A brilliant screen, if you only use it indoors. I am talking about the iPhone 14.",1,2025-10-25 06:55:00,R5750,Hinglish
+P10682,Oppo Reno 11,Mobile Phone,Fingerprint sensor is fast and accurate. I liked the Oppo Reno 11.,4,2025-02-03 03:38:00,R5896,Hindi-English
+P10683,Motorola Edge 40,Mobile Phone,"Top-class device, because waiting is now my new hobby. I am talking about the Motorola Edge 40.",1,2024-02-06 06:35:00,R3292,English
+P10684,Motorola G84,iOS Phone,This phone really likes to restart itself for fun. I am talking about the Motorola G84.,2,2025-07-07 21:57:00,R2032,Hindi-English
+P10685,Samsung Galaxy A54,Smartphone,Perfect for gaming if you like watching lag. I am talking about the Samsung Galaxy A54.,1,2024-02-27 11:31:00,R6558,English
+P10686,OnePlus Nord CE 3,iOS Phone,Battery is excellent — it dies before lunch. I am talking about the OnePlus Nord CE 3.,1,2024-06-01 19:46:00,R9791,Hinglish
+P10687,Xiaomi Redmi Note 13,iOS Phone,"The display is bright, clear, and enjoyable to use. I liked the Xiaomi Redmi Note 13.",4,2025-04-27 21:06:00,R1312,English
+P10688,Samsung Galaxy A54,Mobile Phone,"Overall, a very reliable and satisfying phone. I liked the Samsung Galaxy A54.",4,2024-11-10 03:19:00,R1818,Tamil-English
+P10689,iPhone 14,Smartphone,Camera quality is excellent and photos come out very sharp. I liked the iPhone 14.,4,2025-05-24 20:18:00,R2870,Hinglish
+P10690,Oppo A78,Android Phone,Speaker quality is weak and distorted. My Oppo A78 experience was bad.,1,2024-11-28 04:07:00,R7586,Hinglish
+P10691,Samsung Galaxy S23,Mobile Phone,Performance is smooth and apps open quickly. I liked the Samsung Galaxy S23.,5,2024-03-05 04:07:00,R6496,Hindi-English
+P10692,Xiaomi 13 Pro,Android Phone,Performance is smooth and apps open quickly. I liked the Xiaomi 13 Pro.,4,2025-03-25 08:18:00,R3703,English
+P10693,Oppo Reno 11,Mobile Phone,Battery drains too fast and barely lasts half a day. My Oppo Reno 11 experience was bad.,1,2025-05-13 02:45:00,R1256,English
+P10694,iPhone 14,Android Phone,Screen brightness is poor and hard to see outdoors. My iPhone 14 experience was bad.,1,2025-05-02 23:37:00,R7819,Hinglish
+P10695,Realme Narzo 60,iOS Phone,Not worth the money at all. My Realme Narzo 60 experience was bad.,1,2024-09-01 05:57:00,R7750,English
+P10696,Motorola G84,Smartphone,Charging is quick and the phone stays cool. I liked the Motorola G84.,4,2024-12-22 14:17:00,R5934,English
+P10697,OnePlus Nord CE 3,Smartphone,Charging speed is slower than expected. My OnePlus Nord CE 3 experience was bad.,1,2024-04-07 21:07:00,R9686,Hindi-English
+P10698,Motorola Edge 40,Mobile Phone,"Camera quality is disappointing, especially in low light. My Motorola Edge 40 experience was bad.",2,2024-02-24 06:36:00,R5528,English
+P10699,Motorola G84,Mobile Phone,"Wow, such a great phone — it turned my calls into silence. I am talking about the Motorola G84.",2,2025-11-17 01:28:00,R3617,English
+P10700,Realme GT 6,Mobile Phone,Battery drains too fast and barely lasts half a day. My Realme GT 6 experience was bad.,1,2024-09-14 11:24:00,R8121,Tamil-English
+P10701,Samsung Galaxy S23,Mobile Phone,The phone gets laggy even during basic tasks. My Samsung Galaxy S23 experience was bad.,1,2024-01-30 16:33:00,R3589,English
+P10702,Motorola Edge 40,Android Phone,Screen brightness is poor and hard to see outdoors. My Motorola Edge 40 experience was bad.,1,2024-07-22 23:06:00,R7865,Hindi-English
+P10703,Vivo V27,Mobile Phone,Perfect for gaming if you like watching lag. I am talking about the Vivo V27.,1,2024-08-30 14:04:00,R2606,Hinglish
+P10704,iPhone 14,iOS Phone,"The display is bright, clear, and enjoyable to use. I liked the iPhone 14.",5,2024-02-25 14:52:00,R8936,Hinglish
+P10705,Xiaomi 13 Pro,iOS Phone,The build quality feels premium and solid. I liked the Xiaomi 13 Pro.,5,2024-05-19 15:37:00,R7119,Hinglish
+P10706,OnePlus Nord CE 3,Android Phone,The device heats up too much after short use. My OnePlus Nord CE 3 experience was bad.,1,2024-02-02 23:37:00,R3084,English
+P10707,iPhone 15,iOS Phone,"So fast, I had time to make tea while it loaded. I am talking about the iPhone 15.",2,2025-03-04 05:50:00,R8513,Hindi-English
+P10708,Xiaomi 13 Pro,Mobile Phone,"The display is bright, clear, and enjoyable to use. I liked the Xiaomi 13 Pro.",5,2024-03-29 14:03:00,R4763,Tamil-English
+P10709,Motorola Edge 40,Android Phone,Speaker quality is weak and distorted. My Motorola Edge 40 experience was bad.,2,2025-03-14 08:25:00,R1237,Hinglish
+P10710,OnePlus 11,Mobile Phone,It keeps hanging and restarting randomly. My OnePlus 11 experience was bad.,1,2025-03-03 01:30:00,R1083,English
+P10711,Oppo A78,iOS Phone,Screen brightness is poor and hard to see outdoors. My Oppo A78 experience was bad.,1,2024-04-10 15:26:00,R8852,Tamil-English
+P10712,Poco X6 Pro,Smartphone,Great value for money in this price range. I liked the Poco X6 Pro.,4,2024-08-11 04:31:00,R7662,Hindi-English
+P10713,iPhone 14,Smartphone,"Top-class device, because waiting is now my new hobby. I am talking about the iPhone 14.",2,2025-11-16 10:24:00,R8860,Hinglish
+P10714,Samsung Galaxy A54,iOS Phone,Performance is smooth and apps open quickly. I liked the Samsung Galaxy A54.,5,2024-05-22 00:00:00,R8598,Tamil-English
+P10715,Motorola Edge 40,Smartphone,"A brilliant screen, if you only use it indoors. I am talking about the Motorola Edge 40.",1,2025-01-29 23:34:00,R2158,Hindi-English
+P10716,Realme GT 6,iOS Phone,The phone gets laggy even during basic tasks. My Realme GT 6 experience was bad.,2,2025-09-19 18:30:00,R5420,Hinglish
+P10717,Samsung Galaxy S23,Android Phone,Fingerprint sensor is fast and accurate. I liked the Samsung Galaxy S23.,4,2024-04-23 13:04:00,R1844,Hindi-English
+P10718,Vivo T2,Android Phone,Charging is quick and the phone stays cool. I liked the Vivo T2.,4,2025-10-25 19:04:00,R3871,English
+P10719,Xiaomi Redmi Note 13,Android Phone,Not worth the money at all. My Xiaomi Redmi Note 13 experience was bad.,1,2025-07-06 03:52:00,R4909,Tamil-English
+P10720,OnePlus 11,Android Phone,"Premium feel, budget-level performance. I am talking about the OnePlus 11.",1,2024-09-30 17:11:00,R6778,Tamil-English
+P10721,iPhone 14,Android Phone,Fingerprint sensor is fast and accurate. I liked the iPhone 14.,5,2025-04-08 16:35:00,R6656,English
+P10722,Motorola Edge 40,Android Phone,Battery is excellent — it dies before lunch. I am talking about the Motorola Edge 40.,2,2024-07-11 15:37:00,R2075,English
+P10723,Xiaomi 13 Pro,Android Phone,Camera quality is excellent and photos come out very sharp. I liked the Xiaomi 13 Pro.,4,2024-04-21 05:37:00,R2260,Hindi-English
+P10724,Motorola G84,Mobile Phone,"Premium feel, budget-level performance. I am talking about the Motorola G84.",2,2025-06-17 21:24:00,R4346,English
+P10725,Poco X6 Pro,Mobile Phone,Battery life is amazing and lasts all day easily. I liked the Poco X6 Pro.,5,2024-12-21 14:20:00,R8764,Tamil-English
+P10726,OnePlus Nord CE 3,Smartphone,Storage fills up too quickly for normal use. My OnePlus Nord CE 3 experience was bad.,2,2024-08-25 17:44:00,R1361,Hindi-English
+P10727,Vivo V27,iOS Phone,"Premium feel, budget-level performance. I am talking about the Vivo V27.",1,2025-07-15 15:11:00,R9686,Tamil-English
+P10728,Realme GT 6,Mobile Phone,Great value for money in this price range. I liked the Realme GT 6.,4,2024-08-20 16:31:00,R5259,Hindi-English
+P10729,Xiaomi Redmi Note 13,Android Phone,Charging is quick and the phone stays cool. I liked the Xiaomi Redmi Note 13.,5,2025-04-11 05:40:00,R5659,Hinglish
+P10730,Xiaomi 13 Pro,Mobile Phone,"Amazing phone, it freezes every time I open an app. I am talking about the Xiaomi 13 Pro.",2,2024-06-14 08:07:00,R3514,English
+P10731,Xiaomi Redmi Note 13,iOS Phone,"A brilliant screen, if you only use it indoors. I am talking about the Xiaomi Redmi Note 13.",1,2025-01-13 06:17:00,R5266,Hinglish
+P10732,Vivo V27,Android Phone,Charging is quick and the phone stays cool. I liked the Vivo V27.,5,2025-01-16 15:18:00,R3423,Hinglish
+P10733,iPhone 15,Smartphone,Speaker quality is weak and distorted. My iPhone 15 experience was bad.,1,2025-05-26 04:57:00,R7628,Tamil-English
+P10734,Samsung Galaxy A54,Android Phone,Not worth the money at all. My Samsung Galaxy A54 experience was bad.,2,2025-04-30 09:53:00,R5842,Hinglish
+P10735,Vivo V27,Smartphone,Great value for money in this price range. I liked the Vivo V27.,4,2024-02-11 04:45:00,R8847,English
+P10736,Oppo Reno 11,Mobile Phone,Battery life is amazing and lasts all day easily. I liked the Oppo Reno 11.,4,2024-12-31 03:09:00,R8306,Hindi-English
+P10737,Nothing Phone 2,Mobile Phone,"A brilliant screen, if you only use it indoors. I am talking about the Nothing Phone 2.",2,2024-07-19 00:46:00,R5553,English
+P10738,iPhone 14,iOS Phone,The build quality feels premium and solid. I liked the iPhone 14.,5,2025-05-17 10:50:00,R4185,English
+P10739,Xiaomi Redmi Note 13,iOS Phone,Great value for money in this price range. I liked the Xiaomi Redmi Note 13.,5,2025-01-30 12:43:00,R7056,English
+P10740,Vivo T2,Android Phone,Fingerprint sensor is fast and accurate. I liked the Vivo T2.,5,2025-07-28 02:59:00,R8300,Hinglish
+P10741,Motorola Edge 40,Android Phone,Not worth the money at all. My Motorola Edge 40 experience was bad.,1,2025-03-10 14:08:00,R3683,Hinglish
+P10742,Xiaomi Redmi Note 13,Mobile Phone,The phone gets laggy even during basic tasks. My Xiaomi Redmi Note 13 experience was bad.,2,2025-05-01 17:55:00,R5968,Hindi-English
+P10743,iPhone 14,Smartphone,"Camera quality is disappointing, especially in low light. My iPhone 14 experience was bad.",2,2025-10-16 09:19:00,R7708,Tamil-English
+P10744,Xiaomi Redmi Note 13,Mobile Phone,"Amazing phone, it freezes every time I open an app. I am talking about the Xiaomi Redmi Note 13.",2,2025-01-25 09:52:00,R4047,Tamil-English
+P10745,Realme GT 6,iOS Phone,Great camera if you enjoy blurry photos. I am talking about the Realme GT 6.,2,2024-08-17 00:54:00,R8593,English
+P10746,Realme GT 6,iOS Phone,Storage fills up too quickly for normal use. My Realme GT 6 experience was bad.,1,2025-10-31 22:43:00,R3034,Hindi-English
+P10747,Motorola G84,Mobile Phone,Battery is excellent — it dies before lunch. I am talking about the Motorola G84.,2,2024-05-02 09:27:00,R1466,Tamil-English
+P10748,Motorola G84,iOS Phone,Camera quality is excellent and photos come out very sharp. I liked the Motorola G84.,5,2025-10-05 23:24:00,R5225,Tamil-English
+P10749,Nothing Phone 2,Smartphone,Great camera if you enjoy blurry photos. I am talking about the Nothing Phone 2.,2,2024-06-15 19:51:00,R5252,English
+P10750,Motorola Edge 40,Mobile Phone,The build quality feels premium and solid. I liked the Motorola Edge 40.,5,2024-06-16 01:48:00,R6855,Hindi-English
+P10751,Vivo T2,Smartphone,"A brilliant screen, if you only use it indoors. I am talking about the Vivo T2.",1,2024-10-25 18:04:00,R5749,English
+P10752,Xiaomi 13 Pro,Smartphone,"Wow, such a great phone — it turned my calls into silence. I am talking about the Xiaomi 13 Pro.",2,2025-07-10 11:00:00,R3738,Hindi-English
+P10753,Realme Narzo 60,Android Phone,Great camera if you enjoy blurry photos. I am talking about the Realme Narzo 60.,1,2025-07-01 19:47:00,R2570,Hindi-English
+P10754,Xiaomi Redmi Note 13,Android Phone,Great camera if you enjoy blurry photos. I am talking about the Xiaomi Redmi Note 13.,1,2025-05-11 14:03:00,R7111,Hindi-English
+P10755,OnePlus Nord CE 3,Mobile Phone,Storage fills up too quickly for normal use. My OnePlus Nord CE 3 experience was bad.,2,2024-08-14 06:25:00,R9247,English
+P10756,iPhone 14,Smartphone,The device heats up too much after short use. My iPhone 14 experience was bad.,2,2024-01-18 16:22:00,R3150,Hindi-English
+P10757,Xiaomi Redmi Note 13,iOS Phone,Battery drains too fast and barely lasts half a day. My Xiaomi Redmi Note 13 experience was bad.,1,2024-12-16 05:52:00,R9570,Hindi-English
+P10758,OnePlus 11,Mobile Phone,"So fast, I had time to make tea while it loaded. I am talking about the OnePlus 11.",1,2024-08-20 10:29:00,R3332,Hinglish
+P10759,iPhone 14,iOS Phone,Gaming works really well without much heating. I liked the iPhone 14.,4,2024-03-20 00:38:00,R2830,Tamil-English
+P10760,OnePlus Nord CE 3,Smartphone,It keeps hanging and restarting randomly. My OnePlus Nord CE 3 experience was bad.,1,2025-11-06 17:31:00,R1537,English
+P10761,Realme Narzo 60,Smartphone,The phone gets laggy even during basic tasks. My Realme Narzo 60 experience was bad.,1,2024-11-04 22:47:00,R2085,English
+P10762,OnePlus Nord CE 3,Mobile Phone,The phone gets laggy even during basic tasks. My OnePlus Nord CE 3 experience was bad.,1,2025-11-17 11:59:00,R4027,English
+P10763,Realme Narzo 60,Android Phone,Charging is quick and the phone stays cool. I liked the Realme Narzo 60.,4,2024-06-13 17:05:00,R6770,Hinglish
+P10764,iPhone 15,Smartphone,Performance is smooth and apps open quickly. I liked the iPhone 15.,4,2024-08-10 06:32:00,R9664,Hindi-English
+P10765,iPhone 15,Mobile Phone,It keeps hanging and restarting randomly. My iPhone 15 experience was bad.,1,2025-05-01 12:30:00,R9260,Hinglish
+P10766,Xiaomi 13 Pro,Android Phone,Gaming works really well without much heating. I liked the Xiaomi 13 Pro.,4,2025-03-10 07:18:00,R7219,Hinglish
+P10767,Vivo V27,Smartphone,It keeps hanging and restarting randomly. My Vivo V27 experience was bad.,2,2024-04-22 17:44:00,R8633,Hinglish
+P10768,Realme GT 6,Smartphone,Perfect for gaming if you like watching lag. I am talking about the Realme GT 6.,2,2024-12-01 16:51:00,R2347,English
+P10769,Motorola Edge 40,Android Phone,Great value for money in this price range. I liked the Motorola Edge 40.,5,2024-08-19 18:54:00,R8273,Tamil-English
+P10770,OnePlus Nord CE 3,Smartphone,"Amazing phone, it freezes every time I open an app. I am talking about the OnePlus Nord CE 3.",2,2025-11-26 12:32:00,R8793,Hinglish
+P10771,iPhone 15,iOS Phone,Battery is excellent — it dies before lunch. I am talking about the iPhone 15.,1,2025-06-19 22:28:00,R8177,English
+P10772,Oppo Reno 11,iOS Phone,"The display is bright, clear, and enjoyable to use. I liked the Oppo Reno 11.",5,2024-06-21 02:12:00,R2666,Hindi-English
+P10773,OnePlus Nord CE 3,iOS Phone,Great value for money in this price range. I liked the OnePlus Nord CE 3.,5,2024-08-26 14:29:00,R3011,Tamil-English
+P10774,Oppo Reno 11,Android Phone,Fingerprint sensor is fast and accurate. I liked the Oppo Reno 11.,5,2025-11-13 20:35:00,R8795,Tamil-English
+P10775,Xiaomi Redmi Note 13,iOS Phone,Fingerprint sensor is fast and accurate. I liked the Xiaomi Redmi Note 13.,4,2024-05-05 08:33:00,R2770,Tamil-English
+P10776,Xiaomi Redmi Note 13,Smartphone,Battery drains too fast and barely lasts half a day. My Xiaomi Redmi Note 13 experience was bad.,1,2024-02-24 02:19:00,R2631,Tamil-English
+P10777,Oppo Reno 11,Android Phone,Battery is excellent — it dies before lunch. I am talking about the Oppo Reno 11.,2,2024-11-06 21:13:00,R3502,English
+P10778,Motorola Edge 40,Mobile Phone,Charging is quick and the phone stays cool. I liked the Motorola Edge 40.,5,2025-11-08 16:59:00,R5809,Tamil-English
+P10779,Poco X6 Pro,Android Phone,Storage fills up too quickly for normal use. My Poco X6 Pro experience was bad.,1,2025-07-13 00:36:00,R9856,English
+P10780,Oppo Reno 11,iOS Phone,Battery life is amazing and lasts all day easily. I liked the Oppo Reno 11.,4,2025-01-20 15:06:00,R6153,Tamil-English
+P10781,Xiaomi 13 Pro,Android Phone,The device heats up too much after short use. My Xiaomi 13 Pro experience was bad.,2,2025-05-18 14:42:00,R3689,Hinglish
+P10782,Motorola G84,Smartphone,Fingerprint sensor is fast and accurate. I liked the Motorola G84.,4,2025-11-06 18:54:00,R9037,Tamil-English
+P10783,Nothing Phone 2,Smartphone,Not worth the money at all. My Nothing Phone 2 experience was bad.,2,2024-09-26 16:53:00,R7412,Tamil-English
+P10784,Realme GT 6,Android Phone,"Camera quality is disappointing, especially in low light. My Realme GT 6 experience was bad.",2,2024-01-29 20:09:00,R2006,English
+P10785,Vivo T2,Smartphone,The build quality feels premium and solid. I liked the Vivo T2.,5,2025-01-24 03:19:00,R6591,Tamil-English
+P10786,Oppo A78,Android Phone,"So fast, I had time to make tea while it loaded. I am talking about the Oppo A78.",2,2025-11-08 08:20:00,R1924,Hinglish
+P10787,iPhone 14,Smartphone,Battery drains too fast and barely lasts half a day. My iPhone 14 experience was bad.,2,2024-04-27 11:31:00,R5995,Hinglish
+P10788,Samsung Galaxy S23,iOS Phone,"Premium feel, budget-level performance. I am talking about the Samsung Galaxy S23.",1,2025-08-04 17:34:00,R7921,Tamil-English
+P10789,Motorola G84,Smartphone,"Wonderful device, except for the constant heating. I am talking about the Motorola G84.",1,2025-01-21 19:28:00,R6185,Tamil-English
+P10790,Motorola G84,Smartphone,Great camera if you enjoy blurry photos. I am talking about the Motorola G84.,2,2024-12-10 16:57:00,R4373,Hindi-English
+P10791,Vivo T2,iOS Phone,"A brilliant screen, if you only use it indoors. I am talking about the Vivo T2.",1,2025-05-23 21:41:00,R4305,English
+P10792,Realme GT 6,Android Phone,"So fast, I had time to make tea while it loaded. I am talking about the Realme GT 6.",1,2024-10-31 19:34:00,R1778,Tamil-English
+P10793,iPhone 15,Android Phone,Gaming works really well without much heating. I liked the iPhone 15.,4,2024-03-09 19:20:00,R5478,Tamil-English
+P10794,Vivo T2,Smartphone,Charging speed is slower than expected. My Vivo T2 experience was bad.,2,2025-05-31 10:14:00,R5945,Tamil-English
+P10795,OnePlus Nord CE 3,iOS Phone,Charging is quick and the phone stays cool. I liked the OnePlus Nord CE 3.,4,2024-09-14 21:19:00,R7591,Tamil-English
+P10796,Samsung Galaxy A54,Mobile Phone,The device heats up too much after short use. My Samsung Galaxy A54 experience was bad.,2,2024-08-06 22:33:00,R9178,Tamil-English
+P10797,Samsung Galaxy S23,Mobile Phone,Performance is smooth and apps open quickly. I liked the Samsung Galaxy S23.,5,2025-04-18 05:02:00,R6968,Hinglish
+P10798,Oppo A78,iOS Phone,Perfect for gaming if you like watching lag. I am talking about the Oppo A78.,2,2024-03-06 21:38:00,R6220,Hinglish
+P10799,Realme GT 6,Mobile Phone,Screen brightness is poor and hard to see outdoors. My Realme GT 6 experience was bad.,1,2025-09-07 08:03:00,R5201,Tamil-English
+P10800,Xiaomi Redmi Note 13,Mobile Phone,This phone really likes to restart itself for fun. I am talking about the Xiaomi Redmi Note 13.,2,2024-09-08 10:35:00,R1453,Tamil-English
+P10801,Oppo A78,Smartphone,"Amazing phone, it freezes every time I open an app. I am talking about the Oppo A78.",2,2024-06-12 09:18:00,R4309,Hinglish
+P10802,Realme Narzo 60,Mobile Phone,Battery is excellent — it dies before lunch. I am talking about the Realme Narzo 60.,2,2025-05-12 00:40:00,R1691,English
+P10803,Realme GT 6,Smartphone,Gaming works really well without much heating. I liked the Realme GT 6.,4,2025-01-07 22:55:00,R7668,English
+P10804,OnePlus 11,Smartphone,This phone really likes to restart itself for fun. I am talking about the OnePlus 11.,1,2024-05-03 17:48:00,R9196,Hindi-English
+P10805,OnePlus 11,Smartphone,"The display is bright, clear, and enjoyable to use. I liked the OnePlus 11.",5,2024-12-03 19:56:00,R6134,Tamil-English
+P10806,OnePlus Nord CE 3,Mobile Phone,It keeps hanging and restarting randomly. My OnePlus Nord CE 3 experience was bad.,2,2024-06-28 07:18:00,R2750,Hindi-English
+P10807,Realme Narzo 60,Smartphone,"Wonderful device, except for the constant heating. I am talking about the Realme Narzo 60.",2,2025-06-30 12:47:00,R9034,English
+P10808,Motorola G84,Mobile Phone,"Top-class device, because waiting is now my new hobby. I am talking about the Motorola G84.",2,2024-05-28 12:23:00,R5550,Tamil-English
+P10809,Realme GT 6,Smartphone,"Premium feel, budget-level performance. I am talking about the Realme GT 6.",2,2025-11-09 01:51:00,R1570,Hinglish
+P10810,Realme GT 6,Android Phone,Storage fills up too quickly for normal use. My Realme GT 6 experience was bad.,1,2025-07-01 08:04:00,R2999,Tamil-English
+P10811,Oppo Reno 11,Android Phone,"So fast, I had time to make tea while it loaded. I am talking about the Oppo Reno 11.",1,2024-04-02 08:02:00,R5929,Hindi-English
+P10812,Motorola Edge 40,Android Phone,This phone really likes to restart itself for fun. I am talking about the Motorola Edge 40.,2,2024-02-04 09:21:00,R7656,English
+P10813,Oppo A78,Android Phone,"A brilliant screen, if you only use it indoors. I am talking about the Oppo A78.",1,2024-04-12 05:28:00,R7920,Hindi-English
+P10814,Vivo T2,iOS Phone,"Amazing phone, it freezes every time I open an app. I am talking about the Vivo T2.",1,2024-11-30 15:28:00,R9973,English
+P10815,Motorola Edge 40,Mobile Phone,Speaker quality is weak and distorted. My Motorola Edge 40 experience was bad.,1,2025-02-14 06:49:00,R1050,Hindi-English
+P10816,iPhone 15,Mobile Phone,"Overall, a very reliable and satisfying phone. I liked the iPhone 15.",5,2025-06-12 22:09:00,R5089,Hinglish
+P10817,Vivo V27,iOS Phone,"Wow, such a great phone — it turned my calls into silence. I am talking about the Vivo V27.",2,2024-05-16 08:53:00,R8837,Hinglish
+P10818,Realme GT 6,Mobile Phone,Perfect for gaming if you like watching lag. I am talking about the Realme GT 6.,2,2025-02-28 12:32:00,R2382,Hinglish
+P10819,OnePlus 11,Smartphone,Camera quality is excellent and photos come out very sharp. I liked the OnePlus 11.,5,2025-07-25 22:05:00,R1376,Hinglish
+P10820,OnePlus Nord CE 3,Android Phone,Not worth the money at all. My OnePlus Nord CE 3 experience was bad.,2,2024-02-20 13:41:00,R3764,Tamil-English
+P10821,Xiaomi Redmi Note 13,Smartphone,Battery life is amazing and lasts all day easily. I liked the Xiaomi Redmi Note 13.,5,2024-06-23 19:21:00,R7028,English
+P10822,Motorola Edge 40,iOS Phone,The device heats up too much after short use. My Motorola Edge 40 experience was bad.,2,2024-08-17 06:56:00,R2941,Hinglish
+P10823,Motorola G84,iOS Phone,The device heats up too much after short use. My Motorola G84 experience was bad.,1,2025-03-17 07:03:00,R3133,Hinglish
+P10824,Oppo A78,Mobile Phone,"Premium feel, budget-level performance. I am talking about the Oppo A78.",1,2024-05-29 00:58:00,R7693,Hindi-English
+P10825,Motorola Edge 40,Mobile Phone,The phone gets laggy even during basic tasks. My Motorola Edge 40 experience was bad.,1,2025-08-19 23:21:00,R7056,Tamil-English
+P10826,Motorola G84,Mobile Phone,Storage fills up too quickly for normal use. My Motorola G84 experience was bad.,2,2025-02-11 23:26:00,R6296,Hinglish
+P10827,Realme Narzo 60,Smartphone,The build quality feels premium and solid. I liked the Realme Narzo 60.,4,2025-07-24 02:00:00,R2561,English
+P10828,Motorola G84,Android Phone,The device heats up too much after short use. My Motorola G84 experience was bad.,2,2024-01-06 08:39:00,R1745,Tamil-English
+P10829,Vivo T2,Mobile Phone,Great camera if you enjoy blurry photos. I am talking about the Vivo T2.,2,2025-08-17 06:07:00,R1673,Hindi-English
+P10830,Vivo V27,iOS Phone,"Camera quality is disappointing, especially in low light. My Vivo V27 experience was bad.",2,2024-04-01 10:49:00,R3161,Tamil-English
+P10831,iPhone 15,Android Phone,"Top-class device, because waiting is now my new hobby. I am talking about the iPhone 15.",2,2024-05-10 17:02:00,R1723,Hindi-English
+P10832,Oppo A78,Android Phone,Perfect for gaming if you like watching lag. I am talking about the Oppo A78.,1,2025-09-19 09:00:00,R5312,Hindi-English
+P10833,Vivo V27,iOS Phone,Battery drains too fast and barely lasts half a day. My Vivo V27 experience was bad.,1,2025-07-23 22:26:00,R3478,Tamil-English
+P10834,Xiaomi Redmi Note 13,Smartphone,Great value for money in this price range. I liked the Xiaomi Redmi Note 13.,4,2024-07-06 01:13:00,R4766,Tamil-English
+P10835,Motorola Edge 40,iOS Phone,The build quality feels premium and solid. I liked the Motorola Edge 40.,5,2025-05-21 01:23:00,R2900,Tamil-English
+P10836,Motorola Edge 40,iOS Phone,Camera quality is excellent and photos come out very sharp. I liked the Motorola Edge 40.,4,2024-05-31 04:13:00,R2843,Hindi-English
+P10837,Realme GT 6,Mobile Phone,"Fantastic performance, as long as you do nothing at all. I am talking about the Realme GT 6.",1,2025-06-04 09:18:00,R3757,Hinglish
+P10838,Nothing Phone 2,Mobile Phone,Camera quality is excellent and photos come out very sharp. I liked the Nothing Phone 2.,5,2024-03-19 08:24:00,R7822,Tamil-English
+P10839,Samsung Galaxy A54,Android Phone,Speaker quality is weak and distorted. My Samsung Galaxy A54 experience was bad.,1,2025-02-07 12:45:00,R2998,English
+P10840,Samsung Galaxy A54,Smartphone,The device heats up too much after short use. My Samsung Galaxy A54 experience was bad.,1,2025-11-06 16:22:00,R8540,Tamil-English
+P10841,Vivo V27,Smartphone,"The display is bright, clear, and enjoyable to use. I liked the Vivo V27.",4,2024-11-28 19:25:00,R8423,Hinglish
+P10842,Realme GT 6,Android Phone,Battery is excellent — it dies before lunch. I am talking about the Realme GT 6.,2,2024-03-13 18:40:00,R1909,Tamil-English
+P10843,Realme Narzo 60,Mobile Phone,"So fast, I had time to make tea while it loaded. I am talking about the Realme Narzo 60.",1,2025-02-12 03:02:00,R4933,English
+P10844,Oppo Reno 11,iOS Phone,The phone gets laggy even during basic tasks. My Oppo Reno 11 experience was bad.,2,2025-10-24 22:19:00,R5668,Hinglish
+P10845,Motorola G84,iOS Phone,The phone gets laggy even during basic tasks. My Motorola G84 experience was bad.,2,2025-09-09 04:28:00,R6080,Hindi-English
+P10846,Nothing Phone 2,Mobile Phone,The device heats up too much after short use. My Nothing Phone 2 experience was bad.,2,2025-04-01 13:14:00,R9021,Tamil-English
+P10847,iPhone 14,iOS Phone,Storage fills up too quickly for normal use. My iPhone 14 experience was bad.,1,2025-09-20 06:21:00,R7033,Tamil-English
+P10848,Samsung Galaxy S23,Android Phone,This phone really likes to restart itself for fun. I am talking about the Samsung Galaxy S23.,1,2025-11-23 07:39:00,R8594,Hinglish
+P10849,Realme GT 6,iOS Phone,Performance is smooth and apps open quickly. I liked the Realme GT 6.,4,2024-03-22 16:18:00,R8165,Hindi-English
+P10850,Realme GT 6,Mobile Phone,Charging speed is slower than expected. My Realme GT 6 experience was bad.,1,2025-03-13 10:05:00,R9570,English
+P10851,Samsung Galaxy S23,Smartphone,This phone really likes to restart itself for fun. I am talking about the Samsung Galaxy S23.,2,2025-03-11 14:05:00,R9366,English
+P10852,Vivo T2,Android Phone,"Top-class device, because waiting is now my new hobby. I am talking about the Vivo T2.",2,2025-05-30 00:33:00,R2339,English
+P10853,Xiaomi 13 Pro,Mobile Phone,Great value for money in this price range. I liked the Xiaomi 13 Pro.,5,2024-02-16 02:50:00,R7438,Tamil-English
+P10854,Motorola Edge 40,iOS Phone,Great camera if you enjoy blurry photos. I am talking about the Motorola Edge 40.,1,2024-12-15 06:23:00,R5342,Hinglish
+P10855,Realme Narzo 60,Smartphone,Gaming works really well without much heating. I liked the Realme Narzo 60.,4,2025-07-01 00:36:00,R8107,English
+P10856,Samsung Galaxy A54,Mobile Phone,"Overall, a very reliable and satisfying phone. I liked the Samsung Galaxy A54.",5,2025-04-16 23:36:00,R8817,Tamil-English
+P10857,Realme GT 6,Android Phone,"Camera quality is disappointing, especially in low light. My Realme GT 6 experience was bad.",1,2024-11-05 02:59:00,R7471,Hinglish
+P10858,OnePlus Nord CE 3,Smartphone,It keeps hanging and restarting randomly. My OnePlus Nord CE 3 experience was bad.,1,2024-07-11 00:54:00,R1260,Hinglish
+P10859,OnePlus 11,iOS Phone,It keeps hanging and restarting randomly. My OnePlus 11 experience was bad.,1,2024-07-14 02:56:00,R9824,Hindi-English
+P10860,Motorola G84,iOS Phone,It keeps hanging and restarting randomly. My Motorola G84 experience was bad.,2,2024-04-29 05:40:00,R1357,Hinglish
+P10861,Motorola G84,Smartphone,The device heats up too much after short use. My Motorola G84 experience was bad.,2,2025-08-22 08:16:00,R8364,Hinglish
+P10862,Samsung Galaxy S23,Android Phone,Gaming works really well without much heating. I liked the Samsung Galaxy S23.,5,2024-04-15 21:31:00,R1129,Tamil-English
+P10863,Poco X6 Pro,Android Phone,Charging is quick and the phone stays cool. I liked the Poco X6 Pro.,5,2025-05-14 13:38:00,R1606,Tamil-English
+P10864,OnePlus 11,Smartphone,"A brilliant screen, if you only use it indoors. I am talking about the OnePlus 11.",1,2024-01-20 14:24:00,R9655,Hindi-English
+P10865,Realme Narzo 60,iOS Phone,It keeps hanging and restarting randomly. My Realme Narzo 60 experience was bad.,2,2024-04-29 16:53:00,R8755,Hindi-English
+P10866,Samsung Galaxy A54,Mobile Phone,Fingerprint sensor is fast and accurate. I liked the Samsung Galaxy A54.,4,2024-07-15 16:01:00,R5718,Hindi-English
+P10867,Nothing Phone 2,Mobile Phone,Performance is smooth and apps open quickly. I liked the Nothing Phone 2.,5,2025-09-08 22:25:00,R6556,Tamil-English
+P10868,Oppo Reno 11,iOS Phone,Great value for money in this price range. I liked the Oppo Reno 11.,4,2025-04-28 05:31:00,R6902,Hinglish
+P10869,Motorola G84,Mobile Phone,The phone gets laggy even during basic tasks. My Motorola G84 experience was bad.,2,2024-07-23 05:20:00,R3839,Tamil-English
+P10870,Motorola G84,Android Phone,Battery life is amazing and lasts all day easily. I liked the Motorola G84.,5,2024-08-02 19:00:00,R4845,English
+P10871,Realme Narzo 60,Android Phone,Battery is excellent — it dies before lunch. I am talking about the Realme Narzo 60.,2,2024-06-27 17:11:00,R3598,English
+P10872,Oppo A78,Smartphone,This phone really likes to restart itself for fun. I am talking about the Oppo A78.,2,2024-05-03 19:10:00,R4714,Hinglish
+P10873,Vivo V27,Android Phone,"Top-class device, because waiting is now my new hobby. I am talking about the Vivo V27.",1,2025-07-24 09:07:00,R1764,Hinglish
+P10874,Samsung Galaxy S23,iOS Phone,Charging is quick and the phone stays cool. I liked the Samsung Galaxy S23.,4,2024-04-23 03:36:00,R8489,English
+P10875,Nothing Phone 2,Smartphone,The build quality feels premium and solid. I liked the Nothing Phone 2.,4,2025-10-07 04:01:00,R3736,Hinglish
+P10876,Realme GT 6,iOS Phone,"Wow, such a great phone — it turned my calls into silence. I am talking about the Realme GT 6.",2,2025-05-25 03:23:00,R9288,Hinglish
+P10877,Vivo V27,Mobile Phone,"Amazing phone, it freezes every time I open an app. I am talking about the Vivo V27.",1,2024-07-25 14:59:00,R3014,Tamil-English
+P10878,Motorola G84,Android Phone,"Premium feel, budget-level performance. I am talking about the Motorola G84.",2,2025-06-01 05:50:00,R5698,English
+P10879,Oppo A78,Android Phone,"The display is bright, clear, and enjoyable to use. I liked the Oppo A78.",4,2024-06-04 18:04:00,R5021,Tamil-English
+P10880,Oppo A78,iOS Phone,"Amazing phone, it freezes every time I open an app. I am talking about the Oppo A78.",2,2025-04-14 17:37:00,R7706,Hindi-English
+P10881,Xiaomi Redmi Note 13,Smartphone,The build quality feels premium and solid. I liked the Xiaomi Redmi Note 13.,5,2024-03-12 02:53:00,R9476,Hindi-English
+P10882,Xiaomi 13 Pro,iOS Phone,Not worth the money at all. My Xiaomi 13 Pro experience was bad.,1,2025-02-06 01:15:00,R2007,Hinglish
+P10883,Nothing Phone 2,Android Phone,"Top-class device, because waiting is now my new hobby. I am talking about the Nothing Phone 2.",2,2025-02-15 23:14:00,R7869,Hindi-English
+P10884,Vivo T2,Smartphone,Storage fills up too quickly for normal use. My Vivo T2 experience was bad.,2,2025-06-24 20:50:00,R5583,Hinglish
+P10885,OnePlus Nord CE 3,iOS Phone,Great value for money in this price range. I liked the OnePlus Nord CE 3.,4,2025-10-26 13:48:00,R6656,Hinglish
+P10886,Samsung Galaxy S23,Android Phone,Screen brightness is poor and hard to see outdoors. My Samsung Galaxy S23 experience was bad.,1,2024-05-09 17:45:00,R7389,Hindi-English
+P10887,Nothing Phone 2,Android Phone,Battery drains too fast and barely lasts half a day. My Nothing Phone 2 experience was bad.,1,2024-12-14 21:41:00,R9541,Hinglish
+P10888,Poco X6 Pro,Android Phone,Battery life is amazing and lasts all day easily. I liked the Poco X6 Pro.,5,2024-11-07 14:25:00,R4954,English
+P10889,Realme Narzo 60,Android Phone,This phone really likes to restart itself for fun. I am talking about the Realme Narzo 60.,2,2024-02-18 22:13:00,R3028,English
+P10890,Samsung Galaxy A54,iOS Phone,"Wonderful device, except for the constant heating. I am talking about the Samsung Galaxy A54.",2,2024-08-29 19:51:00,R6553,Hinglish
+P10891,Realme GT 6,Mobile Phone,Speaker quality is weak and distorted. My Realme GT 6 experience was bad.,1,2025-06-16 08:27:00,R7187,English
+P10892,Vivo T2,iOS Phone,Camera quality is excellent and photos come out very sharp. I liked the Vivo T2.,4,2024-05-30 14:31:00,R2605,Tamil-English
+P10893,Samsung Galaxy S23,iOS Phone,Battery is excellent — it dies before lunch. I am talking about the Samsung Galaxy S23.,2,2025-05-02 07:19:00,R3130,Tamil-English
+P10894,Nothing Phone 2,iOS Phone,Storage fills up too quickly for normal use. My Nothing Phone 2 experience was bad.,2,2025-02-08 09:00:00,R9502,Tamil-English
+P10895,Motorola G84,iOS Phone,Fingerprint sensor is fast and accurate. I liked the Motorola G84.,5,2024-05-27 17:15:00,R3668,Hinglish
+P10896,Xiaomi Redmi Note 13,Smartphone,"Camera quality is disappointing, especially in low light. My Xiaomi Redmi Note 13 experience was bad.",2,2025-04-11 16:09:00,R4483,English
+P10897,iPhone 15,iOS Phone,Battery drains too fast and barely lasts half a day. My iPhone 15 experience was bad.,1,2024-05-03 12:36:00,R2807,Hindi-English
+P10898,iPhone 15,Android Phone,This phone really likes to restart itself for fun. I am talking about the iPhone 15.,1,2025-01-18 10:21:00,R5995,Hindi-English
+P10899,Xiaomi Redmi Note 13,Mobile Phone,"The display is bright, clear, and enjoyable to use. I liked the Xiaomi Redmi Note 13.",4,2024-02-19 10:24:00,R7910,Hindi-English
+P10900,Motorola G84,Smartphone,Battery drains too fast and barely lasts half a day. My Motorola G84 experience was bad.,2,2025-07-14 11:54:00,R3004,English
+P10901,Motorola G84,Android Phone,"Overall, a very reliable and satisfying phone. I liked the Motorola G84.",4,2024-12-11 12:52:00,R8411,Tamil-English
+P10902,Xiaomi Redmi Note 13,iOS Phone,Speaker quality is weak and distorted. My Xiaomi Redmi Note 13 experience was bad.,1,2025-11-14 15:19:00,R8371,Hinglish
+P10903,Oppo A78,iOS Phone,It keeps hanging and restarting randomly. My Oppo A78 experience was bad.,2,2025-02-08 11:34:00,R4814,English
+P10904,iPhone 14,Mobile Phone,Charging is quick and the phone stays cool. I liked the iPhone 14.,4,2025-08-08 21:30:00,R1406,Hindi-English
+P10905,Poco X6 Pro,Smartphone,Not worth the money at all. My Poco X6 Pro experience was bad.,1,2025-09-25 18:29:00,R4152,English
+P10906,Motorola G84,Smartphone,"Amazing phone, it freezes every time I open an app. I am talking about the Motorola G84.",2,2025-11-05 18:09:00,R2970,Hinglish
+P10907,OnePlus Nord CE 3,Mobile Phone,Storage fills up too quickly for normal use. My OnePlus Nord CE 3 experience was bad.,1,2024-03-27 18:12:00,R8278,Hindi-English
+P10908,Motorola G84,Smartphone,Battery drains too fast and barely lasts half a day. My Motorola G84 experience was bad.,2,2025-03-23 06:09:00,R6569,Tamil-English
+P10909,Oppo Reno 11,Android Phone,"Premium feel, budget-level performance. I am talking about the Oppo Reno 11.",1,2024-04-27 03:23:00,R2491,Hinglish
+P10910,Xiaomi 13 Pro,Android Phone,"Wow, such a great phone — it turned my calls into silence. I am talking about the Xiaomi 13 Pro.",1,2024-06-06 10:28:00,R2468,Tamil-English
+P10911,Samsung Galaxy S23,Android Phone,Gaming works really well without much heating. I liked the Samsung Galaxy S23.,4,2024-01-28 01:59:00,R3973,Hindi-English
+P10912,Vivo V27,Mobile Phone,Battery is excellent — it dies before lunch. I am talking about the Vivo V27.,1,2024-11-27 08:48:00,R7763,Tamil-English
+P10913,OnePlus Nord CE 3,Mobile Phone,Battery is excellent — it dies before lunch. I am talking about the OnePlus Nord CE 3.,2,2025-05-19 17:21:00,R4874,Tamil-English
+P10914,Samsung Galaxy S23,Android Phone,This phone really likes to restart itself for fun. I am talking about the Samsung Galaxy S23.,1,2025-07-20 13:53:00,R8615,English
+P10915,Oppo A78,Mobile Phone,"The display is bright, clear, and enjoyable to use. I liked the Oppo A78.",4,2024-10-02 18:54:00,R1305,English
+P10916,Realme GT 6,iOS Phone,Performance is smooth and apps open quickly. I liked the Realme GT 6.,5,2024-03-26 21:42:00,R8306,Hinglish
+P10917,Poco X6 Pro,Mobile Phone,"Amazing phone, it freezes every time I open an app. I am talking about the Poco X6 Pro.",1,2025-07-04 14:27:00,R5016,Tamil-English
+P10918,Motorola Edge 40,Android Phone,Great value for money in this price range. I liked the Motorola Edge 40.,5,2024-01-01 02:03:00,R3742,Tamil-English
+P10919,Oppo Reno 11,Android Phone,Battery drains too fast and barely lasts half a day. My Oppo Reno 11 experience was bad.,1,2025-08-22 17:25:00,R4485,Hindi-English
+P10920,Poco X6 Pro,Smartphone,Performance is smooth and apps open quickly. I liked the Poco X6 Pro.,5,2024-04-01 13:29:00,R5925,English
+P10921,Oppo A78,Mobile Phone,Great value for money in this price range. I liked the Oppo A78.,5,2024-11-21 23:16:00,R9270,Hindi-English
+P10922,Realme Narzo 60,Mobile Phone,"Fantastic performance, as long as you do nothing at all. I am talking about the Realme Narzo 60.",2,2024-12-15 07:11:00,R6269,Tamil-English
+P10923,Samsung Galaxy A54,Mobile Phone,Battery life is amazing and lasts all day easily. I liked the Samsung Galaxy A54.,4,2025-09-15 16:15:00,R1033,English
+P10924,Oppo A78,iOS Phone,Charging speed is slower than expected. My Oppo A78 experience was bad.,1,2025-07-05 02:46:00,R7435,English
+P10925,Motorola Edge 40,Smartphone,Storage fills up too quickly for normal use. My Motorola Edge 40 experience was bad.,1,2025-01-20 20:31:00,R6783,Hindi-English
+P10926,Samsung Galaxy A54,Smartphone,"Amazing phone, it freezes every time I open an app. I am talking about the Samsung Galaxy A54.",1,2025-01-14 06:35:00,R8580,Tamil-English
+P10927,Samsung Galaxy A54,Android Phone,"Top-class device, because waiting is now my new hobby. I am talking about the Samsung Galaxy A54.",1,2024-07-15 03:04:00,R6862,Hindi-English
+P10928,OnePlus 11,iOS Phone,Not worth the money at all. My OnePlus 11 experience was bad.,1,2024-02-07 09:34:00,R6947,Tamil-English
+P10929,Samsung Galaxy A54,Mobile Phone,"Camera quality is disappointing, especially in low light. My Samsung Galaxy A54 experience was bad.",1,2024-04-23 09:28:00,R7489,Tamil-English
+P10930,Xiaomi 13 Pro,Smartphone,"Fantastic performance, as long as you do nothing at all. I am talking about the Xiaomi 13 Pro.",1,2024-03-07 04:20:00,R3101,Hindi-English
+P10931,Nothing Phone 2,Android Phone,Charging is quick and the phone stays cool. I liked the Nothing Phone 2.,5,2025-11-25 00:47:00,R4143,Hindi-English
+P10932,Samsung Galaxy A54,iOS Phone,The device heats up too much after short use. My Samsung Galaxy A54 experience was bad.,1,2024-11-26 14:45:00,R1849,Tamil-English
+P10933,Nothing Phone 2,iOS Phone,"The display is bright, clear, and enjoyable to use. I liked the Nothing Phone 2.",4,2025-01-05 17:39:00,R9119,English
+P10934,Realme Narzo 60,iOS Phone,Storage fills up too quickly for normal use. My Realme Narzo 60 experience was bad.,1,2025-04-04 10:47:00,R9723,English
+P10935,Vivo V27,Smartphone,Camera quality is excellent and photos come out very sharp. I liked the Vivo V27.,4,2024-08-19 23:32:00,R1415,Tamil-English
+P10936,OnePlus Nord CE 3,Mobile Phone,Battery drains too fast and barely lasts half a day. My OnePlus Nord CE 3 experience was bad.,2,2024-11-14 02:08:00,R6394,English
+P10937,Oppo A78,Smartphone,It keeps hanging and restarting randomly. My Oppo A78 experience was bad.,1,2024-09-13 08:26:00,R6477,English
+P10938,Vivo V27,Smartphone,"Fantastic performance, as long as you do nothing at all. I am talking about the Vivo V27.",2,2025-06-16 08:04:00,R6465,English
+P10939,iPhone 15,iOS Phone,Gaming works really well without much heating. I liked the iPhone 15.,5,2024-03-28 02:04:00,R3045,English
+P10940,iPhone 14,Mobile Phone,"Fantastic performance, as long as you do nothing at all. I am talking about the iPhone 14.",2,2025-03-28 01:52:00,R2015,Hindi-English
+P10941,iPhone 14,Smartphone,Gaming works really well without much heating. I liked the iPhone 14.,5,2025-07-26 01:46:00,R1914,Hindi-English
+P10942,iPhone 15,iOS Phone,It keeps hanging and restarting randomly. My iPhone 15 experience was bad.,2,2025-09-05 22:31:00,R4819,English
+P10943,Motorola Edge 40,iOS Phone,It keeps hanging and restarting randomly. My Motorola Edge 40 experience was bad.,2,2024-12-13 22:13:00,R2659,English
+P10944,OnePlus Nord CE 3,Smartphone,"Fantastic performance, as long as you do nothing at all. I am talking about the OnePlus Nord CE 3.",1,2024-01-13 20:18:00,R2682,English
+P10945,Xiaomi Redmi Note 13,Android Phone,"Camera quality is disappointing, especially in low light. My Xiaomi Redmi Note 13 experience was bad.",1,2025-03-07 16:25:00,R6822,Tamil-English
+P10946,Xiaomi Redmi Note 13,Smartphone,Charging is quick and the phone stays cool. I liked the Xiaomi Redmi Note 13.,5,2024-05-10 10:38:00,R1991,Tamil-English
+P10947,Realme GT 6,Mobile Phone,The device heats up too much after short use. My Realme GT 6 experience was bad.,2,2025-04-25 10:32:00,R3415,Hindi-English
+P10948,Samsung Galaxy A54,Mobile Phone,Gaming works really well without much heating. I liked the Samsung Galaxy A54.,5,2024-08-31 17:18:00,R1939,English
+P10949,OnePlus Nord CE 3,Mobile Phone,"Wow, such a great phone — it turned my calls into silence. I am talking about the OnePlus Nord CE 3.",2,2024-03-11 11:39:00,R4297,Hinglish
+P10950,Motorola Edge 40,Android Phone,The build quality feels premium and solid. I liked the Motorola Edge 40.,4,2025-09-22 10:13:00,R6499,Tamil-English
+P10951,iPhone 15,iOS Phone,"Wow, such a great phone — it turned my calls into silence. I am talking about the iPhone 15.",1,2025-05-22 07:29:00,R1691,English
+P10952,OnePlus 11,iOS Phone,Gaming works really well without much heating. I liked the OnePlus 11.,4,2024-09-01 16:24:00,R4492,Hindi-English
+P10953,Oppo Reno 11,Mobile Phone,The build quality feels premium and solid. I liked the Oppo Reno 11.,4,2025-01-06 00:20:00,R1110,English
+P10954,Poco X6 Pro,Smartphone,"Wow, such a great phone — it turned my calls into silence. I am talking about the Poco X6 Pro.",2,2024-10-24 15:01:00,R3333,Hinglish
+P10955,Samsung Galaxy S23,Smartphone,"The display is bright, clear, and enjoyable to use. I liked the Samsung Galaxy S23.",5,2024-07-21 09:41:00,R4262,Hinglish
+P10956,Xiaomi 13 Pro,Android Phone,Great camera if you enjoy blurry photos. I am talking about the Xiaomi 13 Pro.,2,2024-07-01 06:41:00,R5029,English
+P10957,iPhone 15,Smartphone,"Wonderful device, except for the constant heating. I am talking about the iPhone 15.",1,2025-01-23 22:21:00,R3248,English
+P10958,Realme GT 6,iOS Phone,Charging is quick and the phone stays cool. I liked the Realme GT 6.,5,2025-01-13 12:42:00,R4934,Hinglish
+P10959,iPhone 14,Smartphone,"A brilliant screen, if you only use it indoors. I am talking about the iPhone 14.",2,2024-05-13 06:28:00,R3366,Hinglish
+P10960,Vivo T2,Android Phone,"Fantastic performance, as long as you do nothing at all. I am talking about the Vivo T2.",1,2025-10-13 08:20:00,R8037,English
+P10961,Poco X6 Pro,Android Phone,Great value for money in this price range. I liked the Poco X6 Pro.,4,2024-12-01 08:26:00,R3434,English
+P10962,Nothing Phone 2,iOS Phone,Great camera if you enjoy blurry photos. I am talking about the Nothing Phone 2.,2,2024-03-24 16:03:00,R4428,English
+P10963,Nothing Phone 2,Android Phone,"Wonderful device, except for the constant heating. I am talking about the Nothing Phone 2.",2,2025-06-15 15:50:00,R9168,Hinglish
+P10964,Nothing Phone 2,iOS Phone,"Overall, a very reliable and satisfying phone. I liked the Nothing Phone 2.",4,2025-04-30 09:09:00,R9106,Tamil-English
+P10965,OnePlus Nord CE 3,Mobile Phone,Screen brightness is poor and hard to see outdoors. My OnePlus Nord CE 3 experience was bad.,2,2025-04-07 08:00:00,R4325,Tamil-English
+P10966,Oppo A78,iOS Phone,"Camera quality is disappointing, especially in low light. My Oppo A78 experience was bad.",1,2025-01-18 08:41:00,R3575,English
+P10967,Realme GT 6,iOS Phone,Fingerprint sensor is fast and accurate. I liked the Realme GT 6.,5,2024-12-26 07:51:00,R9500,English
+P10968,Oppo A78,iOS Phone,It keeps hanging and restarting randomly. My Oppo A78 experience was bad.,2,2025-03-18 13:57:00,R8660,Hindi-English
+P10969,Realme Narzo 60,iOS Phone,"Premium feel, budget-level performance. I am talking about the Realme Narzo 60.",1,2024-07-02 15:04:00,R1404,Hinglish
+P10970,Vivo T2,Smartphone,"Premium feel, budget-level performance. I am talking about the Vivo T2.",1,2025-05-28 17:30:00,R5825,English
+P10971,iPhone 15,Smartphone,Speaker quality is weak and distorted. My iPhone 15 experience was bad.,1,2025-01-03 01:18:00,R2168,Hinglish
+P10972,Vivo V27,Android Phone,"Top-class device, because waiting is now my new hobby. I am talking about the Vivo V27.",1,2025-11-30 09:22:00,R5959,Hinglish
+P10973,Poco X6 Pro,Android Phone,Gaming works really well without much heating. I liked the Poco X6 Pro.,5,2024-11-02 09:37:00,R1139,Hindi-English
+P10974,Samsung Galaxy A54,iOS Phone,Screen brightness is poor and hard to see outdoors. My Samsung Galaxy A54 experience was bad.,1,2024-06-01 13:34:00,R9399,Hinglish
+P10975,Motorola G84,Mobile Phone,Fingerprint sensor is fast and accurate. I liked the Motorola G84.,5,2025-08-24 18:51:00,R9451,Tamil-English
+P10976,iPhone 14,Android Phone,Screen brightness is poor and hard to see outdoors. My iPhone 14 experience was bad.,2,2025-03-15 23:49:00,R4077,Tamil-English
+P10977,Motorola Edge 40,Smartphone,The device heats up too much after short use. My Motorola Edge 40 experience was bad.,1,2024-05-22 19:42:00,R7139,Hinglish
+P10978,Motorola G84,Android Phone,Gaming works really well without much heating. I liked the Motorola G84.,5,2024-08-18 14:18:00,R6567,Tamil-English
+P10979,Vivo V27,Smartphone,"Overall, a very reliable and satisfying phone. I liked the Vivo V27.",5,2024-05-22 05:14:00,R1527,Hindi-English
+P10980,Oppo Reno 11,Mobile Phone,"The display is bright, clear, and enjoyable to use. I liked the Oppo Reno 11.",5,2024-03-06 18:14:00,R7400,Tamil-English
+P10981,iPhone 15,Android Phone,Performance is smooth and apps open quickly. I liked the iPhone 15.,4,2025-10-16 10:23:00,R8397,English
+P10982,Poco X6 Pro,Mobile Phone,Performance is smooth and apps open quickly. I liked the Poco X6 Pro.,4,2025-09-09 16:40:00,R1525,English
+P10983,iPhone 14,iOS Phone,Charging speed is slower than expected. My iPhone 14 experience was bad.,1,2024-07-29 07:57:00,R5650,Hindi-English
+P10984,Motorola Edge 40,Smartphone,Speaker quality is weak and distorted. My Motorola Edge 40 experience was bad.,2,2025-06-14 00:22:00,R7039,Hinglish
+P10985,Oppo Reno 11,Mobile Phone,Fingerprint sensor is fast and accurate. I liked the Oppo Reno 11.,4,2024-05-12 18:18:00,R2814,Tamil-English
+P10986,Oppo Reno 11,Mobile Phone,It keeps hanging and restarting randomly. My Oppo Reno 11 experience was bad.,1,2024-07-29 10:34:00,R3128,Tamil-English
+P10987,Realme GT 6,Mobile Phone,"Amazing phone, it freezes every time I open an app. I am talking about the Realme GT 6.",1,2025-04-14 09:24:00,R9232,Hinglish
+P10988,Motorola Edge 40,Smartphone,"Fantastic performance, as long as you do nothing at all. I am talking about the Motorola Edge 40.",2,2025-09-11 08:25:00,R7541,Hindi-English
+P10989,Motorola Edge 40,iOS Phone,Speaker quality is weak and distorted. My Motorola Edge 40 experience was bad.,2,2024-04-03 09:49:00,R1640,Tamil-English
+P10990,Oppo Reno 11,Mobile Phone,Fingerprint sensor is fast and accurate. I liked the Oppo Reno 11.,5,2024-09-12 06:07:00,R7800,Tamil-English
+P10991,Xiaomi 13 Pro,Smartphone,"Premium feel, budget-level performance. I am talking about the Xiaomi 13 Pro.",2,2024-02-14 08:10:00,R7447,Hinglish
+P10992,iPhone 14,Mobile Phone,The build quality feels premium and solid. I liked the iPhone 14.,4,2025-02-25 18:52:00,R9085,English
+P10993,iPhone 15,Android Phone,"The display is bright, clear, and enjoyable to use. I liked the iPhone 15.",4,2025-04-06 05:37:00,R7719,Hindi-English
+P10994,Motorola Edge 40,Smartphone,Gaming works really well without much heating. I liked the Motorola Edge 40.,5,2025-10-16 23:42:00,R2199,Tamil-English
+P10995,Oppo Reno 11,Mobile Phone,Camera quality is excellent and photos come out very sharp. I liked the Oppo Reno 11.,4,2024-02-08 00:21:00,R7499,Hindi-English
+P10996,Vivo V27,iOS Phone,"A brilliant screen, if you only use it indoors. I am talking about the Vivo V27.",1,2025-04-17 02:19:00,R8942,English
+P10997,Motorola Edge 40,Mobile Phone,Battery life is amazing and lasts all day easily. I liked the Motorola Edge 40.,4,2024-10-12 05:30:00,R8713,Hinglish
+P10998,Xiaomi 13 Pro,Android Phone,Camera quality is excellent and photos come out very sharp. I liked the Xiaomi 13 Pro.,4,2025-07-01 13:20:00,R3034,Hinglish
+P10999,Realme Narzo 60,Mobile Phone,Battery drains too fast and barely lasts half a day. My Realme Narzo 60 experience was bad.,1,2025-01-01 06:04:00,R8219,Hinglish

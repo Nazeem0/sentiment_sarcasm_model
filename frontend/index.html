@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sentiment Analysis Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="background-mesh"></div>
+    <div class="container">
+        <header>
+            <h1>AI Sentiment & Sarcasm Engine</h1>
+            <p>Upload your dataset to reveal positive, negative, and sarcastic trends.</p>
+        </header>
+
+        <main>
+            <section class="test-section glass-card">
+                <h2>Real-time Model Tester</h2>
+                <div class="test-input-group">
+                    <input type="text" id="test-input" placeholder="Type a review here (e.g., 'Amazing battery life!')">
+                    <button id="test-btn" class="btn-primary">Test Sentiment</button>
+                </div>
+                <div id="test-result" class="test-result hidden">
+                    <div class="result-content">
+                        <span id="result-label" class="label"></span>
+                        <span id="result-confidence" class="confidence"></span>
+                    </div>
+                </div>
+            </section>
+
+            <section class="upload-section glass-card" id="upload-section">
+                <div class="drop-zone" id="drop-zone">
+                    <svg class="upload-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M15 13l-3-3m0 0l-3 3m3-3v12" />
+                    </svg>
+                    <h2>Drag & Drop your CSV file here</h2>
+                    <p>or</p>
+                    <button class="btn-primary" onclick="document.getElementById('file-input').click()">Browse Files</button>
+                    <input type="file" id="file-input" accept=".csv" hidden>
+                </div>
+                <div id="loading" class="hidden">
+                    <div class="spinner"></div>
+                    <p>Processing dataset... This may take a moment.</p>
+                </div>
+            </section>
+
+            <section id="results-section" class="results-section hidden">
+                <div class="tabs">
+                    <button class="tab-btn active" data-target="positive">Positive <span class="badge positive-badge" id="pos-count">0</span></button>
+                    <button class="tab-btn" data-target="negative">Negative <span class="badge negative-badge" id="neg-count">0</span></button>
+                    <button class="tab-btn" data-target="sarcastic">Sarcastic <span class="badge sarcastic-badge" id="sarc-count">0</span></button>
+                </div>
+
+                <div class="tab-content glass-card">
+                    <div id="positive" class="tab-pane active">
+                        <ul class="data-list" id="pos-list"></ul>
+                    </div>
+                    <div id="negative" class="tab-pane hidden">
+                        <ul class="data-list" id="neg-list"></ul>
+                    </div>
+                    <div id="sarcastic" class="tab-pane hidden">
+                        <ul class="data-list" id="sarc-list"></ul>
+                    </div>
+                </div>
+                <div class="actions">
+                    <button class="btn-secondary" id="reset-btn">Upload Another Dataset</button>
+                </div>
+            </section>
+        </main>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
