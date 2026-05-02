@@ -1,4 +1,4 @@
-﻿# sentiment_sarcasm_model
+
 # Sentiment & Sarcasm Analysis System
 
 A modern, full-stack web application designed to classify sentiment (Positive, Negative) and detect Sarcasm in text data. This project features a Flask-powered backend using transformer-based models and a premium, responsive frontend for real-time interaction and batch processing.
